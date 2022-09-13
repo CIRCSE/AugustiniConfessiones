@@ -1,0 +1,3661 @@
+# sent_id = Augustinus_Confessiones_Liber2-1
+# text = recordari volo transactas foeditates meas et carnales corruptiones animae meae , non quod eas amem , sed ut amem te , deus meus .
+1	recordari	recordor	VERB	_	_	_	_	_	_
+2	volo	uolo	VERB	_	_	_	_	_	_
+3	transactas	transigo	VERB	_	_	_	_	_	_
+4	foeditates	foeditas	NOUN	_	_	_	_	_	_
+5	meas	meus	DET	_	_	_	_	_	_
+6	et	et	CCONJ	_	_	_	_	_	_
+7	carnales	carnalis	ADJ	_	_	_	_	_	_
+8	corruptiones	corruptio	NOUN	_	_	_	_	_	_
+9	animae	anima	NOUN	_	_	_	_	_	_
+10	meae	meus	DET	_	_	_	_	_	_
+11	,	,	PUNCT	_	_	_	_	_	_
+12	non	non	PART	_	_	_	_	_	_
+13	quod	quod	SCONJ	_	_	_	_	_	_
+14	eas	is	DET	_	_	_	_	_	_
+15	amem	amo	VERB	_	_	_	_	_	_
+16	,	,	PUNCT	_	_	_	_	_	_
+17	sed	sed	CCONJ	_	_	_	_	_	_
+18	ut	ut	SCONJ	_	_	_	_	_	_
+19	amem	amo	VERB	_	_	_	_	_	_
+20	te	tu	PRON	_	_	_	_	_	_
+21	,	,	PUNCT	_	_	_	_	_	_
+22	deus	deus	NOUN	_	_	_	_	_	_
+23	meus	meus	DET	_	_	_	_	_	_
+24	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-2
+# text = amore amoris tui facio istuc , recolens vias meas nequissimas in amaritudine recogitationis meae , ut tu dulcescas mihi , dulcedo non fallax , dulcedo felix et secura , et conligens me a dispersione , in qua frustatim discissus sum dum ab uno te aversus in multa evanui .
+1	amore	amor	NOUN	_	_	_	_	_	_
+2	amoris	amor	NOUN	_	_	_	_	_	_
+3	tui	tuus	DET	_	_	_	_	_	_
+4	facio	facio	VERB	_	_	_	_	_	_
+5	istuc	istuc	ADV	_	_	_	_	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7	recolens	recolo	VERB	_	_	_	_	_	_
+8	vias	uia	NOUN	_	_	_	_	_	_
+9	meas	meus	DET	_	_	_	_	_	_
+10	nequissimas	nequissimus	ADJ	_	_	_	_	_	_
+11	in	in	ADP	_	_	_	_	_	_
+12	amaritudine	amaritudo	NOUN	_	_	_	_	_	_
+13	recogitationis	recogitatio	NOUN	_	_	_	_	_	_
+14	meae	meus	DET	_	_	_	_	_	_
+15	,	,	PUNCT	_	_	_	_	_	_
+16	ut	ut	SCONJ	_	_	_	_	_	_
+17	tu	tu	PRON	_	_	_	_	_	_
+18	dulcescas	dulcesco	VERB	_	_	_	_	_	_
+19	mihi	ego	PRON	_	_	_	_	_	_
+20	,	,	PUNCT	_	_	_	_	_	_
+21	dulcedo	dulcedo	NOUN	_	_	_	_	_	_
+22	non	non	PART	_	_	_	_	_	_
+23	fallax	fallax	ADJ	_	_	_	_	_	_
+24	,	,	PUNCT	_	_	_	_	_	_
+25	dulcedo	dulcedo	NOUN	_	_	_	_	_	_
+26	felix	felix	ADJ	_	_	_	_	_	_
+27	et	et	CCONJ	_	_	_	_	_	_
+28	secura	securus	ADJ	_	_	_	_	_	_
+29	,	,	PUNCT	_	_	_	_	_	_
+30	et	et	CCONJ	_	_	_	_	_	_
+31	conligens	colligo	VERB	_	_	_	_	_	_
+32	me	ego	PRON	_	_	_	_	_	_
+33	a	ab	ADP	_	_	_	_	_	_
+34	dispersione	dispersio	NOUN	_	_	_	_	_	_
+35	,	,	PUNCT	_	_	_	_	_	_
+36	in	in	ADP	_	_	_	_	_	_
+37	qua	qui	PRON	_	_	_	_	_	_
+38	frustatim	frustratim	ADV	_	_	_	_	_	_
+39	discissus	discindo	VERB	_	_	_	_	_	_
+40	sum	sum	AUX	_	_	_	_	_	_
+41	dum	dum	ADV	_	_	_	_	_	_
+42	ab	ab	ADP	_	_	_	_	_	_
+43	uno	unus	DET	_	_	_	_	_	_
+44	te	tu	PRON	_	_	_	_	_	_
+45	aversus	auerto	VERB	_	_	_	_	_	_
+46	in	in	ADP	_	_	_	_	_	_
+47	multa	multus	DET	_	_	_	_	_	_
+48	evanui	euanesco	VERB	_	_	_	_	_	_
+49	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-3
+# text = exarsi enim aliquando satiari inferis in adulescentia , et silvescere ausus sum variis et umbrosis amoribus , et contabuit species mea , et computrui coram oculis tuis placens mihi et placere cupiens oculis hominum .
+1	exarsi	exardesco	VERB	_	_	_	_	_	_
+2	enim	enim	ADV	_	_	_	_	_	_
+3	aliquando	aliquando	ADV	_	_	_	_	_	_
+4	satiari	satio	VERB	_	_	_	_	_	_
+5	inferis	inferus	ADJ	_	_	_	_	_	_
+6	in	in	ADP	_	_	_	_	_	_
+7	adulescentia	adulescentia	NOUN	_	_	_	_	_	_
+8	,	,	PUNCT	_	_	_	_	_	_
+9	et	et	CCONJ	_	_	_	_	_	_
+10	silvescere	siluesco	VERB	_	_	_	_	_	_
+11	ausus	audeo	VERB	_	_	_	_	_	_
+12	sum	sum	AUX	_	_	_	_	_	_
+13	variis	uarius	ADJ	_	_	_	_	_	_
+14	et	et	CCONJ	_	_	_	_	_	_
+15	umbrosis	umbrosus	ADJ	_	_	_	_	_	_
+16	amoribus	amor	NOUN	_	_	_	_	_	_
+17	,	,	PUNCT	_	_	_	_	_	_
+18	et	et	CCONJ	_	_	_	_	_	_
+19	contabuit	contabesco	VERB	_	_	_	_	_	_
+20	species	species	NOUN	_	_	_	_	_	_
+21	mea	meus	DET	_	_	_	_	_	_
+22	,	,	PUNCT	_	_	_	_	_	_
+23	et	et	CCONJ	_	_	_	_	_	_
+24	computrui	computresco	VERB	_	_	_	_	_	_
+25	coram	coram	ADP	_	_	_	_	_	_
+26	oculis	oculus	NOUN	_	_	_	_	_	_
+27	tuis	tuus	DET	_	_	_	_	_	_
+28	placens	placeo	VERB	_	_	_	_	_	_
+29	mihi	ego	PRON	_	_	_	_	_	_
+30	et	et	CCONJ	_	_	_	_	_	_
+31	placere	placeo	VERB	_	_	_	_	_	_
+32	cupiens	cupio	VERB	_	_	_	_	_	_
+33	oculis	oculus	NOUN	_	_	_	_	_	_
+34	hominum	homo	NOUN	_	_	_	_	_	_
+35	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-4
+# text = et quid erat quod me delectabat , nisi amare et amari ?
+1	et	et	CCONJ	_	_	_	_	_	_
+2	quid	quis	PRON	_	_	_	_	_	_
+3	erat	sum	AUX	_	_	_	_	_	_
+4	quod	qui	PRON	_	_	_	_	_	_
+5	me	ego	PRON	_	_	_	_	_	_
+6	delectabat	delecto	VERB	_	_	_	_	_	_
+7	,	,	PUNCT	_	_	_	_	_	_
+8	nisi	nisi	SCONJ	_	_	_	_	_	_
+9	amare	amo	VERB	_	_	_	_	_	_
+10	et	et	CCONJ	_	_	_	_	_	_
+11	amari	amo	VERB	_	_	_	_	_	_
+12	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-5
+# text = sed non tenebatur modus ab animo usque ad animum quatenus est luminosus limes amicitiae , sed exhalabantur nebulae de limosa concupiscentia carnis et scatebra pubertatis , et obnubilabant atque obfuscabant cor meum , ut non discerneretur serenitas dilectionis a caligine libidinis .
+1	sed	sed	CCONJ	_	_	_	_	_	_
+2	non	non	PART	_	_	_	_	_	_
+3	tenebatur	teneo	VERB	_	_	_	_	_	_
+4	modus	modus	NOUN	_	_	_	_	_	_
+5	ab	ab	ADP	_	_	_	_	_	_
+6	animo	animus	NOUN	_	_	_	_	_	_
+7	usque	usque	ADV	_	_	_	_	_	_
+8	ad	ad	ADP	_	_	_	_	_	_
+9	animum	animus	NOUN	_	_	_	_	_	_
+10	quatenus	quatenus	ADV	_	_	_	_	_	_
+11	est	sum	AUX	_	_	_	_	_	_
+12	luminosus	luminosus	ADJ	_	_	_	_	_	_
+13	limes	limes	NOUN	_	_	_	_	_	_
+14	amicitiae	amicitia	NOUN	_	_	_	_	_	_
+15	,	,	PUNCT	_	_	_	_	_	_
+16	sed	sed	CCONJ	_	_	_	_	_	_
+17	exhalabantur	exhalo	VERB	_	_	_	_	_	_
+18	nebulae	nebula	NOUN	_	_	_	_	_	_
+19	de	de	ADP	_	_	_	_	_	_
+20	limosa	limosus	ADJ	_	_	_	_	_	_
+21	concupiscentia	concupiscentia	NOUN	_	_	_	_	_	_
+22	carnis	caro	NOUN	_	_	_	_	_	_
+23	et	et	CCONJ	_	_	_	_	_	_
+24	scatebra	scatebra	NOUN	_	_	_	_	_	_
+25	pubertatis	pubertas	NOUN	_	_	_	_	_	_
+26	,	,	PUNCT	_	_	_	_	_	_
+27	et	et	CCONJ	_	_	_	_	_	_
+28	obnubilabant	obnubilo	VERB	_	_	_	_	_	_
+29	atque	atque	CCONJ	_	_	_	_	_	_
+30	obfuscabant	offusco	VERB	_	_	_	_	_	_
+31	cor	cor	NOUN	_	_	_	_	_	_
+32	meum	meus	DET	_	_	_	_	_	_
+33	,	,	PUNCT	_	_	_	_	_	_
+34	ut	ut	SCONJ	_	_	_	_	_	_
+35	non	non	PART	_	_	_	_	_	_
+36	discerneretur	discerno	VERB	_	_	_	_	_	_
+37	serenitas	serenitas	NOUN	_	_	_	_	_	_
+38	dilectionis	dilectio	NOUN	_	_	_	_	_	_
+39	a	ab	ADP	_	_	_	_	_	_
+40	caligine	caligo	NOUN	_	_	_	_	_	_
+41	libidinis	libido	NOUN	_	_	_	_	_	_
+42	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-6
+# text = utrumque in confuso aestuabat et rapiebat inbecillam aetatem per abrupta cupiditatum atque mersabat gurgite flagitiorum .
+1	utrumque	uterque	DET	_	_	_	_	_	_
+2	in	in	ADP	_	_	_	_	_	_
+3	confuso	confusus	ADJ	_	_	_	_	_	_
+4	aestuabat	aestuo	VERB	_	_	_	_	_	_
+5	et	et	CCONJ	_	_	_	_	_	_
+6	rapiebat	rapio	VERB	_	_	_	_	_	_
+7	inbecillam	imbecillus	ADJ	_	_	_	_	_	_
+8	aetatem	aetas	NOUN	_	_	_	_	_	_
+9	per	per	ADP	_	_	_	_	_	_
+10	abrupta	abrumpo	VERB	_	_	_	_	_	_
+11	cupiditatum	cupiditas	NOUN	_	_	_	_	_	_
+12	atque	atque	CCONJ	_	_	_	_	_	_
+13	mersabat	mergo	VERB	_	_	_	_	_	_
+14	gurgite	gurges	NOUN	_	_	_	_	_	_
+15	flagitiorum	flagitium	NOUN	_	_	_	_	_	_
+16	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-7
+# text = invaluerat super me ira tua , et nesciebam .
+1	invaluerat	inualesco	VERB	_	_	_	_	_	_
+2	super	super	ADP	_	_	_	_	_	_
+3	me	ego	PRON	_	_	_	_	_	_
+4	ira	ira	NOUN	_	_	_	_	_	_
+5	tua	tuus	DET	_	_	_	_	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7	et	et	CCONJ	_	_	_	_	_	_
+8	nesciebam	nescio	VERB	_	_	_	_	_	_
+9	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-8
+# text = obsurdueram stridore catenae mortalitatis meae , poena superbiae animae meae , et ibam longius a te et sinebas , et iactabar et effundebar et diffluebam et ebulliebam per fornicationes meas , et tacebas .
+1	obsurdueram	obsurdesco	VERB	_	_	_	_	_	_
+2	stridore	stridor	NOUN	_	_	_	_	_	_
+3	catenae	catena	NOUN	_	_	_	_	_	_
+4	mortalitatis	mortalitas	NOUN	_	_	_	_	_	_
+5	meae	meus	DET	_	_	_	_	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7	poena	poena	NOUN	_	_	_	_	_	_
+8	superbiae	superbia	NOUN	_	_	_	_	_	_
+9	animae	anima	NOUN	_	_	_	_	_	_
+10	meae	meus	DET	_	_	_	_	_	_
+11	,	,	PUNCT	_	_	_	_	_	_
+12	et	et	CCONJ	_	_	_	_	_	_
+13	ibam	eo	VERB	_	_	_	_	_	_
+14	longius	longe	ADV	_	_	_	_	_	_
+15	a	ab	ADP	_	_	_	_	_	_
+16	te	tu	PRON	_	_	_	_	_	_
+17	et	et	CCONJ	_	_	_	_	_	_
+18	sinebas	sino	VERB	_	_	_	_	_	_
+19	,	,	PUNCT	_	_	_	_	_	_
+20	et	et	CCONJ	_	_	_	_	_	_
+21	iactabar	iacto	VERB	_	_	_	_	_	_
+22	et	et	CCONJ	_	_	_	_	_	_
+23	effundebar	effundo	VERB	_	_	_	_	_	_
+24	et	et	CCONJ	_	_	_	_	_	_
+25	diffluebam	diffluo	VERB	_	_	_	_	_	_
+26	et	et	CCONJ	_	_	_	_	_	_
+27	ebulliebam	ebullio	VERB	_	_	_	_	_	_
+28	per	per	ADP	_	_	_	_	_	_
+29	fornicationes	fornicatio	NOUN	_	_	_	_	_	_
+30	meas	meus	DET	_	_	_	_	_	_
+31	,	,	PUNCT	_	_	_	_	_	_
+32	et	et	CCONJ	_	_	_	_	_	_
+33	tacebas	taceo	VERB	_	_	_	_	_	_
+34	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-9
+# text = o tardum gaudium meum !
+1	o	o	INTJ	_	_	_	_	_	_
+2	tardum	tardus	ADJ	_	_	_	_	_	_
+3	gaudium	gaudium	NOUN	_	_	_	_	_	_
+4	meum	meus	DET	_	_	_	_	_	_
+5	!	!	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-10
+# text = tacebas tunc , et ego ibam porro longe a te in plura et plura sterilia semina dolorum superba deiectione et inquieta lassitudine .
+1	tacebas	taceo	VERB	_	_	_	_	_	_
+2	tunc	tunc	ADV	_	_	_	_	_	_
+3	,	,	PUNCT	_	_	_	_	_	_
+4	et	et	CCONJ	_	_	_	_	_	_
+5	ego	ego	PRON	_	_	_	_	_	_
+6	ibam	eo	VERB	_	_	_	_	_	_
+7	porro	porro	ADV	_	_	_	_	_	_
+8	longe	longe	ADV	_	_	_	_	_	_
+9	a	ab	ADP	_	_	_	_	_	_
+10	te	tu	PRON	_	_	_	_	_	_
+11	in	in	ADP	_	_	_	_	_	_
+12	plura	multus	DET	_	_	_	_	_	_
+13	et	et	CCONJ	_	_	_	_	_	_
+14	plura	multus	DET	_	_	_	_	_	_
+15	sterilia	sterilis	ADJ	_	_	_	_	_	_
+16	semina	semen	NOUN	_	_	_	_	_	_
+17	dolorum	dolor	NOUN	_	_	_	_	_	_
+18	superba	superbus	ADJ	_	_	_	_	_	_
+19	deiectione	deiectio	NOUN	_	_	_	_	_	_
+20	et	et	CCONJ	_	_	_	_	_	_
+21	inquieta	inquietus	ADJ	_	_	_	_	_	_
+22	lassitudine	lassitudo	NOUN	_	_	_	_	_	_
+23	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-12
+# text = quis mihi modularetur aerumnam meam et novissimarum rerum fugaces pulchritudines in usum verteret earumque suavitatibus metas praefigeret , ut usque ad coniugale litus exaestuarent fluctus aetatis meae ?
+1	quis	quis	PRON	_	_	_	_	_	_
+2	mihi	ego	PRON	_	_	_	_	_	_
+3	modularetur	modulor	VERB	_	_	_	_	_	_
+4	aerumnam	aerumna	NOUN	_	_	_	_	_	_
+5	meam	meus	DET	_	_	_	_	_	_
+6	et	et	CCONJ	_	_	_	_	_	_
+7	novissimarum	nouus	ADJ	_	_	_	_	_	_
+8	rerum	res	NOUN	_	_	_	_	_	_
+9	fugaces	fugax	ADJ	_	_	_	_	_	_
+10	pulchritudines	pulchritudo	NOUN	_	_	_	_	_	_
+11	in	in	ADP	_	_	_	_	_	_
+12	usum	usus	NOUN	_	_	_	_	_	_
+13	verteret	uerto	VERB	_	_	_	_	_	_
+14	earumque	is	DET	_	_	_	_	_	_
+15	suavitatibus	suauitas	NOUN	_	_	_	_	_	_
+16	metas	meta	NOUN	_	_	_	_	_	_
+17	praefigeret	praefigo	VERB	_	_	_	_	_	_
+18	,	,	PUNCT	_	_	_	_	_	_
+19	ut	ut	SCONJ	_	_	_	_	_	_
+20	usque	usque	ADV	_	_	_	_	_	_
+21	ad	ad	ADP	_	_	_	_	_	_
+22	coniugale	coniugalis	ADJ	_	_	_	_	_	_
+23	litus	litus	NOUN	_	_	_	_	_	_
+24	exaestuarent	exaestuo	VERB	_	_	_	_	_	_
+25	fluctus	fluctus	NOUN	_	_	_	_	_	_
+26	aetatis	aetas	NOUN	_	_	_	_	_	_
+27	meae	meus	DET	_	_	_	_	_	_
+28	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-13
+# text = si tranquillitas in eis non poterat esse fine procreandorum liberorum contenta ( sicut praescribit lex tua , domine , qui formas etiam propaginem mortis nostrae , potens imponere lenem manum ad temperamentum spinarum a paradiso tuo seclusarum ";" non enim longe est a nobis omnipotentia tua , etiam cum longe sumus a te ) _ aut certe sonitum nubium tuarum vigilantius adverterem : ' tribulationem autem carnis habebunt huius modi ";" ego autem vobis parco ' ";" et ' bonum est homini mulierem non tangere ' ";" et ' qui sine uxore est , cogitat ea quae sunt dei , quomodo placeat deo ";" qui autem matrimonio iunctus est , cogitat ea quae sunt mundi , quomodo placeat uxori . '
+1	si	si	SCONJ	_	_	_	_	_	_
+2	tranquillitas	tranquillitas	NOUN	_	_	_	_	_	_
+3	in	in	ADP	_	_	_	_	_	_
+4	eis	is	DET	_	_	_	_	_	_
+5	non	non	PART	_	_	_	_	_	_
+6	poterat	possum	VERB	_	_	_	_	_	_
+7	esse	sum	AUX	_	_	_	_	_	_
+8	fine	finis	NOUN	_	_	_	_	_	_
+9	procreandorum	procreo	VERB	_	_	_	_	_	_
+10	liberorum	liberi	NOUN	_	_	_	_	_	_
+11	contenta	contentus	ADJ	_	_	_	_	_	_
+12	(	(	PUNCT	_	_	_	_	_	_
+13	sicut	sicut	SCONJ	_	_	_	_	_	_
+14	praescribit	praescribo	VERB	_	_	_	_	_	_
+15	lex	lex	NOUN	_	_	_	_	_	_
+16	tua	tuus	DET	_	_	_	_	_	_
+17	,	,	PUNCT	_	_	_	_	_	_
+18	domine	dominus	NOUN	_	_	_	_	_	_
+19	,	,	PUNCT	_	_	_	_	_	_
+20	qui	qui	PRON	_	_	_	_	_	_
+21	formas	formo	VERB	_	_	_	_	_	_
+22	etiam	etiam	ADV	_	_	_	_	_	_
+23	propaginem	propago	NOUN	_	_	_	_	_	_
+24	mortis	mors	NOUN	_	_	_	_	_	_
+25	nostrae	noster	DET	_	_	_	_	_	_
+26	,	,	PUNCT	_	_	_	_	_	_
+27	potens	potens	ADJ	_	_	_	_	_	_
+28	imponere	impono	VERB	_	_	_	_	_	_
+29	lenem	lenis	ADJ	_	_	_	_	_	_
+30	manum	manus	NOUN	_	_	_	_	_	_
+31	ad	ad	ADP	_	_	_	_	_	_
+32	temperamentum	temperamentum	NOUN	_	_	_	_	_	_
+33	spinarum	spina	NOUN	_	_	_	_	_	_
+34	a	ab	ADP	_	_	_	_	_	_
+35	paradiso	paradisus	NOUN	_	_	_	_	_	_
+36	tuo	tuus	DET	_	_	_	_	_	_
+37	seclusarum	secludo	VERB	_	_	_	_	_	_
+38	";"	";"	PUNCT	_	_	_	_	_	_
+39	non	non	PART	_	_	_	_	_	_
+40	enim	enim	ADV	_	_	_	_	_	_
+41	longe	longe	ADV	_	_	_	_	_	_
+42	est	sum	AUX	_	_	_	_	_	_
+43	a	ab	ADP	_	_	_	_	_	_
+44	nobis	nos	PRON	_	_	_	_	_	_
+45	omnipotentia	omnipotentia	NOUN	_	_	_	_	_	_
+46	tua	tuus	DET	_	_	_	_	_	_
+47	,	,	PUNCT	_	_	_	_	_	_
+48	etiam	etiam	ADV	_	_	_	_	_	_
+49	cum	cum	ADV	_	_	_	_	_	_
+50	longe	longe	ADV	_	_	_	_	_	_
+51	sumus	sum	AUX	_	_	_	_	_	_
+52	a	ab	ADP	_	_	_	_	_	_
+53	te	tu	PRON	_	_	_	_	_	_
+54	)	)	PUNCT	_	_	_	_	_	_
+55	_	_	PUNCT	_	_	_	_	_	_
+56	aut	aut	CCONJ	_	_	_	_	_	_
+57	certe	certe	ADV	_	_	_	_	_	_
+58	sonitum	sonitus	NOUN	_	_	_	_	_	_
+59	nubium	nubes	NOUN	_	_	_	_	_	_
+60	tuarum	tuus	DET	_	_	_	_	_	_
+61	vigilantius	uigilanter	ADV	_	_	_	_	_	_
+62	adverterem	aduerto	VERB	_	_	_	_	_	_
+63	:	:	PUNCT	_	_	_	_	_	_
+64	'	'	PUNCT	_	_	_	_	_	_
+65	tribulationem	tribulatio	NOUN	_	_	_	_	_	_
+66	autem	autem	CCONJ	_	_	_	_	_	_
+67	carnis	caro	NOUN	_	_	_	_	_	_
+68	habebunt	habeo	VERB	_	_	_	_	_	_
+69	huius	hic	DET	_	_	_	_	_	_
+70	modi	modus	NOUN	_	_	_	_	_	_
+71	";"	";"	PUNCT	_	_	_	_	_	_
+72	ego	ego	PRON	_	_	_	_	_	_
+73	autem	autem	CCONJ	_	_	_	_	_	_
+74	vobis	uos	PRON	_	_	_	_	_	_
+75	parco	parco	VERB	_	_	_	_	_	_
+76	'	'	PUNCT	_	_	_	_	_	_
+77	";"	";"	PUNCT	_	_	_	_	_	_
+78	et	et	CCONJ	_	_	_	_	_	_
+79	'	'	PUNCT	_	_	_	_	_	_
+80	bonum	bonus	ADJ	_	_	_	_	_	_
+81	est	sum	AUX	_	_	_	_	_	_
+82	homini	homo	NOUN	_	_	_	_	_	_
+83	mulierem	mulier	NOUN	_	_	_	_	_	_
+84	non	non	PART	_	_	_	_	_	_
+85	tangere	tango	VERB	_	_	_	_	_	_
+86	'	'	PUNCT	_	_	_	_	_	_
+87	";"	";"	PUNCT	_	_	_	_	_	_
+88	et	et	CCONJ	_	_	_	_	_	_
+89	'	'	PUNCT	_	_	_	_	_	_
+90	qui	qui	PRON	_	_	_	_	_	_
+91	sine	sine	ADP	_	_	_	_	_	_
+92	uxore	uxor	NOUN	_	_	_	_	_	_
+93	est	sum	AUX	_	_	_	_	_	_
+94	,	,	PUNCT	_	_	_	_	_	_
+95	cogitat	cogito	VERB	_	_	_	_	_	_
+96	ea	is	DET	_	_	_	_	_	_
+97	quae	qui	PRON	_	_	_	_	_	_
+98	sunt	sum	AUX	_	_	_	_	_	_
+99	dei	deus	NOUN	_	_	_	_	_	_
+100	,	,	PUNCT	_	_	_	_	_	_
+101	quomodo	quomodo	ADV	_	_	_	_	_	_
+102	placeat	placeo	VERB	_	_	_	_	_	_
+103	deo	deus	NOUN	_	_	_	_	_	_
+104	";"	";"	PUNCT	_	_	_	_	_	_
+105	qui	qui	PRON	_	_	_	_	_	_
+106	autem	autem	CCONJ	_	_	_	_	_	_
+107	matrimonio	matrimonium	NOUN	_	_	_	_	_	_
+108	iunctus	iungo	VERB	_	_	_	_	_	_
+109	est	sum	AUX	_	_	_	_	_	_
+110	,	,	PUNCT	_	_	_	_	_	_
+111	cogitat	cogito	VERB	_	_	_	_	_	_
+112	ea	is	DET	_	_	_	_	_	_
+113	quae	qui	PRON	_	_	_	_	_	_
+114	sunt	sum	AUX	_	_	_	_	_	_
+115	mundi	mundus	NOUN	_	_	_	_	_	_
+116	,	,	PUNCT	_	_	_	_	_	_
+117	quomodo	quomodo	ADV	_	_	_	_	_	_
+118	placeat	placeo	VERB	_	_	_	_	_	_
+119	uxori	uxor	NOUN	_	_	_	_	_	_
+120	.	.	PUNCT	_	_	_	_	_	_
+121	'	'	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-14
+# text = has ergo voces exaudirem vigilantior , et abscisus propter regnum caelorum felicior expectarem amplexus tuos .
+1	has	hic	DET	_	_	_	_	_	_
+2	ergo	ergo	PART	_	_	_	_	_	_
+3	voces	uox	NOUN	_	_	_	_	_	_
+4	exaudirem	exaudio	VERB	_	_	_	_	_	_
+5	vigilantior	uigilans	ADJ	_	_	_	_	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7	et	et	CCONJ	_	_	_	_	_	_
+8	abscisus	abscido	VERB	_	_	_	_	_	_
+9	propter	propter	ADP	_	_	_	_	_	_
+10	regnum	regnum	NOUN	_	_	_	_	_	_
+11	caelorum	caelum	NOUN	_	_	_	_	_	_
+12	felicior	felix	ADJ	_	_	_	_	_	_
+13	expectarem	expecto	VERB	_	_	_	_	_	_
+14	amplexus	amplexus	NOUN	_	_	_	_	_	_
+15	tuos	tuus	DET	_	_	_	_	_	_
+16	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-15
+# text = sed efferbui miser , sequens impetum fluxus mei relicto te , et excessi omnia legitima tua nec evasi flagella tua :
+1	sed	sed	CCONJ	_	_	_	_	_	_
+2	efferbui	efferuesco	VERB	_	_	_	_	_	_
+3	miser	miser	ADJ	_	_	_	_	_	_
+4	,	,	PUNCT	_	_	_	_	_	_
+5	sequens	sequor	VERB	_	_	_	_	_	_
+6	impetum	impetus	NOUN	_	_	_	_	_	_
+7	fluxus	fluxus	NOUN	_	_	_	_	_	_
+8	mei	meus	DET	_	_	_	_	_	_
+9	relicto	relinquo	VERB	_	_	_	_	_	_
+10	te	tu	PRON	_	_	_	_	_	_
+11	,	,	PUNCT	_	_	_	_	_	_
+12	et	et	CCONJ	_	_	_	_	_	_
+13	excessi	excedo	VERB	_	_	_	_	_	_
+14	omnia	omnis	DET	_	_	_	_	_	_
+15	legitima	legitimus	ADJ	_	_	_	_	_	_
+16	tua	tuus	DET	_	_	_	_	_	_
+17	nec	neque	CCONJ	_	_	_	_	_	_
+18	evasi	euado	VERB	_	_	_	_	_	_
+19	flagella	flagellum	NOUN	_	_	_	_	_	_
+20	tua	tuus	DET	_	_	_	_	_	_
+21	:	:	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-16
+# text = quis enim hoc mortalium ?
+1	quis	quis	PRON	_	_	_	_	_	_
+2	enim	enim	ADV	_	_	_	_	_	_
+3	hoc	hic	DET	_	_	_	_	_	_
+4	mortalium	mortalis	ADJ	_	_	_	_	_	_
+5	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-17
+# text = nam tu semper aderas misericorditer saeviens , et amarissimis aspergens offensionibus omnes inlicitas iucunditates meas , ut ita quaererem sine offensione iucundari , et ubi hoc possem , non invenirem quicquam praeter te , domine , praeter te , qui fingis dolorem in praecepto et percutis ut sanes et occidis nos ne moriamur abs te .
+1	nam	nam	ADV	_	_	_	_	_	_
+2	tu	tu	PRON	_	_	_	_	_	_
+3	semper	semper	ADV	_	_	_	_	_	_
+4	aderas	adsum	VERB	_	_	_	_	_	_
+5	misericorditer	misericorditer	ADV	_	_	_	_	_	_
+6	saeviens	saeuio	VERB	_	_	_	_	_	_
+7	,	,	PUNCT	_	_	_	_	_	_
+8	et	et	CCONJ	_	_	_	_	_	_
+9	amarissimis	amarus	ADJ	_	_	_	_	_	_
+10	aspergens	aspergo	VERB	_	_	_	_	_	_
+11	offensionibus	offensio	NOUN	_	_	_	_	_	_
+12	omnes	omnis	DET	_	_	_	_	_	_
+13	inlicitas	illicitus	ADJ	_	_	_	_	_	_
+14	iucunditates	iucunditas	NOUN	_	_	_	_	_	_
+15	meas	meus	DET	_	_	_	_	_	_
+16	,	,	PUNCT	_	_	_	_	_	_
+17	ut	ut	SCONJ	_	_	_	_	_	_
+18	ita	ita	ADV	_	_	_	_	_	_
+19	quaererem	quaero	VERB	_	_	_	_	_	_
+20	sine	sine	ADP	_	_	_	_	_	_
+21	offensione	offensio	NOUN	_	_	_	_	_	_
+22	iucundari	iucundo	VERB	_	_	_	_	_	_
+23	,	,	PUNCT	_	_	_	_	_	_
+24	et	et	CCONJ	_	_	_	_	_	_
+25	ubi	ubi	ADV	_	_	_	_	_	_
+26	hoc	hic	DET	_	_	_	_	_	_
+27	possem	possum	VERB	_	_	_	_	_	_
+28	,	,	PUNCT	_	_	_	_	_	_
+29	non	non	PART	_	_	_	_	_	_
+30	invenirem	inuenio	VERB	_	_	_	_	_	_
+31	quicquam	quisquam	PRON	_	_	_	_	_	_
+32	praeter	praeter	ADP	_	_	_	_	_	_
+33	te	tu	PRON	_	_	_	_	_	_
+34	,	,	PUNCT	_	_	_	_	_	_
+35	domine	dominus	NOUN	_	_	_	_	_	_
+36	,	,	PUNCT	_	_	_	_	_	_
+37	praeter	praeter	ADP	_	_	_	_	_	_
+38	te	tu	PRON	_	_	_	_	_	_
+39	,	,	PUNCT	_	_	_	_	_	_
+40	qui	qui	PRON	_	_	_	_	_	_
+41	fingis	fingo	VERB	_	_	_	_	_	_
+42	dolorem	dolor	NOUN	_	_	_	_	_	_
+43	in	in	ADP	_	_	_	_	_	_
+44	praecepto	praeceptum	NOUN	_	_	_	_	_	_
+45	et	et	CCONJ	_	_	_	_	_	_
+46	percutis	percutio	VERB	_	_	_	_	_	_
+47	ut	ut	SCONJ	_	_	_	_	_	_
+48	sanes	sano	VERB	_	_	_	_	_	_
+49	et	et	CCONJ	_	_	_	_	_	_
+50	occidis	occido	VERB	_	_	_	_	_	_
+51	nos	nos	PRON	_	_	_	_	_	_
+52	ne	ne	SCONJ	_	_	_	_	_	_
+53	moriamur	morior	VERB	_	_	_	_	_	_
+54	abs	ab	ADP	_	_	_	_	_	_
+55	te	tu	PRON	_	_	_	_	_	_
+56	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-18
+# text = ubi eram ?
+1	ubi	ubi	ADV	_	_	_	_	_	_
+2	eram	sum	AUX	_	_	_	_	_	_
+3	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-19
+# text = et quam longe exulabam a deliciis domus tuae anno illo sexto decimo aetatis carnis meae , cum accepit in me sceptrum ( et totas manus ei dedi ) vesania libidinis , licentiosae per dedecus humanum , inlicitae autem per leges tuas ?
+1	et	et	CCONJ	_	_	_	_	_	_
+2	quam	quam	SCONJ	_	_	_	_	_	_
+3	longe	longe	ADV	_	_	_	_	_	_
+4	exulabam	exulo	VERB	_	_	_	_	_	_
+5	a	ab	ADP	_	_	_	_	_	_
+6	deliciis	delicia	NOUN	_	_	_	_	_	_
+7	domus	domus	NOUN	_	_	_	_	_	_
+8	tuae	tuus	DET	_	_	_	_	_	_
+9	anno	annus	NOUN	_	_	_	_	_	_
+10	illo	ille	DET	_	_	_	_	_	_
+11	sexto	sextus	ADJ	_	_	_	_	_	_
+12	decimo	decimus	ADJ	_	_	_	_	_	_
+13	aetatis	aetas	NOUN	_	_	_	_	_	_
+14	carnis	caro	NOUN	_	_	_	_	_	_
+15	meae	meus	DET	_	_	_	_	_	_
+16	,	,	PUNCT	_	_	_	_	_	_
+17	cum	cum	ADV	_	_	_	_	_	_
+18	accepit	accipio	VERB	_	_	_	_	_	_
+19	in	in	ADP	_	_	_	_	_	_
+20	me	ego	PRON	_	_	_	_	_	_
+21	sceptrum	sceptrum	NOUN	_	_	_	_	_	_
+22	(	(	PUNCT	_	_	_	_	_	_
+23	et	et	CCONJ	_	_	_	_	_	_
+24	totas	totus	DET	_	_	_	_	_	_
+25	manus	manus	NOUN	_	_	_	_	_	_
+26	ei	is	DET	_	_	_	_	_	_
+27	dedi	do	VERB	_	_	_	_	_	_
+28	)	)	PUNCT	_	_	_	_	_	_
+29	vesania	uesania	NOUN	_	_	_	_	_	_
+30	libidinis	libido	NOUN	_	_	_	_	_	_
+31	,	,	PUNCT	_	_	_	_	_	_
+32	licentiosae	licentiosus	ADJ	_	_	_	_	_	_
+33	per	per	ADP	_	_	_	_	_	_
+34	dedecus	dedecus	NOUN	_	_	_	_	_	_
+35	humanum	humanus	ADJ	_	_	_	_	_	_
+36	,	,	PUNCT	_	_	_	_	_	_
+37	inlicitae	illicitus	ADJ	_	_	_	_	_	_
+38	autem	autem	CCONJ	_	_	_	_	_	_
+39	per	per	ADP	_	_	_	_	_	_
+40	leges	lex	NOUN	_	_	_	_	_	_
+41	tuas	tuus	DET	_	_	_	_	_	_
+42	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-20
+# text = non fuit cura meorum ruentem excipere me matrimonio , sed cura fuit tantum ut discerem sermonem facere quam optimum et persuadere dictione .
+1	non	non	PART	_	_	_	_	_	_
+2	fuit	sum	AUX	_	_	_	_	_	_
+3	cura	cura	NOUN	_	_	_	_	_	_
+4	meorum	meus	DET	_	_	_	_	_	_
+5	ruentem	ruo	VERB	_	_	_	_	_	_
+6	excipere	excipio	VERB	_	_	_	_	_	_
+7	me	ego	PRON	_	_	_	_	_	_
+8	matrimonio	matrimonium	NOUN	_	_	_	_	_	_
+9	,	,	PUNCT	_	_	_	_	_	_
+10	sed	sed	CCONJ	_	_	_	_	_	_
+11	cura	cura	NOUN	_	_	_	_	_	_
+12	fuit	sum	AUX	_	_	_	_	_	_
+13	tantum	tantum	ADV	_	_	_	_	_	_
+14	ut	ut	SCONJ	_	_	_	_	_	_
+15	discerem	disco	VERB	_	_	_	_	_	_
+16	sermonem	sermo	NOUN	_	_	_	_	_	_
+17	facere	facio	VERB	_	_	_	_	_	_
+18	quam	quam	SCONJ	_	_	_	_	_	_
+19	optimum	bonus	ADJ	_	_	_	_	_	_
+20	et	et	CCONJ	_	_	_	_	_	_
+21	persuadere	persuadeo	VERB	_	_	_	_	_	_
+22	dictione	dictio	NOUN	_	_	_	_	_	_
+23	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-21
+# text = et anno quidem illo intermissa erant studia mea , dum mihi reducto a Madauris , in qua vicina urbe iam coeperam litteraturae atque oratoriae percipiendae gratia peregrinari , longinquioris apud Carthaginem peregrinationis sumptus praeparabantur animositate magis quam opibus patris , municipis Thagastensis admodum tenuis .
+1	et	et	CCONJ	_	_	_	_	_	_
+2	anno	annus	NOUN	_	_	_	_	_	_
+3	quidem	quidem	ADV	_	_	_	_	_	_
+4	illo	ille	DET	_	_	_	_	_	_
+5	intermissa	intermitto	VERB	_	_	_	_	_	_
+6	erant	sum	AUX	_	_	_	_	_	_
+7	studia	studium	NOUN	_	_	_	_	_	_
+8	mea	meus	DET	_	_	_	_	_	_
+9	,	,	PUNCT	_	_	_	_	_	_
+10	dum	dum	ADV	_	_	_	_	_	_
+11	mihi	ego	PRON	_	_	_	_	_	_
+12	reducto	reduco	VERB	_	_	_	_	_	_
+13	a	ab	ADP	_	_	_	_	_	_
+14	Madauris	madaura	PROPN	_	_	_	_	_	_
+15	,	,	PUNCT	_	_	_	_	_	_
+16	in	in	ADP	_	_	_	_	_	_
+17	qua	qui	PRON	_	_	_	_	_	_
+18	vicina	uicinus	ADJ	_	_	_	_	_	_
+19	urbe	urbs	NOUN	_	_	_	_	_	_
+20	iam	iam	ADV	_	_	_	_	_	_
+21	coeperam	coepio	VERB	_	_	_	_	_	_
+22	litteraturae	litteratura	NOUN	_	_	_	_	_	_
+23	atque	atque	CCONJ	_	_	_	_	_	_
+24	oratoriae	oratoria	NOUN	_	_	_	_	_	_
+25	percipiendae	percipio	VERB	_	_	_	_	_	_
+26	gratia	gratia	NOUN	_	_	_	_	_	_
+27	peregrinari	peregrinor	VERB	_	_	_	_	_	_
+28	,	,	PUNCT	_	_	_	_	_	_
+29	longinquioris	longinquus	ADJ	_	_	_	_	_	_
+30	apud	apud	ADP	_	_	_	_	_	_
+31	Carthaginem	carthago	PROPN	_	_	_	_	_	_
+32	peregrinationis	peregrinatio	NOUN	_	_	_	_	_	_
+33	sumptus	sumptus	NOUN	_	_	_	_	_	_
+34	praeparabantur	praeparo	VERB	_	_	_	_	_	_
+35	animositate	animositas	NOUN	_	_	_	_	_	_
+36	magis	magis	ADV	_	_	_	_	_	_
+37	quam	quam	SCONJ	_	_	_	_	_	_
+38	opibus	opus	NOUN	_	_	_	_	_	_
+39	patris	pater	NOUN	_	_	_	_	_	_
+40	,	,	PUNCT	_	_	_	_	_	_
+41	municipis	municeps	NOUN	_	_	_	_	_	_
+42	Thagastensis	thagastensis	ADJ	_	_	_	_	_	_
+43	admodum	admodum	ADV	_	_	_	_	_	_
+44	tenuis	tenuis	ADJ	_	_	_	_	_	_
+45	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-22
+# text = cui narro haec ?
+1	cui	qui	PRON	_	_	_	_	_	_
+2	narro	narro	VERB	_	_	_	_	_	_
+3	haec	hic	DET	_	_	_	_	_	_
+4	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-23
+# text = neque enim tibi , deus meus , sed apud te narro haec generi meo , generi humano , quantulacumque ex particula incidere potest in istas meas litteras .
+1	neque	neque	CCONJ	_	_	_	_	_	_
+2	enim	enim	ADV	_	_	_	_	_	_
+3	tibi	tu	PRON	_	_	_	_	_	_
+4	,	,	PUNCT	_	_	_	_	_	_
+5	deus	deus	NOUN	_	_	_	_	_	_
+6	meus	meus	DET	_	_	_	_	_	_
+7	,	,	PUNCT	_	_	_	_	_	_
+8	sed	sed	CCONJ	_	_	_	_	_	_
+9	apud	apud	ADP	_	_	_	_	_	_
+10	te	tu	PRON	_	_	_	_	_	_
+11	narro	narro	VERB	_	_	_	_	_	_
+12	haec	hic	DET	_	_	_	_	_	_
+13	generi	genus	NOUN	_	_	_	_	_	_
+14	meo	meus	DET	_	_	_	_	_	_
+15	,	,	PUNCT	_	_	_	_	_	_
+16	generi	genus	NOUN	_	_	_	_	_	_
+17	humano	humanus	ADJ	_	_	_	_	_	_
+18	,	,	PUNCT	_	_	_	_	_	_
+19	quantulacumque	quantuluscumque	DET	_	_	_	_	_	_
+20	ex	ex	ADP	_	_	_	_	_	_
+21	particula	particula	NOUN	_	_	_	_	_	_
+22	incidere	incido	VERB	_	_	_	_	_	_
+23	potest	possum	VERB	_	_	_	_	_	_
+24	in	in	ADP	_	_	_	_	_	_
+25	istas	iste	DET	_	_	_	_	_	_
+26	meas	meus	DET	_	_	_	_	_	_
+27	litteras	littera	NOUN	_	_	_	_	_	_
+28	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-24
+# text = et ut quid hoc ?
+1	et	et	CCONJ	_	_	_	_	_	_
+2	ut	ut	SCONJ	_	_	_	_	_	_
+3	quid	quis	PRON	_	_	_	_	_	_
+4	hoc	hic	DET	_	_	_	_	_	_
+5	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-25
+# text = ut videlicet ego et quisquis haec legit cogitemus de quam profundo clamandum sit ad te .
+1	ut	ut	SCONJ	_	_	_	_	_	_
+2	videlicet	uidelicet	ADV	_	_	_	_	_	_
+3	ego	ego	PRON	_	_	_	_	_	_
+4	et	et	CCONJ	_	_	_	_	_	_
+5	quisquis	quisquis	PRON	_	_	_	_	_	_
+6	haec	hic	DET	_	_	_	_	_	_
+7	legit	lego	VERB	_	_	_	_	_	_
+8	cogitemus	cogito	VERB	_	_	_	_	_	_
+9	de	de	ADP	_	_	_	_	_	_
+10	quam	qui	PRON	_	_	_	_	_	_
+11	profundo	profundum	NOUN	_	_	_	_	_	_
+12	clamandum	clamo	VERB	_	_	_	_	_	_
+13	sit	sum	AUX	_	_	_	_	_	_
+14	ad	ad	ADP	_	_	_	_	_	_
+15	te	tu	PRON	_	_	_	_	_	_
+16	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-26
+# text = et quid propius auribus tuis , si cor confitens et vita ex fide est ?
+1	et	et	CCONJ	_	_	_	_	_	_
+2	quid	quis	PRON	_	_	_	_	_	_
+3	propius	prope	ADV	_	_	_	_	_	_
+4	auribus	auris	NOUN	_	_	_	_	_	_
+5	tuis	tuus	DET	_	_	_	_	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7	si	si	SCONJ	_	_	_	_	_	_
+8	cor	cor	NOUN	_	_	_	_	_	_
+9	confitens	confiteor	VERB	_	_	_	_	_	_
+10	et	et	CCONJ	_	_	_	_	_	_
+11	vita	uita	NOUN	_	_	_	_	_	_
+12	ex	ex	ADP	_	_	_	_	_	_
+13	fide	fides	NOUN	_	_	_	_	_	_
+14	est	sum	AUX	_	_	_	_	_	_
+15	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-27
+# text = quis enim non extollebat laudibus tunc hominem , patrem meum , quod ultra vires rei familiaris suae impenderet filio quidquid etiam longe peregrinanti studiorum causa opus esset ?
+1	quis	quis	PRON	_	_	_	_	_	_
+2	enim	enim	ADV	_	_	_	_	_	_
+3	non	non	PART	_	_	_	_	_	_
+4	extollebat	extollo	VERB	_	_	_	_	_	_
+5	laudibus	laus	NOUN	_	_	_	_	_	_
+6	tunc	tunc	ADV	_	_	_	_	_	_
+7	hominem	homo	NOUN	_	_	_	_	_	_
+8	,	,	PUNCT	_	_	_	_	_	_
+9	patrem	pater	NOUN	_	_	_	_	_	_
+10	meum	meus	DET	_	_	_	_	_	_
+11	,	,	PUNCT	_	_	_	_	_	_
+12	quod	quod	SCONJ	_	_	_	_	_	_
+13	ultra	ultra	ADV	_	_	_	_	_	_
+14	vires	uis	NOUN	_	_	_	_	_	_
+15	rei	res	NOUN	_	_	_	_	_	_
+16	familiaris	familiaris	ADJ	_	_	_	_	_	_
+17	suae	suus	DET	_	_	_	_	_	_
+18	impenderet	impendo	VERB	_	_	_	_	_	_
+19	filio	filius	NOUN	_	_	_	_	_	_
+20	quidquid	quisquis	PRON	_	_	_	_	_	_
+21	etiam	etiam	ADV	_	_	_	_	_	_
+22	longe	longe	ADV	_	_	_	_	_	_
+23	peregrinanti	peregrinor	VERB	_	_	_	_	_	_
+24	studiorum	studium	NOUN	_	_	_	_	_	_
+25	causa	causa	NOUN	_	_	_	_	_	_
+26	opus	opus	NOUN	_	_	_	_	_	_
+27	esset	sum	AUX	_	_	_	_	_	_
+28	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-28
+# text = multorum enim civium longe opulentiorum nullum tale negotium pro liberis erat , cum interea non satageret idem pater qualis crescerem tibi aut quam castus essem , dummodo essem disertus , vel desertus potius a cultura tua , deus , qui es unus verus et bonus dominus agri tui , cordis mei .
+1	multorum	multus	DET	_	_	_	_	_	_
+2	enim	enim	ADV	_	_	_	_	_	_
+3	civium	ciuis	NOUN	_	_	_	_	_	_
+4	longe	longe	ADV	_	_	_	_	_	_
+5	opulentiorum	opulentus	ADJ	_	_	_	_	_	_
+6	nullum	nullus	DET	_	_	_	_	_	_
+7	tale	talis	DET	_	_	_	_	_	_
+8	negotium	negotium	NOUN	_	_	_	_	_	_
+9	pro	pro	ADP	_	_	_	_	_	_
+10	liberis	liberi	NOUN	_	_	_	_	_	_
+11	erat	sum	AUX	_	_	_	_	_	_
+12	,	,	PUNCT	_	_	_	_	_	_
+13	cum	cum	ADV	_	_	_	_	_	_
+14	interea	interea	ADV	_	_	_	_	_	_
+15	non	non	PART	_	_	_	_	_	_
+16	satageret	satago	VERB	_	_	_	_	_	_
+17	idem	idem	DET	_	_	_	_	_	_
+18	pater	pater	NOUN	_	_	_	_	_	_
+19	qualis	qualis	DET	_	_	_	_	_	_
+20	crescerem	cresco	VERB	_	_	_	_	_	_
+21	tibi	tu	PRON	_	_	_	_	_	_
+22	aut	aut	CCONJ	_	_	_	_	_	_
+23	quam	quam	SCONJ	_	_	_	_	_	_
+24	castus	castus	ADJ	_	_	_	_	_	_
+25	essem	sum	AUX	_	_	_	_	_	_
+26	,	,	PUNCT	_	_	_	_	_	_
+27	dummodo	dummodo	SCONJ	_	_	_	_	_	_
+28	essem	sum	AUX	_	_	_	_	_	_
+29	disertus	disertus	ADJ	_	_	_	_	_	_
+30	,	,	PUNCT	_	_	_	_	_	_
+31	vel	uel	CCONJ	_	_	_	_	_	_
+32	desertus	desero	VERB	_	_	_	_	_	_
+33	potius	potius	ADV	_	_	_	_	_	_
+34	a	ab	ADP	_	_	_	_	_	_
+35	cultura	cultura	NOUN	_	_	_	_	_	_
+36	tua	tuus	DET	_	_	_	_	_	_
+37	,	,	PUNCT	_	_	_	_	_	_
+38	deus	deus	NOUN	_	_	_	_	_	_
+39	,	,	PUNCT	_	_	_	_	_	_
+40	qui	qui	PRON	_	_	_	_	_	_
+41	es	sum	AUX	_	_	_	_	_	_
+42	unus	unus	DET	_	_	_	_	_	_
+43	verus	uerus	ADJ	_	_	_	_	_	_
+44	et	et	CCONJ	_	_	_	_	_	_
+45	bonus	bonus	ADJ	_	_	_	_	_	_
+46	dominus	dominus	NOUN	_	_	_	_	_	_
+47	agri	ager	NOUN	_	_	_	_	_	_
+48	tui	tuus	DET	_	_	_	_	_	_
+49	,	,	PUNCT	_	_	_	_	_	_
+50	cordis	cor	NOUN	_	_	_	_	_	_
+51	mei	meus	DET	_	_	_	_	_	_
+52	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-29
+# text = sed ubi sexto illo et decimo anno , interposito otio ex necessitate domestica , feriatus ab omni schola cum parentibus esse coepi , excesserunt caput meum vepres libidinum , et nulla erat eradicans manus .
+1	sed	sed	CCONJ	_	_	_	_	_	_
+2	ubi	ubi	ADV	_	_	_	_	_	_
+3	sexto	sextus	ADJ	_	_	_	_	_	_
+4	illo	ille	DET	_	_	_	_	_	_
+5	et	et	CCONJ	_	_	_	_	_	_
+6	decimo	decimus	ADJ	_	_	_	_	_	_
+7	anno	annus	NOUN	_	_	_	_	_	_
+8	,	,	PUNCT	_	_	_	_	_	_
+9	interposito	interpono	VERB	_	_	_	_	_	_
+10	otio	otium	NOUN	_	_	_	_	_	_
+11	ex	ex	ADP	_	_	_	_	_	_
+12	necessitate	necessitas	NOUN	_	_	_	_	_	_
+13	domestica	domesticus	ADJ	_	_	_	_	_	_
+14	,	,	PUNCT	_	_	_	_	_	_
+15	feriatus	feriatus	ADJ	_	_	_	_	_	_
+16	ab	ab	ADP	_	_	_	_	_	_
+17	omni	omnis	DET	_	_	_	_	_	_
+18	schola	schola	NOUN	_	_	_	_	_	_
+19	cum	cum	ADP	_	_	_	_	_	_
+20	parentibus	parens	NOUN	_	_	_	_	_	_
+21	esse	sum	AUX	_	_	_	_	_	_
+22	coepi	coepio	VERB	_	_	_	_	_	_
+23	,	,	PUNCT	_	_	_	_	_	_
+24	excesserunt	excedo	VERB	_	_	_	_	_	_
+25	caput	caput	NOUN	_	_	_	_	_	_
+26	meum	meus	DET	_	_	_	_	_	_
+27	vepres	uepris	NOUN	_	_	_	_	_	_
+28	libidinum	libido	NOUN	_	_	_	_	_	_
+29	,	,	PUNCT	_	_	_	_	_	_
+30	et	et	CCONJ	_	_	_	_	_	_
+31	nulla	nullus	DET	_	_	_	_	_	_
+32	erat	sum	AUX	_	_	_	_	_	_
+33	eradicans	eradico	VERB	_	_	_	_	_	_
+34	manus	manus	NOUN	_	_	_	_	_	_
+35	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-30
+# text = quin immo ubi me ille pater in balneis vidit pubescentem et inquieta indutum adulescentia , quasi iam ex hoc in nepotes gestiret , gaudens matri indicavit , gaudens vinulentia in qua te iste mundus oblitus est creatorem suum et creaturam tuam pro te amavit , de vino invisibili perversae atque inclinatae in ima voluntatis suae .
+1	quin	quin	SCONJ	_	_	_	_	_	_
+2	immo	immo	ADV	_	_	_	_	_	_
+3	ubi	ubi	ADV	_	_	_	_	_	_
+4	me	ego	PRON	_	_	_	_	_	_
+5	ille	ille	DET	_	_	_	_	_	_
+6	pater	pater	NOUN	_	_	_	_	_	_
+7	in	in	ADP	_	_	_	_	_	_
+8	balneis	balneum	NOUN	_	_	_	_	_	_
+9	vidit	uideo	VERB	_	_	_	_	_	_
+10	pubescentem	pubesco	VERB	_	_	_	_	_	_
+11	et	et	CCONJ	_	_	_	_	_	_
+12	inquieta	inquietus	ADJ	_	_	_	_	_	_
+13	indutum	induo	VERB	_	_	_	_	_	_
+14	adulescentia	adulescentia	NOUN	_	_	_	_	_	_
+15	,	,	PUNCT	_	_	_	_	_	_
+16	quasi	quasi	ADV	_	_	_	_	_	_
+17	iam	iam	ADV	_	_	_	_	_	_
+18	ex	ex	ADP	_	_	_	_	_	_
+19	hoc	hic	DET	_	_	_	_	_	_
+20	in	in	ADP	_	_	_	_	_	_
+21	nepotes	nepos	NOUN	_	_	_	_	_	_
+22	gestiret	gestio	VERB	_	_	_	_	_	_
+23	,	,	PUNCT	_	_	_	_	_	_
+24	gaudens	gaudeo	VERB	_	_	_	_	_	_
+25	matri	mater	NOUN	_	_	_	_	_	_
+26	indicavit	indico	VERB	_	_	_	_	_	_
+27	,	,	PUNCT	_	_	_	_	_	_
+28	gaudens	gaudeo	VERB	_	_	_	_	_	_
+29	vinulentia	uinulentia	NOUN	_	_	_	_	_	_
+30	in	in	ADP	_	_	_	_	_	_
+31	qua	qui	PRON	_	_	_	_	_	_
+32	te	tu	PRON	_	_	_	_	_	_
+33	iste	iste	DET	_	_	_	_	_	_
+34	mundus	mundus	NOUN	_	_	_	_	_	_
+35	oblitus	obliuiscor	VERB	_	_	_	_	_	_
+36	est	sum	AUX	_	_	_	_	_	_
+37	creatorem	creator	NOUN	_	_	_	_	_	_
+38	suum	suus	DET	_	_	_	_	_	_
+39	et	et	CCONJ	_	_	_	_	_	_
+40	creaturam	creatura	NOUN	_	_	_	_	_	_
+41	tuam	tuus	DET	_	_	_	_	_	_
+42	pro	pro	ADP	_	_	_	_	_	_
+43	te	tu	PRON	_	_	_	_	_	_
+44	amavit	amo	VERB	_	_	_	_	_	_
+45	,	,	PUNCT	_	_	_	_	_	_
+46	de	de	ADP	_	_	_	_	_	_
+47	vino	uinum	NOUN	_	_	_	_	_	_
+48	invisibili	inuisibilis	ADJ	_	_	_	_	_	_
+49	perversae	peruerto	VERB	_	_	_	_	_	_
+50	atque	atque	CCONJ	_	_	_	_	_	_
+51	inclinatae	inclino	VERB	_	_	_	_	_	_
+52	in	in	ADP	_	_	_	_	_	_
+53	ima	imus	ADJ	_	_	_	_	_	_
+54	voluntatis	uoluntas	NOUN	_	_	_	_	_	_
+55	suae	suus	DET	_	_	_	_	_	_
+56	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-31
+# text = sed matris in pectore iam inchoaveras templum tuum et exordium sanctae habitationis tuae , nam ille adhuc catechumenus et hoc recens erat .
+1	sed	sed	CCONJ	_	_	_	_	_	_
+2	matris	mater	NOUN	_	_	_	_	_	_
+3	in	in	ADP	_	_	_	_	_	_
+4	pectore	pectus	NOUN	_	_	_	_	_	_
+5	iam	iam	ADV	_	_	_	_	_	_
+6	inchoaveras	inchoo	VERB	_	_	_	_	_	_
+7	templum	templum	NOUN	_	_	_	_	_	_
+8	tuum	tuus	DET	_	_	_	_	_	_
+9	et	et	CCONJ	_	_	_	_	_	_
+10	exordium	exordium	NOUN	_	_	_	_	_	_
+11	sanctae	sanctus	ADJ	_	_	_	_	_	_
+12	habitationis	habitatio	NOUN	_	_	_	_	_	_
+13	tuae	tuus	DET	_	_	_	_	_	_
+14	,	,	PUNCT	_	_	_	_	_	_
+15	nam	nam	ADV	_	_	_	_	_	_
+16	ille	ille	DET	_	_	_	_	_	_
+17	adhuc	adhuc	ADV	_	_	_	_	_	_
+18	catechumenus	catechumenus	NOUN	_	_	_	_	_	_
+19	et	et	CCONJ	_	_	_	_	_	_
+20	hoc	hic	DET	_	_	_	_	_	_
+21	recens	recens	ADJ	_	_	_	_	_	_
+22	erat	sum	AUX	_	_	_	_	_	_
+23	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-32
+# text = itaque illa exilivit pia trepidatione ac tremore et , quamvis mihi nondum fideli , timuit tamen vias distortas in quibus ambulant qui ponunt ad te tergum et non faciem .
+1	itaque	itaque	ADV	_	_	_	_	_	_
+2	illa	ille	DET	_	_	_	_	_	_
+3	exilivit	exsilio	VERB	_	_	_	_	_	_
+4	pia	pius	ADJ	_	_	_	_	_	_
+5	trepidatione	trepidatio	NOUN	_	_	_	_	_	_
+6	ac	atque	CCONJ	_	_	_	_	_	_
+7	tremore	tremor	NOUN	_	_	_	_	_	_
+8	et	et	CCONJ	_	_	_	_	_	_
+9	,	,	PUNCT	_	_	_	_	_	_
+10	quamvis	quamuis	ADV	_	_	_	_	_	_
+11	mihi	ego	PRON	_	_	_	_	_	_
+12	nondum	nondum	ADV	_	_	_	_	_	_
+13	fideli	fidelis	ADJ	_	_	_	_	_	_
+14	,	,	PUNCT	_	_	_	_	_	_
+15	timuit	timeo	VERB	_	_	_	_	_	_
+16	tamen	tamen	ADV	_	_	_	_	_	_
+17	vias	uia	NOUN	_	_	_	_	_	_
+18	distortas	distortus	ADJ	_	_	_	_	_	_
+19	in	in	ADP	_	_	_	_	_	_
+20	quibus	qui	PRON	_	_	_	_	_	_
+21	ambulant	ambulo	VERB	_	_	_	_	_	_
+22	qui	qui	PRON	_	_	_	_	_	_
+23	ponunt	pono	VERB	_	_	_	_	_	_
+24	ad	ad	ADP	_	_	_	_	_	_
+25	te	tu	PRON	_	_	_	_	_	_
+26	tergum	tergum	NOUN	_	_	_	_	_	_
+27	et	et	CCONJ	_	_	_	_	_	_
+28	non	non	PART	_	_	_	_	_	_
+29	faciem	facies	NOUN	_	_	_	_	_	_
+30	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-33
+# text = ei mihi !
+1	ei	is	DET	_	_	_	_	_	_
+2	mihi	ego	PRON	_	_	_	_	_	_
+3	!	!	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-34
+# text = et audeo dicere tacuisse te , deus meus , cum irem abs te longius ?
+1	et	et	CCONJ	_	_	_	_	_	_
+2	audeo	audeo	VERB	_	_	_	_	_	_
+3	dicere	dico	VERB	_	_	_	_	_	_
+4	tacuisse	taceo	VERB	_	_	_	_	_	_
+5	te	tu	PRON	_	_	_	_	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7	deus	deus	NOUN	_	_	_	_	_	_
+8	meus	meus	DET	_	_	_	_	_	_
+9	,	,	PUNCT	_	_	_	_	_	_
+10	cum	cum	ADV	_	_	_	_	_	_
+11	irem	eo	VERB	_	_	_	_	_	_
+12	abs	ab	ADP	_	_	_	_	_	_
+13	te	tu	PRON	_	_	_	_	_	_
+14	longius	longe	ADV	_	_	_	_	_	_
+15	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-35
+# text = itane tu tacebas tunc mihi ?
+1	itane	ita	ADV	_	_	_	_	_	_
+2	tu	tu	PRON	_	_	_	_	_	_
+3	tacebas	taceo	VERB	_	_	_	_	_	_
+4	tunc	tunc	ADV	_	_	_	_	_	_
+5	mihi	ego	PRON	_	_	_	_	_	_
+6	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-36
+# text = et cuius erant nisi tua verba illa per matrem meam , fidelem tuam , quae cantasti in aures meas ?
+1	et	et	CCONJ	_	_	_	_	_	_
+2	cuius	qui	PRON	_	_	_	_	_	_
+3	erant	sum	AUX	_	_	_	_	_	_
+4	nisi	nisi	SCONJ	_	_	_	_	_	_
+5	tua	tuus	DET	_	_	_	_	_	_
+6	verba	uerbum	NOUN	_	_	_	_	_	_
+7	illa	ille	DET	_	_	_	_	_	_
+8	per	per	ADP	_	_	_	_	_	_
+9	matrem	mater	NOUN	_	_	_	_	_	_
+10	meam	meus	DET	_	_	_	_	_	_
+11	,	,	PUNCT	_	_	_	_	_	_
+12	fidelem	fidelis	ADJ	_	_	_	_	_	_
+13	tuam	tuus	DET	_	_	_	_	_	_
+14	,	,	PUNCT	_	_	_	_	_	_
+15	quae	qui	PRON	_	_	_	_	_	_
+16	cantasti	canto	VERB	_	_	_	_	_	_
+17	in	in	ADP	_	_	_	_	_	_
+18	aures	auris	NOUN	_	_	_	_	_	_
+19	meas	meus	DET	_	_	_	_	_	_
+20	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-37
+# text = nec inde quicquam descendit in cor , ut facerem illud .
+1	nec	neque	CCONJ	_	_	_	_	_	_
+2	inde	inde	ADV	_	_	_	_	_	_
+3	quicquam	quisquam	PRON	_	_	_	_	_	_
+4	descendit	descendo	VERB	_	_	_	_	_	_
+5	in	in	ADP	_	_	_	_	_	_
+6	cor	cor	NOUN	_	_	_	_	_	_
+7	,	,	PUNCT	_	_	_	_	_	_
+8	ut	ut	SCONJ	_	_	_	_	_	_
+9	facerem	facio	VERB	_	_	_	_	_	_
+10	illud	ille	DET	_	_	_	_	_	_
+11	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-38
+# text = volebat enim illa , et secreto memini ut monuerit cum sollicitudine ingenti , ne fornicarer maximeque ne adulterarem cuiusquam uxorem .
+1	volebat	uolo	VERB	_	_	_	_	_	_
+2	enim	enim	ADV	_	_	_	_	_	_
+3	illa	ille	DET	_	_	_	_	_	_
+4	,	,	PUNCT	_	_	_	_	_	_
+5	et	et	CCONJ	_	_	_	_	_	_
+6	secreto	secreto	ADV	_	_	_	_	_	_
+7	memini	memini	VERB	_	_	_	_	_	_
+8	ut	ut	SCONJ	_	_	_	_	_	_
+9	monuerit	moneo	VERB	_	_	_	_	_	_
+10	cum	cum	ADP	_	_	_	_	_	_
+11	sollicitudine	sollicitudo	NOUN	_	_	_	_	_	_
+12	ingenti	ingens	ADJ	_	_	_	_	_	_
+13	,	,	PUNCT	_	_	_	_	_	_
+14	ne	ne	SCONJ	_	_	_	_	_	_
+15	fornicarer	fornico	VERB	_	_	_	_	_	_
+16	maximeque	maxime	ADV	_	_	_	_	_	_
+17	ne	ne	SCONJ	_	_	_	_	_	_
+18	adulterarem	adultero	VERB	_	_	_	_	_	_
+19	cuiusquam	quisquam	PRON	_	_	_	_	_	_
+20	uxorem	uxor	NOUN	_	_	_	_	_	_
+21	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-39
+# text = qui mihi monitus muliebres videbantur , quibus obtemperare erubescerem .
+1	qui	qui	PRON	_	_	_	_	_	_
+2	mihi	ego	PRON	_	_	_	_	_	_
+3	monitus	moneo	VERB	_	_	_	_	_	_
+4	muliebres	muliebris	ADJ	_	_	_	_	_	_
+5	videbantur	uideo	VERB	_	_	_	_	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7	quibus	qui	PRON	_	_	_	_	_	_
+8	obtemperare	obtempero	VERB	_	_	_	_	_	_
+9	erubescerem	erubesco	VERB	_	_	_	_	_	_
+10	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-40
+# text = illi autem tui erant et nesciebam , et te tacere putabam atque illam loqui per quam mihi tu non tacebas , et in illa contemnebaris a me , a me , filio eius , filio ancillae tuae , servo tuo .
+1	illi	ille	DET	_	_	_	_	_	_
+2	autem	autem	CCONJ	_	_	_	_	_	_
+3	tui	tuus	DET	_	_	_	_	_	_
+4	erant	sum	AUX	_	_	_	_	_	_
+5	et	et	CCONJ	_	_	_	_	_	_
+6	nesciebam	nescio	VERB	_	_	_	_	_	_
+7	,	,	PUNCT	_	_	_	_	_	_
+8	et	et	CCONJ	_	_	_	_	_	_
+9	te	tu	PRON	_	_	_	_	_	_
+10	tacere	taceo	VERB	_	_	_	_	_	_
+11	putabam	puto	VERB	_	_	_	_	_	_
+12	atque	atque	CCONJ	_	_	_	_	_	_
+13	illam	ille	DET	_	_	_	_	_	_
+14	loqui	loquor	VERB	_	_	_	_	_	_
+15	per	per	ADP	_	_	_	_	_	_
+16	quam	qui	PRON	_	_	_	_	_	_
+17	mihi	ego	PRON	_	_	_	_	_	_
+18	tu	tu	PRON	_	_	_	_	_	_
+19	non	non	PART	_	_	_	_	_	_
+20	tacebas	taceo	VERB	_	_	_	_	_	_
+21	,	,	PUNCT	_	_	_	_	_	_
+22	et	et	CCONJ	_	_	_	_	_	_
+23	in	in	ADP	_	_	_	_	_	_
+24	illa	ille	DET	_	_	_	_	_	_
+25	contemnebaris	contemno	VERB	_	_	_	_	_	_
+26	a	ab	ADP	_	_	_	_	_	_
+27	me	ego	PRON	_	_	_	_	_	_
+28	,	,	PUNCT	_	_	_	_	_	_
+29	a	ab	ADP	_	_	_	_	_	_
+30	me	ego	PRON	_	_	_	_	_	_
+31	,	,	PUNCT	_	_	_	_	_	_
+32	filio	filius	NOUN	_	_	_	_	_	_
+33	eius	is	DET	_	_	_	_	_	_
+34	,	,	PUNCT	_	_	_	_	_	_
+35	filio	filius	NOUN	_	_	_	_	_	_
+36	ancillae	ancilla	NOUN	_	_	_	_	_	_
+37	tuae	tuus	DET	_	_	_	_	_	_
+38	,	,	PUNCT	_	_	_	_	_	_
+39	servo	seruus	NOUN	_	_	_	_	_	_
+40	tuo	tuus	DET	_	_	_	_	_	_
+41	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-41
+# text = sed nesciebam et praeceps ibam tanta caecitate ut inter coaetaneos meos puderet me minoris dedecoris , quoniam audiebam eos iactantes flagitia sua et tanto gloriantes magis , quanto magis turpes essent , et libebat facere non solum libidine facti verum etiam laudis .
+1	sed	sed	CCONJ	_	_	_	_	_	_
+2	nesciebam	nescio	VERB	_	_	_	_	_	_
+3	et	et	CCONJ	_	_	_	_	_	_
+4	praeceps	praeceps	ADJ	_	_	_	_	_	_
+5	ibam	eo	VERB	_	_	_	_	_	_
+6	tanta	tantus	DET	_	_	_	_	_	_
+7	caecitate	caecitas	NOUN	_	_	_	_	_	_
+8	ut	ut	SCONJ	_	_	_	_	_	_
+9	inter	inter	ADP	_	_	_	_	_	_
+10	coaetaneos	coaetaneus	ADJ	_	_	_	_	_	_
+11	meos	meus	DET	_	_	_	_	_	_
+12	puderet	pudeo	VERB	_	_	_	_	_	_
+13	me	ego	PRON	_	_	_	_	_	_
+14	minoris	paruus	ADJ	_	_	_	_	_	_
+15	dedecoris	dedecus	NOUN	_	_	_	_	_	_
+16	,	,	PUNCT	_	_	_	_	_	_
+17	quoniam	quoniam	SCONJ	_	_	_	_	_	_
+18	audiebam	audio	VERB	_	_	_	_	_	_
+19	eos	is	DET	_	_	_	_	_	_
+20	iactantes	iacto	VERB	_	_	_	_	_	_
+21	flagitia	flagitium	NOUN	_	_	_	_	_	_
+22	sua	suus	DET	_	_	_	_	_	_
+23	et	et	CCONJ	_	_	_	_	_	_
+24	tanto	tantus	DET	_	_	_	_	_	_
+25	gloriantes	glorior	VERB	_	_	_	_	_	_
+26	magis	magis	ADV	_	_	_	_	_	_
+27	,	,	PUNCT	_	_	_	_	_	_
+28	quanto	quanto	ADV	_	_	_	_	_	_
+29	magis	magis	ADV	_	_	_	_	_	_
+30	turpes	turpis	ADJ	_	_	_	_	_	_
+31	essent	sum	AUX	_	_	_	_	_	_
+32	,	,	PUNCT	_	_	_	_	_	_
+33	et	et	CCONJ	_	_	_	_	_	_
+34	libebat	libet	VERB	_	_	_	_	_	_
+35	facere	facio	VERB	_	_	_	_	_	_
+36	non	non	PART	_	_	_	_	_	_
+37	solum	solum	ADV	_	_	_	_	_	_
+38	libidine	libido	NOUN	_	_	_	_	_	_
+39	facti	factum	NOUN	_	_	_	_	_	_
+40	verum	uerus	ADJ	_	_	_	_	_	_
+41	etiam	etiam	ADV	_	_	_	_	_	_
+42	laudis	laus	NOUN	_	_	_	_	_	_
+43	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-42
+# text = quid dignum est vituperatione nisi vitium ?
+1	quid	quis	PRON	_	_	_	_	_	_
+2	dignum	dignus	ADJ	_	_	_	_	_	_
+3	est	sum	AUX	_	_	_	_	_	_
+4	vituperatione	uituperatio	NOUN	_	_	_	_	_	_
+5	nisi	nisi	SCONJ	_	_	_	_	_	_
+6	vitium	uitium	NOUN	_	_	_	_	_	_
+7	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-43
+# text = ego , ne vituperarer , vitiosior fiebam , et ubi non suberat quo admisso aequarer perditis , fingebam me fecisse quod non feceram , ne viderer abiectior quo eram innocentior , et ne vilior haberer quo eram castior .
+1	ego	ego	PRON	_	_	_	_	_	_
+2	,	,	PUNCT	_	_	_	_	_	_
+3	ne	ne	SCONJ	_	_	_	_	_	_
+4	vituperarer	uitupero	VERB	_	_	_	_	_	_
+5	,	,	PUNCT	_	_	_	_	_	_
+6	vitiosior	uitiosus	ADJ	_	_	_	_	_	_
+7	fiebam	fio	VERB	_	_	_	_	_	_
+8	,	,	PUNCT	_	_	_	_	_	_
+9	et	et	CCONJ	_	_	_	_	_	_
+10	ubi	ubi	ADV	_	_	_	_	_	_
+11	non	non	PART	_	_	_	_	_	_
+12	suberat	subsum	VERB	_	_	_	_	_	_
+13	quo	qui	PRON	_	_	_	_	_	_
+14	admisso	admitto	VERB	_	_	_	_	_	_
+15	aequarer	aequo	VERB	_	_	_	_	_	_
+16	perditis	perdo	VERB	_	_	_	_	_	_
+17	,	,	PUNCT	_	_	_	_	_	_
+18	fingebam	fingo	VERB	_	_	_	_	_	_
+19	me	ego	PRON	_	_	_	_	_	_
+20	fecisse	facio	VERB	_	_	_	_	_	_
+21	quod	qui	PRON	_	_	_	_	_	_
+22	non	non	PART	_	_	_	_	_	_
+23	feceram	facio	VERB	_	_	_	_	_	_
+24	,	,	PUNCT	_	_	_	_	_	_
+25	ne	ne	SCONJ	_	_	_	_	_	_
+26	viderer	uideo	VERB	_	_	_	_	_	_
+27	abiectior	abicio	VERB	_	_	_	_	_	_
+28	quo	qui	PRON	_	_	_	_	_	_
+29	eram	sum	AUX	_	_	_	_	_	_
+30	innocentior	innocens	ADJ	_	_	_	_	_	_
+31	,	,	PUNCT	_	_	_	_	_	_
+32	et	et	CCONJ	_	_	_	_	_	_
+33	ne	ne	SCONJ	_	_	_	_	_	_
+34	vilior	uilis	ADJ	_	_	_	_	_	_
+35	haberer	habeo	VERB	_	_	_	_	_	_
+36	quo	qui	PRON	_	_	_	_	_	_
+37	eram	sum	AUX	_	_	_	_	_	_
+38	castior	castus	ADJ	_	_	_	_	_	_
+39	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-44
+# text = ecce cum quibus comitibus iter agebam platearum Babyloniae , et volutabar in caeno eius tamquam in cinnamis et unguentis pretiosis .
+1	ecce	ecce	PART	_	_	_	_	_	_
+2	cum	cum	ADP	_	_	_	_	_	_
+3	quibus	qui	PRON	_	_	_	_	_	_
+4	comitibus	comes	NOUN	_	_	_	_	_	_
+5	iter	iter	NOUN	_	_	_	_	_	_
+6	agebam	ago	VERB	_	_	_	_	_	_
+7	platearum	platea	NOUN	_	_	_	_	_	_
+8	Babyloniae	babylon	PROPN	_	_	_	_	_	_
+9	,	,	PUNCT	_	_	_	_	_	_
+10	et	et	CCONJ	_	_	_	_	_	_
+11	volutabar	uoluto	VERB	_	_	_	_	_	_
+12	in	in	ADP	_	_	_	_	_	_
+13	caeno	caenum	NOUN	_	_	_	_	_	_
+14	eius	is	DET	_	_	_	_	_	_
+15	tamquam	tamquam	SCONJ	_	_	_	_	_	_
+16	in	in	ADP	_	_	_	_	_	_
+17	cinnamis	cinnamum	NOUN	_	_	_	_	_	_
+18	et	et	CCONJ	_	_	_	_	_	_
+19	unguentis	unguentum	NOUN	_	_	_	_	_	_
+20	pretiosis	pretiosus	ADJ	_	_	_	_	_	_
+21	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-45
+# text = et in umbilico eius quo tenacius haererem , calcabat me inimicus invisibilis et seducebat me , quia ego seductilis eram .
+1	et	et	CCONJ	_	_	_	_	_	_
+2	in	in	ADP	_	_	_	_	_	_
+3	umbilico	umbilicus	NOUN	_	_	_	_	_	_
+4	eius	is	DET	_	_	_	_	_	_
+5	quo	qui	PRON	_	_	_	_	_	_
+6	tenacius	tenaciter	ADV	_	_	_	_	_	_
+7	haererem	haereo	VERB	_	_	_	_	_	_
+8	,	,	PUNCT	_	_	_	_	_	_
+9	calcabat	calco	VERB	_	_	_	_	_	_
+10	me	ego	PRON	_	_	_	_	_	_
+11	inimicus	inimicus	ADJ	_	_	_	_	_	_
+12	invisibilis	inuisibilis	ADJ	_	_	_	_	_	_
+13	et	et	CCONJ	_	_	_	_	_	_
+14	seducebat	seduco	VERB	_	_	_	_	_	_
+15	me	ego	PRON	_	_	_	_	_	_
+16	,	,	PUNCT	_	_	_	_	_	_
+17	quia	quia	SCONJ	_	_	_	_	_	_
+18	ego	ego	PRON	_	_	_	_	_	_
+19	seductilis	seductilis	ADJ	_	_	_	_	_	_
+20	eram	sum	AUX	_	_	_	_	_	_
+21	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-47
+# text = non enim et illa quae iam de medio Babylonis fugerat , sed ibat in ceteris eius tardior , mater carnis meae , sicut monuit me pudicitiam , ita curavit quod de me a viro suo audierat , iamque pestilentiosum et in posterum periculosum sentiebat cohercere termino coniugalis affectus , si resecari ad vivum non poterat .
+1	non	non	PART	_	_	_	_	_	_
+2	enim	enim	ADV	_	_	_	_	_	_
+3	et	et	CCONJ	_	_	_	_	_	_
+4	illa	ille	DET	_	_	_	_	_	_
+5	quae	qui	PRON	_	_	_	_	_	_
+6	iam	iam	ADV	_	_	_	_	_	_
+7	de	de	ADP	_	_	_	_	_	_
+8	medio	medius	ADJ	_	_	_	_	_	_
+9	Babylonis	babylon	PROPN	_	_	_	_	_	_
+10	fugerat	fugio	VERB	_	_	_	_	_	_
+11	,	,	PUNCT	_	_	_	_	_	_
+12	sed	sed	CCONJ	_	_	_	_	_	_
+13	ibat	eo	VERB	_	_	_	_	_	_
+14	in	in	ADP	_	_	_	_	_	_
+15	ceteris	ceterus	DET	_	_	_	_	_	_
+16	eius	is	DET	_	_	_	_	_	_
+17	tardior	tardus	ADJ	_	_	_	_	_	_
+18	,	,	PUNCT	_	_	_	_	_	_
+19	mater	mater	NOUN	_	_	_	_	_	_
+20	carnis	caro	NOUN	_	_	_	_	_	_
+21	meae	meus	DET	_	_	_	_	_	_
+22	,	,	PUNCT	_	_	_	_	_	_
+23	sicut	sicut	SCONJ	_	_	_	_	_	_
+24	monuit	moneo	VERB	_	_	_	_	_	_
+25	me	ego	PRON	_	_	_	_	_	_
+26	pudicitiam	pudicitia	NOUN	_	_	_	_	_	_
+27	,	,	PUNCT	_	_	_	_	_	_
+28	ita	ita	ADV	_	_	_	_	_	_
+29	curavit	curo	VERB	_	_	_	_	_	_
+30	quod	quod	SCONJ	_	_	_	_	_	_
+31	de	de	ADP	_	_	_	_	_	_
+32	me	ego	PRON	_	_	_	_	_	_
+33	a	ab	ADP	_	_	_	_	_	_
+34	viro	uir	NOUN	_	_	_	_	_	_
+35	suo	suus	DET	_	_	_	_	_	_
+36	audierat	audio	VERB	_	_	_	_	_	_
+37	,	,	PUNCT	_	_	_	_	_	_
+38	iamque	iam	ADV	_	_	_	_	_	_
+39	pestilentiosum	pestilentiosus	ADJ	_	_	_	_	_	_
+40	et	et	CCONJ	_	_	_	_	_	_
+41	in	in	ADP	_	_	_	_	_	_
+42	posterum	posterus	ADJ	_	_	_	_	_	_
+43	periculosum	periculosus	ADJ	_	_	_	_	_	_
+44	sentiebat	sentio	VERB	_	_	_	_	_	_
+45	cohercere	coherceo	VERB	_	_	_	_	_	_
+46	termino	terminus	NOUN	_	_	_	_	_	_
+47	coniugalis	coniugalis	ADJ	_	_	_	_	_	_
+48	affectus	affectus	NOUN	_	_	_	_	_	_
+49	,	,	PUNCT	_	_	_	_	_	_
+50	si	si	SCONJ	_	_	_	_	_	_
+51	resecari	reseco	VERB	_	_	_	_	_	_
+52	ad	ad	ADP	_	_	_	_	_	_
+53	vivum	uiuus	ADJ	_	_	_	_	_	_
+54	non	non	PART	_	_	_	_	_	_
+55	poterat	possum	VERB	_	_	_	_	_	_
+56	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-48
+# text = non curavit hoc , quia metus erat ne impediretur spes mea compede uxoria , non spes illa quam in te futuri saeculi habebat mater , sed spes litterarum , quas ut nossem nimis volebat parens uterque , ille quia de te prope nihil cogitabat , de me autem inania , illa autem quia non solum nullo detrimento sed etiam nonnullo adiumento ad te adipiscendum futura existimabat usitata illa studia doctrinae .
+1	non	non	PART	_	_	_	_	_	_
+2	curavit	curo	VERB	_	_	_	_	_	_
+3	hoc	hic	DET	_	_	_	_	_	_
+4	,	,	PUNCT	_	_	_	_	_	_
+5	quia	quia	SCONJ	_	_	_	_	_	_
+6	metus	metus	NOUN	_	_	_	_	_	_
+7	erat	sum	AUX	_	_	_	_	_	_
+8	ne	ne	SCONJ	_	_	_	_	_	_
+9	impediretur	impedio	VERB	_	_	_	_	_	_
+10	spes	spes	NOUN	_	_	_	_	_	_
+11	mea	meus	DET	_	_	_	_	_	_
+12	compede	compes	NOUN	_	_	_	_	_	_
+13	uxoria	uxorius	ADJ	_	_	_	_	_	_
+14	,	,	PUNCT	_	_	_	_	_	_
+15	non	non	PART	_	_	_	_	_	_
+16	spes	spes	NOUN	_	_	_	_	_	_
+17	illa	ille	DET	_	_	_	_	_	_
+18	quam	qui	PRON	_	_	_	_	_	_
+19	in	in	ADP	_	_	_	_	_	_
+20	te	tu	PRON	_	_	_	_	_	_
+21	futuri	futurus	ADJ	_	_	_	_	_	_
+22	saeculi	saeculum	NOUN	_	_	_	_	_	_
+23	habebat	habeo	VERB	_	_	_	_	_	_
+24	mater	mater	NOUN	_	_	_	_	_	_
+25	,	,	PUNCT	_	_	_	_	_	_
+26	sed	sed	CCONJ	_	_	_	_	_	_
+27	spes	spes	NOUN	_	_	_	_	_	_
+28	litterarum	littera	NOUN	_	_	_	_	_	_
+29	,	,	PUNCT	_	_	_	_	_	_
+30	quas	qui	PRON	_	_	_	_	_	_
+31	ut	ut	SCONJ	_	_	_	_	_	_
+32	nossem	nosco	VERB	_	_	_	_	_	_
+33	nimis	nimis	ADV	_	_	_	_	_	_
+34	volebat	uolo	VERB	_	_	_	_	_	_
+35	parens	parens	NOUN	_	_	_	_	_	_
+36	uterque	uterque	DET	_	_	_	_	_	_
+37	,	,	PUNCT	_	_	_	_	_	_
+38	ille	ille	DET	_	_	_	_	_	_
+39	quia	quia	SCONJ	_	_	_	_	_	_
+40	de	de	ADP	_	_	_	_	_	_
+41	te	tu	PRON	_	_	_	_	_	_
+42	prope	prope	ADV	_	_	_	_	_	_
+43	nihil	nihil	PRON	_	_	_	_	_	_
+44	cogitabat	cogito	VERB	_	_	_	_	_	_
+45	,	,	PUNCT	_	_	_	_	_	_
+46	de	de	ADP	_	_	_	_	_	_
+47	me	ego	PRON	_	_	_	_	_	_
+48	autem	autem	CCONJ	_	_	_	_	_	_
+49	inania	inanis	ADJ	_	_	_	_	_	_
+50	,	,	PUNCT	_	_	_	_	_	_
+51	illa	ille	DET	_	_	_	_	_	_
+52	autem	autem	CCONJ	_	_	_	_	_	_
+53	quia	quia	SCONJ	_	_	_	_	_	_
+54	non	non	PART	_	_	_	_	_	_
+55	solum	solum	ADV	_	_	_	_	_	_
+56	nullo	nullus	DET	_	_	_	_	_	_
+57	detrimento	detrimentum	NOUN	_	_	_	_	_	_
+58	sed	sed	CCONJ	_	_	_	_	_	_
+59	etiam	etiam	ADV	_	_	_	_	_	_
+60	nonnullo	nonnullus	DET	_	_	_	_	_	_
+61	adiumento	adiumentum	NOUN	_	_	_	_	_	_
+62	ad	ad	ADP	_	_	_	_	_	_
+63	te	tu	PRON	_	_	_	_	_	_
+64	adipiscendum	adipiscor	VERB	_	_	_	_	_	_
+65	futura	futurus	ADJ	_	_	_	_	_	_
+66	existimabat	existimo	VERB	_	_	_	_	_	_
+67	usitata	usitor	VERB	_	_	_	_	_	_
+68	illa	ille	DET	_	_	_	_	_	_
+69	studia	studium	NOUN	_	_	_	_	_	_
+70	doctrinae	doctrina	NOUN	_	_	_	_	_	_
+71	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-49
+# text = ita enim conicio , recolens ut possum mores parentum meorum .
+1	ita	ita	ADV	_	_	_	_	_	_
+2	enim	enim	ADV	_	_	_	_	_	_
+3	conicio	conicio	VERB	_	_	_	_	_	_
+4	,	,	PUNCT	_	_	_	_	_	_
+5	recolens	recolo	VERB	_	_	_	_	_	_
+6	ut	ut	ADV	_	_	_	_	_	_
+7	possum	possum	VERB	_	_	_	_	_	_
+8	mores	mos	NOUN	_	_	_	_	_	_
+9	parentum	parens	NOUN	_	_	_	_	_	_
+10	meorum	meus	DET	_	_	_	_	_	_
+11	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-50
+# text = relaxabantur etiam mihi ad ludendum habenae ultra temperamentum severitatis in dissolutionem affectionum variarum , et in omnibus erat caligo intercludens mihi , deus meus , serenitatem veritatis tuae , et prodiebat tamquam ex adipe iniquitas mea .
+1	relaxabantur	relaxo	VERB	_	_	_	_	_	_
+2	etiam	etiam	ADV	_	_	_	_	_	_
+3	mihi	ego	PRON	_	_	_	_	_	_
+4	ad	ad	ADP	_	_	_	_	_	_
+5	ludendum	ludo	VERB	_	_	_	_	_	_
+6	habenae	habena	NOUN	_	_	_	_	_	_
+7	ultra	ultra	ADP	_	_	_	_	_	_
+8	temperamentum	temperamentum	NOUN	_	_	_	_	_	_
+9	severitatis	seueritas	NOUN	_	_	_	_	_	_
+10	in	in	ADP	_	_	_	_	_	_
+11	dissolutionem	dissolutio	NOUN	_	_	_	_	_	_
+12	affectionum	affectio	NOUN	_	_	_	_	_	_
+13	variarum	uarius	ADJ	_	_	_	_	_	_
+14	,	,	PUNCT	_	_	_	_	_	_
+15	et	et	CCONJ	_	_	_	_	_	_
+16	in	in	ADP	_	_	_	_	_	_
+17	omnibus	omnis	DET	_	_	_	_	_	_
+18	erat	sum	AUX	_	_	_	_	_	_
+19	caligo	caligo	NOUN	_	_	_	_	_	_
+20	intercludens	intercludo	VERB	_	_	_	_	_	_
+21	mihi	ego	PRON	_	_	_	_	_	_
+22	,	,	PUNCT	_	_	_	_	_	_
+23	deus	deus	NOUN	_	_	_	_	_	_
+24	meus	meus	DET	_	_	_	_	_	_
+25	,	,	PUNCT	_	_	_	_	_	_
+26	serenitatem	serenitas	NOUN	_	_	_	_	_	_
+27	veritatis	ueritas	NOUN	_	_	_	_	_	_
+28	tuae	tuus	DET	_	_	_	_	_	_
+29	,	,	PUNCT	_	_	_	_	_	_
+30	et	et	CCONJ	_	_	_	_	_	_
+31	prodiebat	prodeo	VERB	_	_	_	_	_	_
+32	tamquam	tamquam	SCONJ	_	_	_	_	_	_
+33	ex	ex	ADP	_	_	_	_	_	_
+34	adipe	adeps	NOUN	_	_	_	_	_	_
+35	iniquitas	iniquitas	NOUN	_	_	_	_	_	_
+36	mea	meus	DET	_	_	_	_	_	_
+37	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-51
+# text = furtum certe punit lex tua , domine , et lex scripta in cordibus hominum , quam ne ipsa quidem delet iniquitas .
+1	furtum	furtum	NOUN	_	_	_	_	_	_
+2	certe	certe	ADV	_	_	_	_	_	_
+3	punit	punio	VERB	_	_	_	_	_	_
+4	lex	lex	NOUN	_	_	_	_	_	_
+5	tua	tuus	DET	_	_	_	_	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7	domine	dominus	NOUN	_	_	_	_	_	_
+8	,	,	PUNCT	_	_	_	_	_	_
+9	et	et	CCONJ	_	_	_	_	_	_
+10	lex	lex	NOUN	_	_	_	_	_	_
+11	scripta	scribo	VERB	_	_	_	_	_	_
+12	in	in	ADP	_	_	_	_	_	_
+13	cordibus	cor	NOUN	_	_	_	_	_	_
+14	hominum	homo	NOUN	_	_	_	_	_	_
+15	,	,	PUNCT	_	_	_	_	_	_
+16	quam	qui	PRON	_	_	_	_	_	_
+17	ne	ne	SCONJ	_	_	_	_	_	_
+18	ipsa	ipse	DET	_	_	_	_	_	_
+19	quidem	quidem	ADV	_	_	_	_	_	_
+20	delet	deleo	VERB	_	_	_	_	_	_
+21	iniquitas	iniquitas	NOUN	_	_	_	_	_	_
+22	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-52
+# text = quis enim fur aequo animo furem patitur ?
+1	quis	quis	PRON	_	_	_	_	_	_
+2	enim	enim	ADV	_	_	_	_	_	_
+3	fur	fur	NOUN	_	_	_	_	_	_
+4	aequo	aequus	ADJ	_	_	_	_	_	_
+5	animo	animus	NOUN	_	_	_	_	_	_
+6	furem	fur	NOUN	_	_	_	_	_	_
+7	patitur	patior	VERB	_	_	_	_	_	_
+8	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-53
+# text = nec copiosus adactum inopia .
+1	nec	neque	CCONJ	_	_	_	_	_	_
+2	copiosus	copiosus	ADJ	_	_	_	_	_	_
+3	adactum	adigo	VERB	_	_	_	_	_	_
+4	inopia	inopia	NOUN	_	_	_	_	_	_
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-54
+# text = et ego furtum facere volui et feci , nulla compulsus egestate nisi penuria et fastidio iustitiae et sagina iniquitatis .
+1	et	et	CCONJ	_	_	_	_	_	_
+2	ego	ego	PRON	_	_	_	_	_	_
+3	furtum	furtum	NOUN	_	_	_	_	_	_
+4	facere	facio	VERB	_	_	_	_	_	_
+5	volui	uolo	VERB	_	_	_	_	_	_
+6	et	et	CCONJ	_	_	_	_	_	_
+7	feci	facio	VERB	_	_	_	_	_	_
+8	,	,	PUNCT	_	_	_	_	_	_
+9	nulla	nullus	DET	_	_	_	_	_	_
+10	compulsus	compello	VERB	_	_	_	_	_	_
+11	egestate	egestas	NOUN	_	_	_	_	_	_
+12	nisi	nisi	SCONJ	_	_	_	_	_	_
+13	penuria	penuria	NOUN	_	_	_	_	_	_
+14	et	et	CCONJ	_	_	_	_	_	_
+15	fastidio	fastidium	NOUN	_	_	_	_	_	_
+16	iustitiae	iustitia	NOUN	_	_	_	_	_	_
+17	et	et	CCONJ	_	_	_	_	_	_
+18	sagina	sagina	NOUN	_	_	_	_	_	_
+19	iniquitatis	iniquitas	NOUN	_	_	_	_	_	_
+20	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-55
+# text = nam id furatus sum quod mihi abundabat et multo melius , nec ea re volebam frui quam furto appetebam , sed ipso furto et peccato .
+1	nam	nam	ADV	_	_	_	_	_	_
+2	id	is	DET	_	_	_	_	_	_
+3	furatus	furor	VERB	_	_	_	_	_	_
+4	sum	sum	AUX	_	_	_	_	_	_
+5	quod	qui	PRON	_	_	_	_	_	_
+6	mihi	ego	PRON	_	_	_	_	_	_
+7	abundabat	abundo	VERB	_	_	_	_	_	_
+8	et	et	CCONJ	_	_	_	_	_	_
+9	multo	multo	ADV	_	_	_	_	_	_
+10	melius	melius	ADV	_	_	_	_	_	_
+11	,	,	PUNCT	_	_	_	_	_	_
+12	nec	neque	CCONJ	_	_	_	_	_	_
+13	ea	is	DET	_	_	_	_	_	_
+14	re	res	NOUN	_	_	_	_	_	_
+15	volebam	uolo	VERB	_	_	_	_	_	_
+16	frui	fruor	VERB	_	_	_	_	_	_
+17	quam	quam	SCONJ	_	_	_	_	_	_
+18	furto	furtum	NOUN	_	_	_	_	_	_
+19	appetebam	appeto	VERB	_	_	_	_	_	_
+20	,	,	PUNCT	_	_	_	_	_	_
+21	sed	sed	CCONJ	_	_	_	_	_	_
+22	ipso	ipse	DET	_	_	_	_	_	_
+23	furto	furtum	NOUN	_	_	_	_	_	_
+24	et	et	CCONJ	_	_	_	_	_	_
+25	peccato	peccatum	NOUN	_	_	_	_	_	_
+26	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-56
+# text = arbor erat pirus in vicinia nostrae vineae pomis onusta nec forma nec sapore inlecebrosis .
+1	arbor	arbor	NOUN	_	_	_	_	_	_
+2	erat	sum	AUX	_	_	_	_	_	_
+3	pirus	pirus	NOUN	_	_	_	_	_	_
+4	in	in	ADP	_	_	_	_	_	_
+5	vicinia	uicinia	NOUN	_	_	_	_	_	_
+6	nostrae	noster	DET	_	_	_	_	_	_
+7	vineae	uinea	NOUN	_	_	_	_	_	_
+8	pomis	pomum	NOUN	_	_	_	_	_	_
+9	onusta	onuste	ADV	_	_	_	_	_	_
+10	nec	neque	CCONJ	_	_	_	_	_	_
+11	forma	forma	NOUN	_	_	_	_	_	_
+12	nec	neque	CCONJ	_	_	_	_	_	_
+13	sapore	sapor	NOUN	_	_	_	_	_	_
+14	inlecebrosis	illecebrosus	ADJ	_	_	_	_	_	_
+15	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-57
+# text = ad hanc excutiendam atque asportandam nequissimi adulescentuli perreximus nocte intempesta ( quousque ludum de pestilentiae more in areis produxeramus ) et abstulimus inde onera ingentia , non ad nostras epulas sed vel proicienda porcis , etiamsi aliquid inde comedimus , dum tamen fieret a nobis quod eo liberet quo non liceret .
+1	ad	ad	ADP	_	_	_	_	_	_
+2	hanc	hic	DET	_	_	_	_	_	_
+3	excutiendam	excutio	VERB	_	_	_	_	_	_
+4	atque	atque	CCONJ	_	_	_	_	_	_
+5	asportandam	asporto	VERB	_	_	_	_	_	_
+6	nequissimi	nequissimus	ADJ	_	_	_	_	_	_
+7	adulescentuli	adulescentulus	NOUN	_	_	_	_	_	_
+8	perreximus	pergo	VERB	_	_	_	_	_	_
+9	nocte	nox	NOUN	_	_	_	_	_	_
+10	intempesta	intempestus	ADJ	_	_	_	_	_	_
+11	(	(	PUNCT	_	_	_	_	_	_
+12	quousque	quousque	ADV	_	_	_	_	_	_
+13	ludum	ludus	NOUN	_	_	_	_	_	_
+14	de	de	ADP	_	_	_	_	_	_
+15	pestilentiae	pestilentia	NOUN	_	_	_	_	_	_
+16	more	mos	NOUN	_	_	_	_	_	_
+17	in	in	ADP	_	_	_	_	_	_
+18	areis	area	NOUN	_	_	_	_	_	_
+19	produxeramus	produco	VERB	_	_	_	_	_	_
+20	)	)	PUNCT	_	_	_	_	_	_
+21	et	et	CCONJ	_	_	_	_	_	_
+22	abstulimus	affero	VERB	_	_	_	_	_	_
+23	inde	inde	ADV	_	_	_	_	_	_
+24	onera	onus	NOUN	_	_	_	_	_	_
+25	ingentia	ingens	ADJ	_	_	_	_	_	_
+26	,	,	PUNCT	_	_	_	_	_	_
+27	non	non	PART	_	_	_	_	_	_
+28	ad	ad	ADP	_	_	_	_	_	_
+29	nostras	noster	DET	_	_	_	_	_	_
+30	epulas	epulae	NOUN	_	_	_	_	_	_
+31	sed	sed	CCONJ	_	_	_	_	_	_
+32	vel	uel	CCONJ	_	_	_	_	_	_
+33	proicienda	proicio	VERB	_	_	_	_	_	_
+34	porcis	porcus	NOUN	_	_	_	_	_	_
+35	,	,	PUNCT	_	_	_	_	_	_
+36	etiamsi	etiamsi	SCONJ	_	_	_	_	_	_
+37	aliquid	aliquis	PRON	_	_	_	_	_	_
+38	inde	inde	ADV	_	_	_	_	_	_
+39	comedimus	comedo	VERB	_	_	_	_	_	_
+40	,	,	PUNCT	_	_	_	_	_	_
+41	dum	dum	ADV	_	_	_	_	_	_
+42	tamen	tamen	ADV	_	_	_	_	_	_
+43	fieret	fio	VERB	_	_	_	_	_	_
+44	a	ab	ADP	_	_	_	_	_	_
+45	nobis	nos	PRON	_	_	_	_	_	_
+46	quod	qui	PRON	_	_	_	_	_	_
+47	eo	is	DET	_	_	_	_	_	_
+48	liberet	libero	VERB	_	_	_	_	_	_
+49	quo	qui	PRON	_	_	_	_	_	_
+50	non	non	PART	_	_	_	_	_	_
+51	liceret	liceo	VERB	_	_	_	_	_	_
+52	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-58
+# text = ecce cor meum , deus , ecce cor meum , quod miseratus es in imo abyssi .
+1	ecce	ecce	PART	_	_	_	_	_	_
+2	cor	cor	NOUN	_	_	_	_	_	_
+3	meum	meus	DET	_	_	_	_	_	_
+4	,	,	PUNCT	_	_	_	_	_	_
+5	deus	deus	NOUN	_	_	_	_	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7	ecce	ecce	PART	_	_	_	_	_	_
+8	cor	cor	NOUN	_	_	_	_	_	_
+9	meum	meus	DET	_	_	_	_	_	_
+10	,	,	PUNCT	_	_	_	_	_	_
+11	quod	qui	PRON	_	_	_	_	_	_
+12	miseratus	miseror	VERB	_	_	_	_	_	_
+13	es	sum	AUX	_	_	_	_	_	_
+14	in	in	ADP	_	_	_	_	_	_
+15	imo	imus	ADJ	_	_	_	_	_	_
+16	abyssi	abyssus	NOUN	_	_	_	_	_	_
+17	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-59
+# text = dicat tibi nunc , ecce cor meum , quid ibi quaerebat , ut essem gratis malus et malitiae meae causa nulla esset nisi malitia .
+1	dicat	dico	VERB	_	_	_	_	_	_
+2	tibi	tu	PRON	_	_	_	_	_	_
+3	nunc	nunc	ADV	_	_	_	_	_	_
+4	,	,	PUNCT	_	_	_	_	_	_
+5	ecce	ecce	PART	_	_	_	_	_	_
+6	cor	cor	NOUN	_	_	_	_	_	_
+7	meum	meus	DET	_	_	_	_	_	_
+8	,	,	PUNCT	_	_	_	_	_	_
+9	quid	quis	PRON	_	_	_	_	_	_
+10	ibi	ibi	ADV	_	_	_	_	_	_
+11	quaerebat	quaero	VERB	_	_	_	_	_	_
+12	,	,	PUNCT	_	_	_	_	_	_
+13	ut	ut	SCONJ	_	_	_	_	_	_
+14	essem	sum	AUX	_	_	_	_	_	_
+15	gratis	gratis	ADV	_	_	_	_	_	_
+16	malus	malus	ADJ	_	_	_	_	_	_
+17	et	et	CCONJ	_	_	_	_	_	_
+18	malitiae	malitia	NOUN	_	_	_	_	_	_
+19	meae	meus	DET	_	_	_	_	_	_
+20	causa	causa	NOUN	_	_	_	_	_	_
+21	nulla	nullus	DET	_	_	_	_	_	_
+22	esset	sum	AUX	_	_	_	_	_	_
+23	nisi	nisi	SCONJ	_	_	_	_	_	_
+24	malitia	malitia	NOUN	_	_	_	_	_	_
+25	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-60
+# text = foeda erat , et amavi eam .
+1	foeda	foedus	NOUN	_	_	_	_	_	_
+2	erat	sum	AUX	_	_	_	_	_	_
+3	,	,	PUNCT	_	_	_	_	_	_
+4	et	et	CCONJ	_	_	_	_	_	_
+5	amavi	amo	VERB	_	_	_	_	_	_
+6	eam	is	DET	_	_	_	_	_	_
+7	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-61
+# text = amavi perire , amavi defectum meum , non illud ad quod deficiebam , sed defectum meum ipsum amavi , turpis anima et dissiliens a firmamento tuo in exterminium , non dedecore aliquid , sed dedecus appetens .
+1	amavi	amo	VERB	_	_	_	_	_	_
+2	perire	pereo	VERB	_	_	_	_	_	_
+3	,	,	PUNCT	_	_	_	_	_	_
+4	amavi	amo	VERB	_	_	_	_	_	_
+5	defectum	defectus	NOUN	_	_	_	_	_	_
+6	meum	meus	DET	_	_	_	_	_	_
+7	,	,	PUNCT	_	_	_	_	_	_
+8	non	non	PART	_	_	_	_	_	_
+9	illud	ille	DET	_	_	_	_	_	_
+10	ad	ad	ADP	_	_	_	_	_	_
+11	quod	qui	PRON	_	_	_	_	_	_
+12	deficiebam	deficio	VERB	_	_	_	_	_	_
+13	,	,	PUNCT	_	_	_	_	_	_
+14	sed	sed	CCONJ	_	_	_	_	_	_
+15	defectum	defectus	NOUN	_	_	_	_	_	_
+16	meum	meus	DET	_	_	_	_	_	_
+17	ipsum	ipse	DET	_	_	_	_	_	_
+18	amavi	amo	VERB	_	_	_	_	_	_
+19	,	,	PUNCT	_	_	_	_	_	_
+20	turpis	turpis	ADJ	_	_	_	_	_	_
+21	anima	anima	NOUN	_	_	_	_	_	_
+22	et	et	CCONJ	_	_	_	_	_	_
+23	dissiliens	dissilio	VERB	_	_	_	_	_	_
+24	a	ab	ADP	_	_	_	_	_	_
+25	firmamento	firmamentum	NOUN	_	_	_	_	_	_
+26	tuo	tuus	DET	_	_	_	_	_	_
+27	in	in	ADP	_	_	_	_	_	_
+28	exterminium	exterminium	NOUN	_	_	_	_	_	_
+29	,	,	PUNCT	_	_	_	_	_	_
+30	non	non	PART	_	_	_	_	_	_
+31	dedecore	dedecus	NOUN	_	_	_	_	_	_
+32	aliquid	aliquis	PRON	_	_	_	_	_	_
+33	,	,	PUNCT	_	_	_	_	_	_
+34	sed	sed	CCONJ	_	_	_	_	_	_
+35	dedecus	dedecus	NOUN	_	_	_	_	_	_
+36	appetens	appeto	VERB	_	_	_	_	_	_
+37	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-63
+# text = etenim species est pulchris corporibus et auro et argento et omnibus , et in contactu carnis congruentia valet plurimum , ceterisque sensibus est sua cuique adcommodata modificatio corporum .
+1	etenim	etenim	ADV	_	_	_	_	_	_
+2	species	species	NOUN	_	_	_	_	_	_
+3	est	sum	AUX	_	_	_	_	_	_
+4	pulchris	pulcher	ADJ	_	_	_	_	_	_
+5	corporibus	corpus	NOUN	_	_	_	_	_	_
+6	et	et	CCONJ	_	_	_	_	_	_
+7	auro	aurum	NOUN	_	_	_	_	_	_
+8	et	et	CCONJ	_	_	_	_	_	_
+9	argento	argentum	NOUN	_	_	_	_	_	_
+10	et	et	CCONJ	_	_	_	_	_	_
+11	omnibus	omnis	DET	_	_	_	_	_	_
+12	,	,	PUNCT	_	_	_	_	_	_
+13	et	et	CCONJ	_	_	_	_	_	_
+14	in	in	ADP	_	_	_	_	_	_
+15	contactu	contactus	NOUN	_	_	_	_	_	_
+16	carnis	caro	NOUN	_	_	_	_	_	_
+17	congruentia	congruentia	NOUN	_	_	_	_	_	_
+18	valet	ualeo	VERB	_	_	_	_	_	_
+19	plurimum	multum	ADV	_	_	_	_	_	_
+20	,	,	PUNCT	_	_	_	_	_	_
+21	ceterisque	ceterus	DET	_	_	_	_	_	_
+22	sensibus	sensus	NOUN	_	_	_	_	_	_
+23	est	sum	AUX	_	_	_	_	_	_
+24	sua	suus	DET	_	_	_	_	_	_
+25	cuique	quisque	PRON	_	_	_	_	_	_
+26	adcommodata	accomodatus	ADJ	_	_	_	_	_	_
+27	modificatio	modificatio	NOUN	_	_	_	_	_	_
+28	corporum	corpus	NOUN	_	_	_	_	_	_
+29	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-65
+# text = habet etiam honor temporalis et imperitandi atque superandi potentia suum decus , unde etiam vindictae aviditas oritur , et tamen in cuncta haec adipiscenda non est egrediendum abs te , domine , neque deviandum a lege tua .
+1	habet	habeo	VERB	_	_	_	_	_	_
+2	etiam	etiam	ADV	_	_	_	_	_	_
+3	honor	honor	NOUN	_	_	_	_	_	_
+4	temporalis	temporalis	ADJ	_	_	_	_	_	_
+5	et	et	CCONJ	_	_	_	_	_	_
+6	imperitandi	imperito	VERB	_	_	_	_	_	_
+7	atque	atque	CCONJ	_	_	_	_	_	_
+8	superandi	supero	VERB	_	_	_	_	_	_
+9	potentia	potentia	NOUN	_	_	_	_	_	_
+10	suum	suus	DET	_	_	_	_	_	_
+11	decus	decus	NOUN	_	_	_	_	_	_
+12	,	,	PUNCT	_	_	_	_	_	_
+13	unde	unde	ADV	_	_	_	_	_	_
+14	etiam	etiam	ADV	_	_	_	_	_	_
+15	vindictae	uindicta	NOUN	_	_	_	_	_	_
+16	aviditas	auiditas	NOUN	_	_	_	_	_	_
+17	oritur	oro	VERB	_	_	_	_	_	_
+18	,	,	PUNCT	_	_	_	_	_	_
+19	et	et	CCONJ	_	_	_	_	_	_
+20	tamen	tamen	ADV	_	_	_	_	_	_
+21	in	in	ADP	_	_	_	_	_	_
+22	cuncta	cunctus	DET	_	_	_	_	_	_
+23	haec	hic	DET	_	_	_	_	_	_
+24	adipiscenda	adipiscor	VERB	_	_	_	_	_	_
+25	non	non	PART	_	_	_	_	_	_
+26	est	sum	AUX	_	_	_	_	_	_
+27	egrediendum	egredior	VERB	_	_	_	_	_	_
+28	abs	ab	ADP	_	_	_	_	_	_
+29	te	tu	PRON	_	_	_	_	_	_
+30	,	,	PUNCT	_	_	_	_	_	_
+31	domine	dominus	NOUN	_	_	_	_	_	_
+32	,	,	PUNCT	_	_	_	_	_	_
+33	neque	neque	CCONJ	_	_	_	_	_	_
+34	deviandum	deuio	VERB	_	_	_	_	_	_
+35	a	ab	ADP	_	_	_	_	_	_
+36	lege	lex	NOUN	_	_	_	_	_	_
+37	tua	tuus	DET	_	_	_	_	_	_
+38	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-67
+# text = et vita quam hic vivimus habet inlecebram suam propter quendam modum decoris sui et convenientiam cum his omnibus infimis pulchris .
+1	et	et	CCONJ	_	_	_	_	_	_
+2	vita	uita	NOUN	_	_	_	_	_	_
+3	quam	qui	PRON	_	_	_	_	_	_
+4	hic	hic	DET	_	_	_	_	_	_
+5	vivimus	uiuo	VERB	_	_	_	_	_	_
+6	habet	habeo	VERB	_	_	_	_	_	_
+7	inlecebram	illecebra	NOUN	_	_	_	_	_	_
+8	suam	suus	DET	_	_	_	_	_	_
+9	propter	propter	ADP	_	_	_	_	_	_
+10	quendam	quidam	DET	_	_	_	_	_	_
+11	modum	modus	NOUN	_	_	_	_	_	_
+12	decoris	decor	NOUN	_	_	_	_	_	_
+13	sui	suus	DET	_	_	_	_	_	_
+14	et	et	CCONJ	_	_	_	_	_	_
+15	convenientiam	conuenientia	NOUN	_	_	_	_	_	_
+16	cum	cum	ADP	_	_	_	_	_	_
+17	his	hic	DET	_	_	_	_	_	_
+18	omnibus	omnis	DET	_	_	_	_	_	_
+19	infimis	infimus	ADJ	_	_	_	_	_	_
+20	pulchris	pulcher	ADJ	_	_	_	_	_	_
+21	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-69
+# text = amicitia quoque hominum caro nodo dulcis est propter unitatem de multis animis .
+1	amicitia	amicitia	NOUN	_	_	_	_	_	_
+2	quoque	quoque	ADV	_	_	_	_	_	_
+3	hominum	homo	NOUN	_	_	_	_	_	_
+4	caro	carus	ADJ	_	_	_	_	_	_
+5	nodo	nodus	NOUN	_	_	_	_	_	_
+6	dulcis	dulcis	ADJ	_	_	_	_	_	_
+7	est	sum	AUX	_	_	_	_	_	_
+8	propter	propter	ADP	_	_	_	_	_	_
+9	unitatem	unitas	NOUN	_	_	_	_	_	_
+10	de	de	ADP	_	_	_	_	_	_
+11	multis	multus	DET	_	_	_	_	_	_
+12	animis	animus	NOUN	_	_	_	_	_	_
+13	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-71
+# text = propter universa haec atque huius modi peccatum admittitur , dum immoderata in ista inclinatione , cum extrema bona sint , meliora et summa deseruntur , tu , domine deus noster , et veritas tua , et lex tua .
+1	propter	propter	ADP	_	_	_	_	_	_
+2	universa	uniuersus	DET	_	_	_	_	_	_
+3	haec	hic	DET	_	_	_	_	_	_
+4	atque	atque	CCONJ	_	_	_	_	_	_
+5	huius	hic	DET	_	_	_	_	_	_
+6	modi	modus	NOUN	_	_	_	_	_	_
+7	peccatum	peccatum	NOUN	_	_	_	_	_	_
+8	admittitur	admitto	VERB	_	_	_	_	_	_
+9	,	,	PUNCT	_	_	_	_	_	_
+10	dum	dum	ADV	_	_	_	_	_	_
+11	immoderata	immoderatus	ADJ	_	_	_	_	_	_
+12	in	in	ADP	_	_	_	_	_	_
+13	ista	iste	DET	_	_	_	_	_	_
+14	inclinatione	inclinatio	NOUN	_	_	_	_	_	_
+15	,	,	PUNCT	_	_	_	_	_	_
+16	cum	cum	ADV	_	_	_	_	_	_
+17	extrema	extremus	ADJ	_	_	_	_	_	_
+18	bona	bonus	ADJ	_	_	_	_	_	_
+19	sint	sum	AUX	_	_	_	_	_	_
+20	,	,	PUNCT	_	_	_	_	_	_
+21	meliora	bonus	ADJ	_	_	_	_	_	_
+22	et	et	CCONJ	_	_	_	_	_	_
+23	summa	summus	ADJ	_	_	_	_	_	_
+24	deseruntur	desero	VERB	_	_	_	_	_	_
+25	,	,	PUNCT	_	_	_	_	_	_
+26	tu	tu	PRON	_	_	_	_	_	_
+27	,	,	PUNCT	_	_	_	_	_	_
+28	domine	dominus	NOUN	_	_	_	_	_	_
+29	deus	deus	NOUN	_	_	_	_	_	_
+30	noster	noster	DET	_	_	_	_	_	_
+31	,	,	PUNCT	_	_	_	_	_	_
+32	et	et	CCONJ	_	_	_	_	_	_
+33	veritas	ueritas	NOUN	_	_	_	_	_	_
+34	tua	tuus	DET	_	_	_	_	_	_
+35	,	,	PUNCT	_	_	_	_	_	_
+36	et	et	CCONJ	_	_	_	_	_	_
+37	lex	lex	NOUN	_	_	_	_	_	_
+38	tua	tuus	DET	_	_	_	_	_	_
+39	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-72
+# text = habent enim et haec ima delectationes , sed non sicut deus meus , qui fecit omnia , quia in ipso delectatur iustus , et ipse est deliciae rectorum corde .
+1	habent	habeo	VERB	_	_	_	_	_	_
+2	enim	enim	ADV	_	_	_	_	_	_
+3	et	et	CCONJ	_	_	_	_	_	_
+4	haec	hic	DET	_	_	_	_	_	_
+5	ima	imus	ADJ	_	_	_	_	_	_
+6	delectationes	delectatio	NOUN	_	_	_	_	_	_
+7	,	,	PUNCT	_	_	_	_	_	_
+8	sed	sed	CCONJ	_	_	_	_	_	_
+9	non	non	PART	_	_	_	_	_	_
+10	sicut	sicut	ADV	_	_	_	_	_	_
+11	deus	deus	NOUN	_	_	_	_	_	_
+12	meus	meus	DET	_	_	_	_	_	_
+13	,	,	PUNCT	_	_	_	_	_	_
+14	qui	qui	PRON	_	_	_	_	_	_
+15	fecit	facio	VERB	_	_	_	_	_	_
+16	omnia	omnis	DET	_	_	_	_	_	_
+17	,	,	PUNCT	_	_	_	_	_	_
+18	quia	quia	SCONJ	_	_	_	_	_	_
+19	in	in	ADP	_	_	_	_	_	_
+20	ipso	ipse	DET	_	_	_	_	_	_
+21	delectatur	delector	VERB	_	_	_	_	_	_
+22	iustus	iustus	ADJ	_	_	_	_	_	_
+23	,	,	PUNCT	_	_	_	_	_	_
+24	et	et	CCONJ	_	_	_	_	_	_
+25	ipse	ipse	DET	_	_	_	_	_	_
+26	est	sum	AUX	_	_	_	_	_	_
+27	deliciae	delicia	NOUN	_	_	_	_	_	_
+28	rectorum	rectus	ADJ	_	_	_	_	_	_
+29	corde	cor	NOUN	_	_	_	_	_	_
+30	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-73
+# text = cum itaque de facinore quaeritur qua causa factum sit , credi non solet , nisi cum appetitus adipiscendi alicuius illorum bonorum quae infima diximus esse potuisse apparuerit aut metus amittendi .
+1	cum	cum	ADV	_	_	_	_	_	_
+2	itaque	itaque	ADV	_	_	_	_	_	_
+3	de	de	ADP	_	_	_	_	_	_
+4	facinore	facinus	NOUN	_	_	_	_	_	_
+5	quaeritur	quaero	VERB	_	_	_	_	_	_
+6	qua	qui	PRON	_	_	_	_	_	_
+7	causa	causa	NOUN	_	_	_	_	_	_
+8	factum	facio	VERB	_	_	_	_	_	_
+9	sit	sum	AUX	_	_	_	_	_	_
+10	,	,	PUNCT	_	_	_	_	_	_
+11	credi	credo	VERB	_	_	_	_	_	_
+12	non	non	PART	_	_	_	_	_	_
+13	solet	soleo	VERB	_	_	_	_	_	_
+14	,	,	PUNCT	_	_	_	_	_	_
+15	nisi	nisi	SCONJ	_	_	_	_	_	_
+16	cum	cum	ADV	_	_	_	_	_	_
+17	appetitus	appetitus	NOUN	_	_	_	_	_	_
+18	adipiscendi	adipiscor	VERB	_	_	_	_	_	_
+19	alicuius	aliquis	PRON	_	_	_	_	_	_
+20	illorum	ille	DET	_	_	_	_	_	_
+21	bonorum	bonus	ADJ	_	_	_	_	_	_
+22	quae	qui	PRON	_	_	_	_	_	_
+23	infima	infimus	ADJ	_	_	_	_	_	_
+24	diximus	dico	VERB	_	_	_	_	_	_
+25	esse	sum	AUX	_	_	_	_	_	_
+26	potuisse	possum	VERB	_	_	_	_	_	_
+27	apparuerit	appareo	VERB	_	_	_	_	_	_
+28	aut	aut	CCONJ	_	_	_	_	_	_
+29	metus	metus	NOUN	_	_	_	_	_	_
+30	amittendi	amitto	VERB	_	_	_	_	_	_
+31	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-74
+# text = pulchra sunt enim et decora , quamquam prae bonis superioribus et beatificis abiecta et iacentia .
+1	pulchra	pulcher	ADJ	_	_	_	_	_	_
+2	sunt	sum	AUX	_	_	_	_	_	_
+3	enim	enim	ADV	_	_	_	_	_	_
+4	et	et	CCONJ	_	_	_	_	_	_
+5	decora	decorus	ADJ	_	_	_	_	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7	quamquam	quamquam	SCONJ	_	_	_	_	_	_
+8	prae	prae	ADP	_	_	_	_	_	_
+9	bonis	bonus	ADJ	_	_	_	_	_	_
+10	superioribus	super	ADJ	_	_	_	_	_	_
+11	et	et	CCONJ	_	_	_	_	_	_
+12	beatificis	beatificus	ADJ	_	_	_	_	_	_
+13	abiecta	abicio	VERB	_	_	_	_	_	_
+14	et	et	CCONJ	_	_	_	_	_	_
+15	iacentia	iaceo	VERB	_	_	_	_	_	_
+16	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-75
+# text = homicidium fecit .
+1	homicidium	homicidium	NOUN	_	_	_	_	_	_
+2	fecit	facio	VERB	_	_	_	_	_	_
+3	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-76
+# text = cur fecit ?
+1	cur	cur	ADV	_	_	_	_	_	_
+2	fecit	facio	VERB	_	_	_	_	_	_
+3	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-77
+# text = adamavit eius coniugem aut praedium , aut voluit depraedari unde viveret , aut timuit ab illo tale aliquid amittere , aut laesus ulcisci se exarsit .
+1	adamavit	adamo	VERB	_	_	_	_	_	_
+2	eius	is	DET	_	_	_	_	_	_
+3	coniugem	coniunx	NOUN	_	_	_	_	_	_
+4	aut	aut	CCONJ	_	_	_	_	_	_
+5	praedium	praedium	NOUN	_	_	_	_	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7	aut	aut	CCONJ	_	_	_	_	_	_
+8	voluit	uolo	VERB	_	_	_	_	_	_
+9	depraedari	depraedor	VERB	_	_	_	_	_	_
+10	unde	unde	ADV	_	_	_	_	_	_
+11	viveret	uiuo	VERB	_	_	_	_	_	_
+12	,	,	PUNCT	_	_	_	_	_	_
+13	aut	aut	CCONJ	_	_	_	_	_	_
+14	timuit	timeo	VERB	_	_	_	_	_	_
+15	ab	ab	ADP	_	_	_	_	_	_
+16	illo	ille	DET	_	_	_	_	_	_
+17	tale	talis	DET	_	_	_	_	_	_
+18	aliquid	aliquis	PRON	_	_	_	_	_	_
+19	amittere	amitto	VERB	_	_	_	_	_	_
+20	,	,	PUNCT	_	_	_	_	_	_
+21	aut	aut	CCONJ	_	_	_	_	_	_
+22	laesus	laedo	VERB	_	_	_	_	_	_
+23	ulcisci	ulciscor	VERB	_	_	_	_	_	_
+24	se	sui	PRON	_	_	_	_	_	_
+25	exarsit	exardeo	VERB	_	_	_	_	_	_
+26	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-78
+# text = num homicidium sine causa faceret ipso homicidio delectatus ?
+1	num	num	ADV	_	_	_	_	_	_
+2	homicidium	homicidium	NOUN	_	_	_	_	_	_
+3	sine	sine	ADP	_	_	_	_	_	_
+4	causa	causa	NOUN	_	_	_	_	_	_
+5	faceret	facio	VERB	_	_	_	_	_	_
+6	ipso	ipse	DET	_	_	_	_	_	_
+7	homicidio	homicidium	NOUN	_	_	_	_	_	_
+8	delectatus	delecto	VERB	_	_	_	_	_	_
+9	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-79
+# text = quis crediderit ?
+1	quis	quis	PRON	_	_	_	_	_	_
+2	crediderit	credo	VERB	_	_	_	_	_	_
+3	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-80
+# text = nam et de quo dictum est , vaecordi et nimis crudeli homine , quod gratuito potius malus atque crudelis erat , praedicta est tamen causa :
+1	nam	nam	ADV	_	_	_	_	_	_
+2	et	et	CCONJ	_	_	_	_	_	_
+3	de	de	ADP	_	_	_	_	_	_
+4	quo	qui	PRON	_	_	_	_	_	_
+5	dictum	dico	VERB	_	_	_	_	_	_
+6	est	sum	AUX	_	_	_	_	_	_
+7	,	,	PUNCT	_	_	_	_	_	_
+8	vaecordi	uecors	ADJ	_	_	_	_	_	_
+9	et	et	CCONJ	_	_	_	_	_	_
+10	nimis	nimis	ADV	_	_	_	_	_	_
+11	crudeli	crudelis	ADJ	_	_	_	_	_	_
+12	homine	homo	NOUN	_	_	_	_	_	_
+13	,	,	PUNCT	_	_	_	_	_	_
+14	quod	qui	PRON	_	_	_	_	_	_
+15	gratuito	gratuitus	ADJ	_	_	_	_	_	_
+16	potius	potius	ADV	_	_	_	_	_	_
+17	malus	malus	ADJ	_	_	_	_	_	_
+18	atque	atque	CCONJ	_	_	_	_	_	_
+19	crudelis	crudelis	ADJ	_	_	_	_	_	_
+20	erat	sum	AUX	_	_	_	_	_	_
+21	,	,	PUNCT	_	_	_	_	_	_
+22	praedicta	praedico	VERB	_	_	_	_	_	_
+23	est	sum	AUX	_	_	_	_	_	_
+24	tamen	tamen	ADV	_	_	_	_	_	_
+25	causa	causa	NOUN	_	_	_	_	_	_
+26	:	:	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-81
+# text = ne per otium ,
+1	ne	ne	SCONJ	_	_	_	_	_	_
+2	per	per	ADP	_	_	_	_	_	_
+3	otium	otium	NOUN	_	_	_	_	_	_
+4	,	,	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-82
+# text = inquit ,
+1	inquit	inquam	VERB	_	_	_	_	_	_
+2	,	,	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-83
+# text = torpesceret manus aut animus .
+1	torpesceret	torpesco	VERB	_	_	_	_	_	_
+2	manus	manus	NOUN	_	_	_	_	_	_
+3	aut	aut	CCONJ	_	_	_	_	_	_
+4	animus	animus	NOUN	_	_	_	_	_	_
+5	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-85
+# text = quaere id quoque : ' cur ita ? '
+1	quaere	quaero	VERB	_	_	_	_	_	_
+2	id	is	DET	_	_	_	_	_	_
+3	quoque	quoque	ADV	_	_	_	_	_	_
+4	:	:	PUNCT	_	_	_	_	_	_
+5	'	'	PUNCT	_	_	_	_	_	_
+6	cur	cur	ADV	_	_	_	_	_	_
+7	ita	ita	ADV	_	_	_	_	_	_
+8	?	?	PUNCT	_	_	_	_	_	_
+9	'	'	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-86
+# text = ut scilicet illa exercitatione scelerum capta urbe honores , imperia , divitias adsequeretur et careret metu legum et difficultate rerum propter ' inopiam rei familiaris et conscientiam scelerum ' .
+1	ut	ut	ADV	_	_	_	_	_	_
+2	scilicet	scilicet	ADV	_	_	_	_	_	_
+3	illa	ille	DET	_	_	_	_	_	_
+4	exercitatione	exercitatio	NOUN	_	_	_	_	_	_
+5	scelerum	scelus	NOUN	_	_	_	_	_	_
+6	capta	capio	VERB	_	_	_	_	_	_
+7	urbe	urbs	NOUN	_	_	_	_	_	_
+8	honores	honor	NOUN	_	_	_	_	_	_
+9	,	,	PUNCT	_	_	_	_	_	_
+10	imperia	imperium	NOUN	_	_	_	_	_	_
+11	,	,	PUNCT	_	_	_	_	_	_
+12	divitias	diuitiae	NOUN	_	_	_	_	_	_
+13	adsequeretur	assequor	VERB	_	_	_	_	_	_
+14	et	et	CCONJ	_	_	_	_	_	_
+15	careret	careo	VERB	_	_	_	_	_	_
+16	metu	metus	NOUN	_	_	_	_	_	_
+17	legum	lex	NOUN	_	_	_	_	_	_
+18	et	et	CCONJ	_	_	_	_	_	_
+19	difficultate	difficultas	NOUN	_	_	_	_	_	_
+20	rerum	res	NOUN	_	_	_	_	_	_
+21	propter	propter	ADP	_	_	_	_	_	_
+22	'	'	PUNCT	_	_	_	_	_	_
+23	inopiam	inopia	NOUN	_	_	_	_	_	_
+24	rei	res	NOUN	_	_	_	_	_	_
+25	familiaris	familiaris	ADJ	_	_	_	_	_	_
+26	et	et	CCONJ	_	_	_	_	_	_
+27	conscientiam	conscientia	NOUN	_	_	_	_	_	_
+28	scelerum	scelus	NOUN	_	_	_	_	_	_
+29	'	'	PUNCT	_	_	_	_	_	_
+30	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-87
+# text = nec ipse igitur Catilina amavit facinora sua , sed utique aliud cuius causa illa faciebat .
+1	nec	neque	CCONJ	_	_	_	_	_	_
+2	ipse	ipse	DET	_	_	_	_	_	_
+3	igitur	igitur	ADV	_	_	_	_	_	_
+4	Catilina	catilina	PROPN	_	_	_	_	_	_
+5	amavit	amo	VERB	_	_	_	_	_	_
+6	facinora	facinus	NOUN	_	_	_	_	_	_
+7	sua	suus	DET	_	_	_	_	_	_
+8	,	,	PUNCT	_	_	_	_	_	_
+9	sed	sed	CCONJ	_	_	_	_	_	_
+10	utique	utique	ADV	_	_	_	_	_	_
+11	aliud	alius	DET	_	_	_	_	_	_
+12	cuius	qui	PRON	_	_	_	_	_	_
+13	causa	causa	NOUN	_	_	_	_	_	_
+14	illa	ille	DET	_	_	_	_	_	_
+15	faciebat	facio	VERB	_	_	_	_	_	_
+16	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-88
+# text = quid ego miser in te amavi , o furtum meum , o facinus illud meum nocturnum sexti decimi anni aetatis meae ?
+1	quid	quis	PRON	_	_	_	_	_	_
+2	ego	ego	PRON	_	_	_	_	_	_
+3	miser	miser	ADJ	_	_	_	_	_	_
+4	in	in	ADP	_	_	_	_	_	_
+5	te	tu	PRON	_	_	_	_	_	_
+6	amavi	amo	VERB	_	_	_	_	_	_
+7	,	,	PUNCT	_	_	_	_	_	_
+8	o	o	INTJ	_	_	_	_	_	_
+9	furtum	furtum	NOUN	_	_	_	_	_	_
+10	meum	meus	DET	_	_	_	_	_	_
+11	,	,	PUNCT	_	_	_	_	_	_
+12	o	o	INTJ	_	_	_	_	_	_
+13	facinus	facinus	NOUN	_	_	_	_	_	_
+14	illud	ille	DET	_	_	_	_	_	_
+15	meum	meus	DET	_	_	_	_	_	_
+16	nocturnum	nocturnus	ADJ	_	_	_	_	_	_
+17	sexti	sextus	ADJ	_	_	_	_	_	_
+18	decimi	decimus	ADJ	_	_	_	_	_	_
+19	anni	annus	NOUN	_	_	_	_	_	_
+20	aetatis	aetas	NOUN	_	_	_	_	_	_
+21	meae	meus	DET	_	_	_	_	_	_
+22	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-89
+# text = non enim pulchrum eras , cum furtum esses .
+1	non	non	PART	_	_	_	_	_	_
+2	enim	enim	ADV	_	_	_	_	_	_
+3	pulchrum	pulcher	ADJ	_	_	_	_	_	_
+4	eras	sum	AUX	_	_	_	_	_	_
+5	,	,	PUNCT	_	_	_	_	_	_
+6	cum	cum	ADP	_	_	_	_	_	_
+7	furtum	furtum	NOUN	_	_	_	_	_	_
+8	esses	sum	AUX	_	_	_	_	_	_
+9	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-90
+# text = aut vero aliquid es , ut loquar ad te ?
+1	aut	aut	CCONJ	_	_	_	_	_	_
+2	vero	uero	ADV	_	_	_	_	_	_
+3	aliquid	aliquis	PRON	_	_	_	_	_	_
+4	es	sum	AUX	_	_	_	_	_	_
+5	,	,	PUNCT	_	_	_	_	_	_
+6	ut	ut	SCONJ	_	_	_	_	_	_
+7	loquar	loquor	VERB	_	_	_	_	_	_
+8	ad	ad	ADP	_	_	_	_	_	_
+9	te	tu	PRON	_	_	_	_	_	_
+10	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-91
+# text = pulchra erant poma illa quae furati sumus , quoniam creatura tua erat , pulcherrime omnium , creator omnium , deus bone , deus summum bonum et bonum verum meum .
+1	pulchra	pulcher	ADJ	_	_	_	_	_	_
+2	erant	sum	AUX	_	_	_	_	_	_
+3	poma	pomum	NOUN	_	_	_	_	_	_
+4	illa	ille	DET	_	_	_	_	_	_
+5	quae	qui	PRON	_	_	_	_	_	_
+6	furati	furor	VERB	_	_	_	_	_	_
+7	sumus	sum	AUX	_	_	_	_	_	_
+8	,	,	PUNCT	_	_	_	_	_	_
+9	quoniam	quoniam	SCONJ	_	_	_	_	_	_
+10	creatura	creatura	NOUN	_	_	_	_	_	_
+11	tua	tuus	DET	_	_	_	_	_	_
+12	erat	sum	AUX	_	_	_	_	_	_
+13	,	,	PUNCT	_	_	_	_	_	_
+14	pulcherrime	pulchre	ADV	_	_	_	_	_	_
+15	omnium	omnis	DET	_	_	_	_	_	_
+16	,	,	PUNCT	_	_	_	_	_	_
+17	creator	creator	NOUN	_	_	_	_	_	_
+18	omnium	omnis	DET	_	_	_	_	_	_
+19	,	,	PUNCT	_	_	_	_	_	_
+20	deus	deus	NOUN	_	_	_	_	_	_
+21	bone	bonus	ADJ	_	_	_	_	_	_
+22	,	,	PUNCT	_	_	_	_	_	_
+23	deus	deus	NOUN	_	_	_	_	_	_
+24	summum	summus	ADJ	_	_	_	_	_	_
+25	bonum	bonus	ADJ	_	_	_	_	_	_
+26	et	et	CCONJ	_	_	_	_	_	_
+27	bonum	bonus	ADJ	_	_	_	_	_	_
+28	verum	uerus	ADJ	_	_	_	_	_	_
+29	meum	meus	DET	_	_	_	_	_	_
+30	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-92
+# text = pulchra erant illa poma , sed non ipsa concupivit anima mea miserabilis .
+1	pulchra	pulcher	ADJ	_	_	_	_	_	_
+2	erant	sum	AUX	_	_	_	_	_	_
+3	illa	ille	DET	_	_	_	_	_	_
+4	poma	pomum	NOUN	_	_	_	_	_	_
+5	,	,	PUNCT	_	_	_	_	_	_
+6	sed	sed	CCONJ	_	_	_	_	_	_
+7	non	non	PART	_	_	_	_	_	_
+8	ipsa	ipse	DET	_	_	_	_	_	_
+9	concupivit	concupio	VERB	_	_	_	_	_	_
+10	anima	anima	NOUN	_	_	_	_	_	_
+11	mea	meus	DET	_	_	_	_	_	_
+12	miserabilis	miserabilis	ADJ	_	_	_	_	_	_
+13	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-93
+# text = erat mihi enim meliorum copia , illa autem decerpsi tantum ut furarer .
+1	erat	sum	AUX	_	_	_	_	_	_
+2	mihi	ego	PRON	_	_	_	_	_	_
+3	enim	enim	ADV	_	_	_	_	_	_
+4	meliorum	melior	ADJ	_	_	_	_	_	_
+5	copia	copia	NOUN	_	_	_	_	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7	illa	ille	DET	_	_	_	_	_	_
+8	autem	autem	CCONJ	_	_	_	_	_	_
+9	decerpsi	decerpo	VERB	_	_	_	_	_	_
+10	tantum	tantum	ADV	_	_	_	_	_	_
+11	ut	ut	SCONJ	_	_	_	_	_	_
+12	furarer	furor	VERB	_	_	_	_	_	_
+13	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-94
+# text = nam decerpta proieci , epulatus inde solam iniquitatem qua laetabar fruens .
+1	nam	nam	ADV	_	_	_	_	_	_
+2	decerpta	decerpo	VERB	_	_	_	_	_	_
+3	proieci	proicio	VERB	_	_	_	_	_	_
+4	,	,	PUNCT	_	_	_	_	_	_
+5	epulatus	epulor	VERB	_	_	_	_	_	_
+6	inde	inde	ADV	_	_	_	_	_	_
+7	solam	solus	DET	_	_	_	_	_	_
+8	iniquitatem	iniquitas	NOUN	_	_	_	_	_	_
+9	qua	qui	PRON	_	_	_	_	_	_
+10	laetabar	laetor	VERB	_	_	_	_	_	_
+11	fruens	fruor	VERB	_	_	_	_	_	_
+12	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-95
+# text = nam et si quid illorum pomorum intravit in os meum , condimentum ibi facinus erat .
+1	nam	nam	ADV	_	_	_	_	_	_
+2	et	et	CCONJ	_	_	_	_	_	_
+3	si	si	SCONJ	_	_	_	_	_	_
+4	quid	quis	PRON	_	_	_	_	_	_
+5	illorum	ille	DET	_	_	_	_	_	_
+6	pomorum	pomum	NOUN	_	_	_	_	_	_
+7	intravit	intro	VERB	_	_	_	_	_	_
+8	in	in	ADP	_	_	_	_	_	_
+9	os	os	NOUN	_	_	_	_	_	_
+10	meum	meus	DET	_	_	_	_	_	_
+11	,	,	PUNCT	_	_	_	_	_	_
+12	condimentum	condimentum	NOUN	_	_	_	_	_	_
+13	ibi	ibi	ADV	_	_	_	_	_	_
+14	facinus	facinus	NOUN	_	_	_	_	_	_
+15	erat	sum	AUX	_	_	_	_	_	_
+16	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-96
+# text = et nunc , domine deus meus , quaero quid me in furto delectaverit , et ecce species nulla est : non dico sicut in aequitate atque prudentia , sed neque sicut in mente hominis atque memoria et sensibus et vegetante vita , neque sicut speciosa sunt sidera et decora locis suis et terra et mare plena fetibus , qui succedunt nascendo decedentibus _ non saltem ut est quaedam defectiva species et umbratica vitiis fallentibus .
+1	et	et	CCONJ	_	_	_	_	_	_
+2	nunc	nunc	ADV	_	_	_	_	_	_
+3	,	,	PUNCT	_	_	_	_	_	_
+4	domine	dominus	NOUN	_	_	_	_	_	_
+5	deus	deus	NOUN	_	_	_	_	_	_
+6	meus	meus	DET	_	_	_	_	_	_
+7	,	,	PUNCT	_	_	_	_	_	_
+8	quaero	quaero	VERB	_	_	_	_	_	_
+9	quid	quis	PRON	_	_	_	_	_	_
+10	me	ego	PRON	_	_	_	_	_	_
+11	in	in	ADP	_	_	_	_	_	_
+12	furto	furtum	NOUN	_	_	_	_	_	_
+13	delectaverit	delecto	VERB	_	_	_	_	_	_
+14	,	,	PUNCT	_	_	_	_	_	_
+15	et	et	CCONJ	_	_	_	_	_	_
+16	ecce	ecce	PART	_	_	_	_	_	_
+17	species	species	NOUN	_	_	_	_	_	_
+18	nulla	nullus	DET	_	_	_	_	_	_
+19	est	sum	AUX	_	_	_	_	_	_
+20	:	:	PUNCT	_	_	_	_	_	_
+21	non	non	PART	_	_	_	_	_	_
+22	dico	dico	VERB	_	_	_	_	_	_
+23	sicut	sicut	ADV	_	_	_	_	_	_
+24	in	in	ADP	_	_	_	_	_	_
+25	aequitate	aequitas	NOUN	_	_	_	_	_	_
+26	atque	atque	CCONJ	_	_	_	_	_	_
+27	prudentia	prudentia	NOUN	_	_	_	_	_	_
+28	,	,	PUNCT	_	_	_	_	_	_
+29	sed	sed	CCONJ	_	_	_	_	_	_
+30	neque	neque	CCONJ	_	_	_	_	_	_
+31	sicut	sicut	ADV	_	_	_	_	_	_
+32	in	in	ADP	_	_	_	_	_	_
+33	mente	mens	NOUN	_	_	_	_	_	_
+34	hominis	homo	NOUN	_	_	_	_	_	_
+35	atque	atque	CCONJ	_	_	_	_	_	_
+36	memoria	memoria	NOUN	_	_	_	_	_	_
+37	et	et	CCONJ	_	_	_	_	_	_
+38	sensibus	sensus	NOUN	_	_	_	_	_	_
+39	et	et	CCONJ	_	_	_	_	_	_
+40	vegetante	uegeto	VERB	_	_	_	_	_	_
+41	vita	uita	NOUN	_	_	_	_	_	_
+42	,	,	PUNCT	_	_	_	_	_	_
+43	neque	neque	CCONJ	_	_	_	_	_	_
+44	sicut	sicut	ADV	_	_	_	_	_	_
+45	speciosa	speciosus	ADJ	_	_	_	_	_	_
+46	sunt	sum	AUX	_	_	_	_	_	_
+47	sidera	sidus	NOUN	_	_	_	_	_	_
+48	et	et	CCONJ	_	_	_	_	_	_
+49	decora	decorus	ADJ	_	_	_	_	_	_
+50	locis	locus	NOUN	_	_	_	_	_	_
+51	suis	suus	DET	_	_	_	_	_	_
+52	et	et	CCONJ	_	_	_	_	_	_
+53	terra	terra	NOUN	_	_	_	_	_	_
+54	et	et	CCONJ	_	_	_	_	_	_
+55	mare	mare	NOUN	_	_	_	_	_	_
+56	plena	plenus	ADJ	_	_	_	_	_	_
+57	fetibus	fetus	NOUN	_	_	_	_	_	_
+58	,	,	PUNCT	_	_	_	_	_	_
+59	qui	qui	PRON	_	_	_	_	_	_
+60	succedunt	succedo	VERB	_	_	_	_	_	_
+61	nascendo	nascor	VERB	_	_	_	_	_	_
+62	decedentibus	decedo	VERB	_	_	_	_	_	_
+63	_	_	PUNCT	_	_	_	_	_	_
+64	non	non	PART	_	_	_	_	_	_
+65	saltem	saltem	ADV	_	_	_	_	_	_
+66	ut	ut	SCONJ	_	_	_	_	_	_
+67	est	sum	AUX	_	_	_	_	_	_
+68	quaedam	quidam	DET	_	_	_	_	_	_
+69	defectiva	defectiuus	ADJ	_	_	_	_	_	_
+70	species	species	NOUN	_	_	_	_	_	_
+71	et	et	CCONJ	_	_	_	_	_	_
+72	umbratica	umbraticus	ADJ	_	_	_	_	_	_
+73	vitiis	uitium	NOUN	_	_	_	_	_	_
+74	fallentibus	fallo	VERB	_	_	_	_	_	_
+75	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-97
+# text = nam et superbia celsitudinem imitatur , cum tu sis unus super omnia deus excelsus .
+1	nam	nam	ADV	_	_	_	_	_	_
+2	et	et	CCONJ	_	_	_	_	_	_
+3	superbia	superbia	NOUN	_	_	_	_	_	_
+4	celsitudinem	celsitudo	NOUN	_	_	_	_	_	_
+5	imitatur	imitor	VERB	_	_	_	_	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7	cum	cum	ADP	_	_	_	_	_	_
+8	tu	tu	PRON	_	_	_	_	_	_
+9	sis	sum	AUX	_	_	_	_	_	_
+10	unus	unus	DET	_	_	_	_	_	_
+11	super	super	ADP	_	_	_	_	_	_
+12	omnia	omnis	DET	_	_	_	_	_	_
+13	deus	deus	NOUN	_	_	_	_	_	_
+14	excelsus	excelsus	ADJ	_	_	_	_	_	_
+15	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-98
+# text = et ambitio quid nisi honores quaerit et gloriam , cum tu sis prae cunctis honorandus unus et gloriosus in aeternum ?
+1	et	et	CCONJ	_	_	_	_	_	_
+2	ambitio	ambitio	NOUN	_	_	_	_	_	_
+3	quid	quis	PRON	_	_	_	_	_	_
+4	nisi	nisi	SCONJ	_	_	_	_	_	_
+5	honores	honor	NOUN	_	_	_	_	_	_
+6	quaerit	quaero	VERB	_	_	_	_	_	_
+7	et	et	CCONJ	_	_	_	_	_	_
+8	gloriam	gloria	NOUN	_	_	_	_	_	_
+9	,	,	PUNCT	_	_	_	_	_	_
+10	cum	cum	ADP	_	_	_	_	_	_
+11	tu	tu	PRON	_	_	_	_	_	_
+12	sis	sum	AUX	_	_	_	_	_	_
+13	prae	prae	ADP	_	_	_	_	_	_
+14	cunctis	cunctus	DET	_	_	_	_	_	_
+15	honorandus	honoro	VERB	_	_	_	_	_	_
+16	unus	unus	DET	_	_	_	_	_	_
+17	et	et	CCONJ	_	_	_	_	_	_
+18	gloriosus	gloriosus	ADJ	_	_	_	_	_	_
+19	in	in	ADP	_	_	_	_	_	_
+20	aeternum	aeternus	ADJ	_	_	_	_	_	_
+21	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-99
+# text = et saevitia potestatum timeri vult ' quis autem timendus nisi unus deus , cuius potestati eripi aut subtrahi quid potest , quando aut ubi aut quo vel a quo potest ?
+1	et	et	CCONJ	_	_	_	_	_	_
+2	saevitia	saeuitia	NOUN	_	_	_	_	_	_
+3	potestatum	potestas	NOUN	_	_	_	_	_	_
+4	timeri	timeo	VERB	_	_	_	_	_	_
+5	vult	uolo	VERB	_	_	_	_	_	_
+6	'	':	PUNCT	_	_	_	_	_	_
+7	quis	quis	PRON	_	_	_	_	_	_
+8	autem	autem	CCONJ	_	_	_	_	_	_
+9	timendus	timeo	VERB	_	_	_	_	_	_
+10	nisi	nisi	SCONJ	_	_	_	_	_	_
+11	unus	unus	DET	_	_	_	_	_	_
+12	deus	deus	NOUN	_	_	_	_	_	_
+13	,	,	PUNCT	_	_	_	_	_	_
+14	cuius	qui	PRON	_	_	_	_	_	_
+15	potestati	potestas	NOUN	_	_	_	_	_	_
+16	eripi	eripio	VERB	_	_	_	_	_	_
+17	aut	aut	CCONJ	_	_	_	_	_	_
+18	subtrahi	subtraho	VERB	_	_	_	_	_	_
+19	quid	quis	PRON	_	_	_	_	_	_
+20	potest	possum	VERB	_	_	_	_	_	_
+21	,	,	PUNCT	_	_	_	_	_	_
+22	quando	quando	ADV	_	_	_	_	_	_
+23	aut	aut	CCONJ	_	_	_	_	_	_
+24	ubi	ubi	ADV	_	_	_	_	_	_
+25	aut	aut	CCONJ	_	_	_	_	_	_
+26	quo	quo	ADV	_	_	_	_	_	_
+27	vel	uel	CCONJ	_	_	_	_	_	_
+28	a	ab	ADP	_	_	_	_	_	_
+29	quo	quis	PRON	_	_	_	_	_	_
+30	potest	possum	VERB	_	_	_	_	_	_
+31	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-100
+# text = et blanditiae lascivientium amari volunt : sed neque blandius est aliquid tua caritate nec amatur quicquam salubrius quam illa prae cunctis formosa et luminosa veritas tua .
+1	et	et	CCONJ	_	_	_	_	_	_
+2	blanditiae	blanditia	NOUN	_	_	_	_	_	_
+3	lascivientium	lasciuio	VERB	_	_	_	_	_	_
+4	amari	amo	VERB	_	_	_	_	_	_
+5	volunt	uolo	VERB	_	_	_	_	_	_
+6	:	:	PUNCT	_	_	_	_	_	_
+7	sed	sed	CCONJ	_	_	_	_	_	_
+8	neque	neque	CCONJ	_	_	_	_	_	_
+9	blandius	blandus	ADJ	_	_	_	_	_	_
+10	est	sum	AUX	_	_	_	_	_	_
+11	aliquid	aliquis	PRON	_	_	_	_	_	_
+12	tua	tuus	DET	_	_	_	_	_	_
+13	caritate	caritas	NOUN	_	_	_	_	_	_
+14	nec	neque	CCONJ	_	_	_	_	_	_
+15	amatur	amo	VERB	_	_	_	_	_	_
+16	quicquam	quisquam	PRON	_	_	_	_	_	_
+17	salubrius	saluber	ADJ	_	_	_	_	_	_
+18	quam	quam	SCONJ	_	_	_	_	_	_
+19	illa	ille	DET	_	_	_	_	_	_
+20	prae	prae	ADP	_	_	_	_	_	_
+21	cunctis	cunctus	DET	_	_	_	_	_	_
+22	formosa	formosus	ADJ	_	_	_	_	_	_
+23	et	et	CCONJ	_	_	_	_	_	_
+24	luminosa	luminosus	ADJ	_	_	_	_	_	_
+25	veritas	ueritas	NOUN	_	_	_	_	_	_
+26	tua	tuus	DET	_	_	_	_	_	_
+27	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-101
+# text = et curiositas affectare videtur studium scientiae , cum tu omnia summe noveris .
+1	et	et	CCONJ	_	_	_	_	_	_
+2	curiositas	curiositas	NOUN	_	_	_	_	_	_
+3	affectare	affecto	VERB	_	_	_	_	_	_
+4	videtur	uideo	VERB	_	_	_	_	_	_
+5	studium	studium	NOUN	_	_	_	_	_	_
+6	scientiae	scientia	NOUN	_	_	_	_	_	_
+7	,	,	PUNCT	_	_	_	_	_	_
+8	cum	cum	ADV	_	_	_	_	_	_
+9	tu	tu	PRON	_	_	_	_	_	_
+10	omnia	omnis	DET	_	_	_	_	_	_
+11	summe	summe	ADV	_	_	_	_	_	_
+12	noveris	nosco	VERB	_	_	_	_	_	_
+13	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-102
+# text = ignorantia quoque ipsa atque stultitia simplicitatis et innocentiae nomine tegitur , quia te simplicius quicquam non reperitur .
+1	ignorantia	ignorantia	NOUN	_	_	_	_	_	_
+2	quoque	quoque	ADV	_	_	_	_	_	_
+3	ipsa	ipse	DET	_	_	_	_	_	_
+4	atque	atque	CCONJ	_	_	_	_	_	_
+5	stultitia	stultitia	NOUN	_	_	_	_	_	_
+6	simplicitatis	simplicitas	NOUN	_	_	_	_	_	_
+7	et	et	CCONJ	_	_	_	_	_	_
+8	innocentiae	innocentia	NOUN	_	_	_	_	_	_
+9	nomine	nomen	NOUN	_	_	_	_	_	_
+10	tegitur	tego	VERB	_	_	_	_	_	_
+11	,	,	PUNCT	_	_	_	_	_	_
+12	quia	quia	SCONJ	_	_	_	_	_	_
+13	te	tu	PRON	_	_	_	_	_	_
+14	simplicius	simplex	ADJ	_	_	_	_	_	_
+15	quicquam	quisquam	PRON	_	_	_	_	_	_
+16	non	non	PART	_	_	_	_	_	_
+17	reperitur	reperio	VERB	_	_	_	_	_	_
+18	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-103
+# text = quid te autem innocentius , quandoquidem opera sua malis inimica sunt ?
+1	quid	quis	PRON	_	_	_	_	_	_
+2	te	tu	PRON	_	_	_	_	_	_
+3	autem	autem	CCONJ	_	_	_	_	_	_
+4	innocentius	innocens	ADJ	_	_	_	_	_	_
+5	,	,	PUNCT	_	_	_	_	_	_
+6	quandoquidem	quandoquidem	ADV	_	_	_	_	_	_
+7	opera	opus	NOUN	_	_	_	_	_	_
+8	sua	suus	DET	_	_	_	_	_	_
+9	malis	malus	ADJ	_	_	_	_	_	_
+10	inimica	inimicus	ADJ	_	_	_	_	_	_
+11	sunt	sum	AUX	_	_	_	_	_	_
+12	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-104
+# text = et ignavia quasi quietem appetit : quae vero quies certa praeter dominum ?
+1	et	et	CCONJ	_	_	_	_	_	_
+2	ignavia	ignauia	NOUN	_	_	_	_	_	_
+3	quasi	quasi	ADV	_	_	_	_	_	_
+4	quietem	quies	NOUN	_	_	_	_	_	_
+5	appetit	appeto	VERB	_	_	_	_	_	_
+6	:	:	PUNCT	_	_	_	_	_	_
+7	quae	qui	PRON	_	_	_	_	_	_
+8	vero	uero	ADV	_	_	_	_	_	_
+9	quies	quies	NOUN	_	_	_	_	_	_
+10	certa	certus	ADJ	_	_	_	_	_	_
+11	praeter	praeter	ADP	_	_	_	_	_	_
+12	dominum	dominus	NOUN	_	_	_	_	_	_
+13	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-105
+# text = luxuria satietatem atque abundantiam se cupit vocari : tu es autem plenitudo et indeficiens copia incorruptibilis suavitatis .
+1	luxuria	luxuria	NOUN	_	_	_	_	_	_
+2	satietatem	satietas	NOUN	_	_	_	_	_	_
+3	atque	atque	CCONJ	_	_	_	_	_	_
+4	abundantiam	abundantia	NOUN	_	_	_	_	_	_
+5	se	sui	PRON	_	_	_	_	_	_
+6	cupit	cupio	VERB	_	_	_	_	_	_
+7	vocari	uoco	VERB	_	_	_	_	_	_
+8	:	:	PUNCT	_	_	_	_	_	_
+9	tu	tu	PRON	_	_	_	_	_	_
+10	es	sum	AUX	_	_	_	_	_	_
+11	autem	autem	CCONJ	_	_	_	_	_	_
+12	plenitudo	plenitudo	NOUN	_	_	_	_	_	_
+13	et	et	CCONJ	_	_	_	_	_	_
+14	indeficiens	indeficiens	ADJ	_	_	_	_	_	_
+15	copia	copia	NOUN	_	_	_	_	_	_
+16	incorruptibilis	incorruptibilis	ADJ	_	_	_	_	_	_
+17	suavitatis	suauitas	NOUN	_	_	_	_	_	_
+18	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-106
+# text = effusio liberalitatis obtendit umbram : sed bonorum omnium largitor affluentissimus tu es .
+1	effusio	effusio	NOUN	_	_	_	_	_	_
+2	liberalitatis	liberalitas	NOUN	_	_	_	_	_	_
+3	obtendit	obtendo	VERB	_	_	_	_	_	_
+4	umbram	umbra	NOUN	_	_	_	_	_	_
+5	:	:	PUNCT	_	_	_	_	_	_
+6	sed	sed	CCONJ	_	_	_	_	_	_
+7	bonorum	bonus	ADJ	_	_	_	_	_	_
+8	omnium	omnis	DET	_	_	_	_	_	_
+9	largitor	largitor	NOUN	_	_	_	_	_	_
+10	affluentissimus	affluens	ADJ	_	_	_	_	_	_
+11	tu	tu	PRON	_	_	_	_	_	_
+12	es	sum	AUX	_	_	_	_	_	_
+13	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-107
+# text = avaritia multa possidere vult : et tu possides omnia .
+1	avaritia	auaritia	NOUN	_	_	_	_	_	_
+2	multa	multus	DET	_	_	_	_	_	_
+3	possidere	possideo	VERB	_	_	_	_	_	_
+4	vult	uolo	VERB	_	_	_	_	_	_
+5	:	:	PUNCT	_	_	_	_	_	_
+6	et	et	CCONJ	_	_	_	_	_	_
+7	tu	tu	PRON	_	_	_	_	_	_
+8	possides	possideo	VERB	_	_	_	_	_	_
+9	omnia	omnis	DET	_	_	_	_	_	_
+10	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-108
+# text = invidentia de excellentia litigat : quid te excellentius ?
+1	invidentia	inuidentia	NOUN	_	_	_	_	_	_
+2	de	de	ADP	_	_	_	_	_	_
+3	excellentia	excellentia	NOUN	_	_	_	_	_	_
+4	litigat	litigo	VERB	_	_	_	_	_	_
+5	:	:	PUNCT	_	_	_	_	_	_
+6	quid	quis	PRON	_	_	_	_	_	_
+7	te	tu	PRON	_	_	_	_	_	_
+8	excellentius	excellens	ADJ	_	_	_	_	_	_
+9	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-109
+# text = ira vindictam quaerit : te iustius quis vindicat ?
+1	ira	ira	NOUN	_	_	_	_	_	_
+2	vindictam	uindicta	NOUN	_	_	_	_	_	_
+3	quaerit	quaero	VERB	_	_	_	_	_	_
+4	:	:	PUNCT	_	_	_	_	_	_
+5	te	tu	PRON	_	_	_	_	_	_
+6	iustius	iustus	ADJ	_	_	_	_	_	_
+7	quis	quis	PRON	_	_	_	_	_	_
+8	vindicat	uindico	VERB	_	_	_	_	_	_
+9	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-110
+# text = timor insolita et repentina exhorrescit rebus quae amantur adversantia , dum praecavet securitati : tibi enim quid insolitum ?
+1	timor	timor	NOUN	_	_	_	_	_	_
+2	insolita	insolitus	ADJ	_	_	_	_	_	_
+3	et	et	CCONJ	_	_	_	_	_	_
+4	repentina	repentinus	ADJ	_	_	_	_	_	_
+5	exhorrescit	exhorresco	VERB	_	_	_	_	_	_
+6	rebus	res	NOUN	_	_	_	_	_	_
+7	quae	qui	PRON	_	_	_	_	_	_
+8	amantur	amo	VERB	_	_	_	_	_	_
+9	adversantia	aduersor	VERB	_	_	_	_	_	_
+10	,	,	PUNCT	_	_	_	_	_	_
+11	dum	dum	ADV	_	_	_	_	_	_
+12	praecavet	praecaueo	VERB	_	_	_	_	_	_
+13	securitati	securitas	NOUN	_	_	_	_	_	_
+14	:	:	PUNCT	_	_	_	_	_	_
+15	tibi	tu	PRON	_	_	_	_	_	_
+16	enim	enim	ADV	_	_	_	_	_	_
+17	quid	quis	PRON	_	_	_	_	_	_
+18	insolitum	insolitus	ADJ	_	_	_	_	_	_
+19	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-111
+# text = quid repentinum ?
+1	quid	quis	PRON	_	_	_	_	_	_
+2	repentinum	repentinus	ADJ	_	_	_	_	_	_
+3	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-112
+# text = aut quis a te separat quod diligis ?
+1	aut	aut	CCONJ	_	_	_	_	_	_
+2	quis	quis	PRON	_	_	_	_	_	_
+3	a	ab	ADP	_	_	_	_	_	_
+4	te	tu	PRON	_	_	_	_	_	_
+5	separat	separo	VERB	_	_	_	_	_	_
+6	quod	qui	PRON	_	_	_	_	_	_
+7	diligis	diligo	VERB	_	_	_	_	_	_
+8	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-113
+# text = aut ubi nisi apud te firma securitas ?
+1	aut	aut	CCONJ	_	_	_	_	_	_
+2	ubi	ubi	ADV	_	_	_	_	_	_
+3	nisi	nisi	SCONJ	_	_	_	_	_	_
+4	apud	apud	ADP	_	_	_	_	_	_
+5	te	tu	PRON	_	_	_	_	_	_
+6	firma	firmus	ADJ	_	_	_	_	_	_
+7	securitas	securitas	NOUN	_	_	_	_	_	_
+8	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-114
+# text = tristitia rebus amissis contabescit quibus se oblectabat cupiditas , quia ita sibi nollet , sicut tibi auferri nihil potest .
+1	tristitia	tristitia	NOUN	_	_	_	_	_	_
+2	rebus	res	NOUN	_	_	_	_	_	_
+3	amissis	amitto	VERB	_	_	_	_	_	_
+4	contabescit	contabesco	VERB	_	_	_	_	_	_
+5	quibus	qui	PRON	_	_	_	_	_	_
+6	se	sui	PRON	_	_	_	_	_	_
+7	oblectabat	oblecto	VERB	_	_	_	_	_	_
+8	cupiditas	cupiditas	NOUN	_	_	_	_	_	_
+9	,	,	PUNCT	_	_	_	_	_	_
+10	quia	quia	SCONJ	_	_	_	_	_	_
+11	ita	ita	ADV	_	_	_	_	_	_
+12	sibi	sui	PRON	_	_	_	_	_	_
+13	nollet	nolo	VERB	_	_	_	_	_	_
+14	,	,	PUNCT	_	_	_	_	_	_
+15	sicut	sicut	ADV	_	_	_	_	_	_
+16	tibi	tu	PRON	_	_	_	_	_	_
+17	auferri	aufero	VERB	_	_	_	_	_	_
+18	nihil	nihil	PRON	_	_	_	_	_	_
+19	potest	possum	VERB	_	_	_	_	_	_
+20	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-115
+# text = ita fornicatur anima , cum avertitur abs te et quaerit extra te ea quae pura et liquida non invenit , nisi cum redit ad te .
+1	ita	ita	ADV	_	_	_	_	_	_
+2	fornicatur	fornicor	VERB	_	_	_	_	_	_
+3	anima	anima	NOUN	_	_	_	_	_	_
+4	,	,	PUNCT	_	_	_	_	_	_
+5	cum	cum	ADV	_	_	_	_	_	_
+6	avertitur	auerto	VERB	_	_	_	_	_	_
+7	abs	ab	ADP	_	_	_	_	_	_
+8	te	tu	PRON	_	_	_	_	_	_
+9	et	et	CCONJ	_	_	_	_	_	_
+10	quaerit	quaero	VERB	_	_	_	_	_	_
+11	extra	extra	ADP	_	_	_	_	_	_
+12	te	tu	PRON	_	_	_	_	_	_
+13	ea	is	DET	_	_	_	_	_	_
+14	quae	qui	PRON	_	_	_	_	_	_
+15	pura	purus	ADJ	_	_	_	_	_	_
+16	et	et	CCONJ	_	_	_	_	_	_
+17	liquida	liquidus	ADJ	_	_	_	_	_	_
+18	non	non	PART	_	_	_	_	_	_
+19	invenit	inuenio	VERB	_	_	_	_	_	_
+20	,	,	PUNCT	_	_	_	_	_	_
+21	nisi	nisi	SCONJ	_	_	_	_	_	_
+22	cum	cum	ADV	_	_	_	_	_	_
+23	redit	redeo	VERB	_	_	_	_	_	_
+24	ad	ad	ADP	_	_	_	_	_	_
+25	te	tu	PRON	_	_	_	_	_	_
+26	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-116
+# text = perverse te imitantur omnes qui longe se a te faciunt et extollunt se adversum te .
+1	perverse	peruerse	ADV	_	_	_	_	_	_
+2	te	tu	PRON	_	_	_	_	_	_
+3	imitantur	imitor	VERB	_	_	_	_	_	_
+4	omnes	omnis	DET	_	_	_	_	_	_
+5	qui	qui	PRON	_	_	_	_	_	_
+6	longe	longe	ADV	_	_	_	_	_	_
+7	se	sui	PRON	_	_	_	_	_	_
+8	a	ab	ADP	_	_	_	_	_	_
+9	te	tu	PRON	_	_	_	_	_	_
+10	faciunt	facio	VERB	_	_	_	_	_	_
+11	et	et	CCONJ	_	_	_	_	_	_
+12	extollunt	extollo	VERB	_	_	_	_	_	_
+13	se	sui	PRON	_	_	_	_	_	_
+14	adversum	aduersus	ADP	_	_	_	_	_	_
+15	te	tu	PRON	_	_	_	_	_	_
+16	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-117
+# text = sed etiam sic te imitando indicant creatorem te esse omnis naturae , et ideo non esse quo a te omni modo recedatur .
+1	sed	sed	CCONJ	_	_	_	_	_	_
+2	etiam	etiam	ADV	_	_	_	_	_	_
+3	sic	sic	ADV	_	_	_	_	_	_
+4	te	tu	PRON	_	_	_	_	_	_
+5	imitando	imitor	VERB	_	_	_	_	_	_
+6	indicant	indico	VERB	_	_	_	_	_	_
+7	creatorem	creator	NOUN	_	_	_	_	_	_
+8	te	tu	PRON	_	_	_	_	_	_
+9	esse	sum	AUX	_	_	_	_	_	_
+10	omnis	omnis	DET	_	_	_	_	_	_
+11	naturae	natura	NOUN	_	_	_	_	_	_
+12	,	,	PUNCT	_	_	_	_	_	_
+13	et	et	CCONJ	_	_	_	_	_	_
+14	ideo	ideo	ADV	_	_	_	_	_	_
+15	non	non	PART	_	_	_	_	_	_
+16	esse	sum	AUX	_	_	_	_	_	_
+17	quo	qui	PRON	_	_	_	_	_	_
+18	a	ab	ADP	_	_	_	_	_	_
+19	te	tu	PRON	_	_	_	_	_	_
+20	omni	omnis	DET	_	_	_	_	_	_
+21	modo	modus	NOUN	_	_	_	_	_	_
+22	recedatur	recedo	VERB	_	_	_	_	_	_
+23	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-118
+# text = quid ergo in illo furto ego dilexi , et in quo dominum meum vel vitiose atque perverse imitatus sum ?
+1	quid	quis	PRON	_	_	_	_	_	_
+2	ergo	ergo	PART	_	_	_	_	_	_
+3	in	in	ADP	_	_	_	_	_	_
+4	illo	ille	DET	_	_	_	_	_	_
+5	furto	furtum	NOUN	_	_	_	_	_	_
+6	ego	ego	PRON	_	_	_	_	_	_
+7	dilexi	diligo	VERB	_	_	_	_	_	_
+8	,	,	PUNCT	_	_	_	_	_	_
+9	et	et	CCONJ	_	_	_	_	_	_
+10	in	in	ADP	_	_	_	_	_	_
+11	quo	qui	PRON	_	_	_	_	_	_
+12	dominum	dominus	NOUN	_	_	_	_	_	_
+13	meum	meus	DET	_	_	_	_	_	_
+14	vel	uel	CCONJ	_	_	_	_	_	_
+15	vitiose	uitiose	ADV	_	_	_	_	_	_
+16	atque	atque	CCONJ	_	_	_	_	_	_
+17	perverse	peruerse	ADV	_	_	_	_	_	_
+18	imitatus	imitor	VERB	_	_	_	_	_	_
+19	sum	sum	AUX	_	_	_	_	_	_
+20	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-119
+# text = an libuit facere contra legem saltem fallacia , quia potentatu non poteram ut mancam libertatem captivus imitarer , faciendo impune quod non liceret tenebrosa omnipotentiae similitudine ?
+1	an	an	SCONJ	_	_	_	_	_	_
+2	libuit	libet	VERB	_	_	_	_	_	_
+3	facere	facio	VERB	_	_	_	_	_	_
+4	contra	contra	ADP	_	_	_	_	_	_
+5	legem	lex	NOUN	_	_	_	_	_	_
+6	saltem	saltem	ADV	_	_	_	_	_	_
+7	fallacia	fallacia	NOUN	_	_	_	_	_	_
+8	,	,	PUNCT	_	_	_	_	_	_
+9	quia	quia	SCONJ	_	_	_	_	_	_
+10	potentatu	potentatus	NOUN	_	_	_	_	_	_
+11	non	non	PART	_	_	_	_	_	_
+12	poteram	possum	VERB	_	_	_	_	_	_
+13	ut	ut	SCONJ	_	_	_	_	_	_
+14	mancam	mancus	ADJ	_	_	_	_	_	_
+15	libertatem	libertas	NOUN	_	_	_	_	_	_
+16	captivus	captiuus	ADJ	_	_	_	_	_	_
+17	imitarer	imitor	VERB	_	_	_	_	_	_
+18	,	,	PUNCT	_	_	_	_	_	_
+19	faciendo	facio	VERB	_	_	_	_	_	_
+20	impune	impune	ADV	_	_	_	_	_	_
+21	quod	qui	PRON	_	_	_	_	_	_
+22	non	non	PART	_	_	_	_	_	_
+23	liceret	liceo	VERB	_	_	_	_	_	_
+24	tenebrosa	tenebrosus	ADJ	_	_	_	_	_	_
+25	omnipotentiae	omnipotentia	NOUN	_	_	_	_	_	_
+26	similitudine	similitudo	NOUN	_	_	_	_	_	_
+27	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-120
+# text = ecce est ille servus fugiens dominum suum et consecutus umbram .
+1	ecce	ecce	PART	_	_	_	_	_	_
+2	est	sum	AUX	_	_	_	_	_	_
+3	ille	ille	DET	_	_	_	_	_	_
+4	servus	seruus	NOUN	_	_	_	_	_	_
+5	fugiens	fugio	VERB	_	_	_	_	_	_
+6	dominum	dominus	NOUN	_	_	_	_	_	_
+7	suum	suus	DET	_	_	_	_	_	_
+8	et	et	CCONJ	_	_	_	_	_	_
+9	consecutus	consequor	VERB	_	_	_	_	_	_
+10	umbram	umbra	NOUN	_	_	_	_	_	_
+11	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-121
+# text = o putredo , o monstrum vitae et mortis profunditas !
+1	o	o	INTJ	_	_	_	_	_	_
+2	putredo	putredo	NOUN	_	_	_	_	_	_
+3	,	,	PUNCT	_	_	_	_	_	_
+4	o	o	INTJ	_	_	_	_	_	_
+5	monstrum	monstrum	NOUN	_	_	_	_	_	_
+6	vitae	uita	NOUN	_	_	_	_	_	_
+7	et	et	CCONJ	_	_	_	_	_	_
+8	mortis	mors	NOUN	_	_	_	_	_	_
+9	profunditas	profunditas	NOUN	_	_	_	_	_	_
+10	!	!	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-122
+# text = potuitne libere quod non licebat , non ob aliud nisi quia non licebat ?
+1	potuitne	possum	VERB	_	_	_	_	_	_
+2	libere	libere	ADV	_	_	_	_	_	_
+3	quod	quod	SCONJ	_	_	_	_	_	_
+4	non	non	PART	_	_	_	_	_	_
+5	licebat	liceo	VERB	_	_	_	_	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7	non	non	PART	_	_	_	_	_	_
+8	ob	ob	ADP	_	_	_	_	_	_
+9	aliud	alius	DET	_	_	_	_	_	_
+10	nisi	nisi	SCONJ	_	_	_	_	_	_
+11	quia	quia	SCONJ	_	_	_	_	_	_
+12	non	non	PART	_	_	_	_	_	_
+13	licebat	liceo	VERB	_	_	_	_	_	_
+14	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-123
+# text = quid retribuam domino quod recolit haec memoria mea et anima mea non metuit inde ?
+1	quid	quis	PRON	_	_	_	_	_	_
+2	retribuam	retribuo	VERB	_	_	_	_	_	_
+3	domino	dominus	NOUN	_	_	_	_	_	_
+4	quod	quod	SCONJ	_	_	_	_	_	_
+5	recolit	recolo	VERB	_	_	_	_	_	_
+6	haec	hic	DET	_	_	_	_	_	_
+7	memoria	memoria	NOUN	_	_	_	_	_	_
+8	mea	meus	DET	_	_	_	_	_	_
+9	et	et	CCONJ	_	_	_	_	_	_
+10	anima	anima	NOUN	_	_	_	_	_	_
+11	mea	meus	DET	_	_	_	_	_	_
+12	non	non	PART	_	_	_	_	_	_
+13	metuit	metuo	VERB	_	_	_	_	_	_
+14	inde	inde	ADV	_	_	_	_	_	_
+15	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-124
+# text = diligam te , domine , et gratias agam et confitear nomini tuo , quoniam tanta dimisisti mihi mala et nefaria opera mea .
+1	diligam	diligo	VERB	_	_	_	_	_	_
+2	te	tu	PRON	_	_	_	_	_	_
+3	,	,	PUNCT	_	_	_	_	_	_
+4	domine	dominus	NOUN	_	_	_	_	_	_
+5	,	,	PUNCT	_	_	_	_	_	_
+6	et	et	CCONJ	_	_	_	_	_	_
+7	gratias	gratia	NOUN	_	_	_	_	_	_
+8	agam	ago	VERB	_	_	_	_	_	_
+9	et	et	CCONJ	_	_	_	_	_	_
+10	confitear	confiteor	VERB	_	_	_	_	_	_
+11	nomini	nomen	NOUN	_	_	_	_	_	_
+12	tuo	tuus	DET	_	_	_	_	_	_
+13	,	,	PUNCT	_	_	_	_	_	_
+14	quoniam	quoniam	SCONJ	_	_	_	_	_	_
+15	tanta	tantus	DET	_	_	_	_	_	_
+16	dimisisti	dimitto	VERB	_	_	_	_	_	_
+17	mihi	ego	PRON	_	_	_	_	_	_
+18	mala	malus	ADJ	_	_	_	_	_	_
+19	et	et	CCONJ	_	_	_	_	_	_
+20	nefaria	nefarius	ADJ	_	_	_	_	_	_
+21	opera	opus	NOUN	_	_	_	_	_	_
+22	mea	meus	DET	_	_	_	_	_	_
+23	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-125
+# text = gratiae tuae deputo et misericordiae tuae quod peccata mea tanquam glaciem solvisti .
+1	gratiae	gratia	NOUN	_	_	_	_	_	_
+2	tuae	tuus	DET	_	_	_	_	_	_
+3	deputo	deputo	VERB	_	_	_	_	_	_
+4	et	et	CCONJ	_	_	_	_	_	_
+5	misericordiae	misericordia	NOUN	_	_	_	_	_	_
+6	tuae	tuus	DET	_	_	_	_	_	_
+7	quod	quod	SCONJ	_	_	_	_	_	_
+8	peccata	peccatum	NOUN	_	_	_	_	_	_
+9	mea	meus	DET	_	_	_	_	_	_
+10	tanquam	tamquam	SCONJ	_	_	_	_	_	_
+11	glaciem	glacies	NOUN	_	_	_	_	_	_
+12	solvisti	soluo	VERB	_	_	_	_	_	_
+13	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-126
+# text = gratiae tuae deputo et quaecumque non feci mala .
+1	gratiae	gratia	NOUN	_	_	_	_	_	_
+2	tuae	tuus	DET	_	_	_	_	_	_
+3	deputo	deputo	VERB	_	_	_	_	_	_
+4	et	et	CCONJ	_	_	_	_	_	_
+5	quaecumque	quicumque	DET	_	_	_	_	_	_
+6	non	non	PART	_	_	_	_	_	_
+7	feci	facio	VERB	_	_	_	_	_	_
+8	mala	malus	ADJ	_	_	_	_	_	_
+9	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-127
+# text = quid enim non facere potui , qui etiam gratuitum facinus amavi ?
+1	quid	quis	PRON	_	_	_	_	_	_
+2	enim	enim	ADV	_	_	_	_	_	_
+3	non	non	PART	_	_	_	_	_	_
+4	facere	facio	VERB	_	_	_	_	_	_
+5	potui	possum	VERB	_	_	_	_	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7	qui	qui	PRON	_	_	_	_	_	_
+8	etiam	etiam	ADV	_	_	_	_	_	_
+9	gratuitum	gratuitus	ADJ	_	_	_	_	_	_
+10	facinus	facinus	NOUN	_	_	_	_	_	_
+11	amavi	amo	VERB	_	_	_	_	_	_
+12	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-128
+# text = et omnia mihi dimissa esse fateor , et quae mea sponte feci mala et quae te duce non feci .
+1	et	et	CCONJ	_	_	_	_	_	_
+2	omnia	omnis	DET	_	_	_	_	_	_
+3	mihi	ego	PRON	_	_	_	_	_	_
+4	dimissa	dimitto	VERB	_	_	_	_	_	_
+5	esse	sum	AUX	_	_	_	_	_	_
+6	fateor	fateor	VERB	_	_	_	_	_	_
+7	,	,	PUNCT	_	_	_	_	_	_
+8	et	et	CCONJ	_	_	_	_	_	_
+9	quae	qui	PRON	_	_	_	_	_	_
+10	mea	meus	DET	_	_	_	_	_	_
+11	sponte	spons	NOUN	_	_	_	_	_	_
+12	feci	facio	VERB	_	_	_	_	_	_
+13	mala	malus	ADJ	_	_	_	_	_	_
+14	et	et	CCONJ	_	_	_	_	_	_
+15	quae	qui	PRON	_	_	_	_	_	_
+16	te	tu	PRON	_	_	_	_	_	_
+17	duce	dux	NOUN	_	_	_	_	_	_
+18	non	non	PART	_	_	_	_	_	_
+19	feci	facio	VERB	_	_	_	_	_	_
+20	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-129
+# text = quis est hominum qui suam cogitans infirmitatem audet viribus suis tribuere castitatem atque innocentiam suam , ut minus amet te , quasi minus ei necessaria fuerit misericordia tua , qua donas peccata conversis ad te ?
+1	quis	quis	PRON	_	_	_	_	_	_
+2	est	sum	AUX	_	_	_	_	_	_
+3	hominum	homo	NOUN	_	_	_	_	_	_
+4	qui	qui	PRON	_	_	_	_	_	_
+5	suam	suus	DET	_	_	_	_	_	_
+6	cogitans	cogito	VERB	_	_	_	_	_	_
+7	infirmitatem	infirmitas	NOUN	_	_	_	_	_	_
+8	audet	audeo	VERB	_	_	_	_	_	_
+9	viribus	uir	NOUN	_	_	_	_	_	_
+10	suis	suus	DET	_	_	_	_	_	_
+11	tribuere	tribuo	VERB	_	_	_	_	_	_
+12	castitatem	castitas	NOUN	_	_	_	_	_	_
+13	atque	atque	CCONJ	_	_	_	_	_	_
+14	innocentiam	innocentia	NOUN	_	_	_	_	_	_
+15	suam	suus	DET	_	_	_	_	_	_
+16	,	,	PUNCT	_	_	_	_	_	_
+17	ut	ut	SCONJ	_	_	_	_	_	_
+18	minus	minus	ADV	_	_	_	_	_	_
+19	amet	amo	VERB	_	_	_	_	_	_
+20	te	tu	PRON	_	_	_	_	_	_
+21	,	,	PUNCT	_	_	_	_	_	_
+22	quasi	quasi	ADV	_	_	_	_	_	_
+23	minus	minus	ADV	_	_	_	_	_	_
+24	ei	is	DET	_	_	_	_	_	_
+25	necessaria	necessarius	ADJ	_	_	_	_	_	_
+26	fuerit	sum	AUX	_	_	_	_	_	_
+27	misericordia	misericordia	NOUN	_	_	_	_	_	_
+28	tua	tuus	DET	_	_	_	_	_	_
+29	,	,	PUNCT	_	_	_	_	_	_
+30	qua	qui	PRON	_	_	_	_	_	_
+31	donas	dono	VERB	_	_	_	_	_	_
+32	peccata	peccatum	NOUN	_	_	_	_	_	_
+33	conversis	conuerto	VERB	_	_	_	_	_	_
+34	ad	ad	ADP	_	_	_	_	_	_
+35	te	tu	PRON	_	_	_	_	_	_
+36	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-130
+# text = qui enim vocatus a te secutus est vocem tuam et vitavit ea quae me de me ipso recordantem et fatentem legit , non me derideat ab eo medico aegrum sanari a quo sibi praestitum est ut non aegrotaret , vel potius ut minus aegrotaret , et ideo te tantundem , immo vero amplius diligat , quia per quem me videt tantis peccatorum meorum languoribus exui , per eum se videt tantis peccatorum languoribus non implicari .
+1	qui	qui	PRON	_	_	_	_	_	_
+2	enim	enim	ADV	_	_	_	_	_	_
+3	vocatus	uoco	VERB	_	_	_	_	_	_
+4	a	ab	ADP	_	_	_	_	_	_
+5	te	tu	PRON	_	_	_	_	_	_
+6	secutus	sequor	VERB	_	_	_	_	_	_
+7	est	sum	AUX	_	_	_	_	_	_
+8	vocem	uox	NOUN	_	_	_	_	_	_
+9	tuam	tuus	DET	_	_	_	_	_	_
+10	et	et	CCONJ	_	_	_	_	_	_
+11	vitavit	uito	VERB	_	_	_	_	_	_
+12	ea	is	DET	_	_	_	_	_	_
+13	quae	qui	PRON	_	_	_	_	_	_
+14	me	ego	PRON	_	_	_	_	_	_
+15	de	de	ADP	_	_	_	_	_	_
+16	me	ego	PRON	_	_	_	_	_	_
+17	ipso	ipse	DET	_	_	_	_	_	_
+18	recordantem	recordor	VERB	_	_	_	_	_	_
+19	et	et	CCONJ	_	_	_	_	_	_
+20	fatentem	fateor	VERB	_	_	_	_	_	_
+21	legit	lego	VERB	_	_	_	_	_	_
+22	,	,	PUNCT	_	_	_	_	_	_
+23	non	non	PART	_	_	_	_	_	_
+24	me	ego	PRON	_	_	_	_	_	_
+25	derideat	derideo	VERB	_	_	_	_	_	_
+26	ab	ab	ADP	_	_	_	_	_	_
+27	eo	is	DET	_	_	_	_	_	_
+28	medico	medicus	NOUN	_	_	_	_	_	_
+29	aegrum	aeger	ADJ	_	_	_	_	_	_
+30	sanari	sano	VERB	_	_	_	_	_	_
+31	a	ab	ADP	_	_	_	_	_	_
+32	quo	qui	PRON	_	_	_	_	_	_
+33	sibi	sui	PRON	_	_	_	_	_	_
+34	praestitum	praesto	VERB	_	_	_	_	_	_
+35	est	sum	AUX	_	_	_	_	_	_
+36	ut	ut	SCONJ	_	_	_	_	_	_
+37	non	non	PART	_	_	_	_	_	_
+38	aegrotaret	aegroto	VERB	_	_	_	_	_	_
+39	,	,	PUNCT	_	_	_	_	_	_
+40	vel	uel	CCONJ	_	_	_	_	_	_
+41	potius	potius	ADV	_	_	_	_	_	_
+42	ut	ut	SCONJ	_	_	_	_	_	_
+43	minus	minus	ADV	_	_	_	_	_	_
+44	aegrotaret	aegroto	VERB	_	_	_	_	_	_
+45	,	,	PUNCT	_	_	_	_	_	_
+46	et	et	CCONJ	_	_	_	_	_	_
+47	ideo	ideo	ADV	_	_	_	_	_	_
+48	te	tu	PRON	_	_	_	_	_	_
+49	tantundem	tantusdem	DET	_	_	_	_	_	_
+50	,	,	PUNCT	_	_	_	_	_	_
+51	immo	immo	ADV	_	_	_	_	_	_
+52	vero	uero	ADV	_	_	_	_	_	_
+53	amplius	ample	ADV	_	_	_	_	_	_
+54	diligat	diligo	VERB	_	_	_	_	_	_
+55	,	,	PUNCT	_	_	_	_	_	_
+56	quia	quia	SCONJ	_	_	_	_	_	_
+57	per	per	ADP	_	_	_	_	_	_
+58	quem	qui	PRON	_	_	_	_	_	_
+59	me	ego	PRON	_	_	_	_	_	_
+60	videt	uideo	VERB	_	_	_	_	_	_
+61	tantis	tantus	DET	_	_	_	_	_	_
+62	peccatorum	peccatum	NOUN	_	_	_	_	_	_
+63	meorum	meus	DET	_	_	_	_	_	_
+64	languoribus	languor	NOUN	_	_	_	_	_	_
+65	exui	exuo	VERB	_	_	_	_	_	_
+66	,	,	PUNCT	_	_	_	_	_	_
+67	per	per	ADP	_	_	_	_	_	_
+68	eum	is	DET	_	_	_	_	_	_
+69	se	sui	PRON	_	_	_	_	_	_
+70	videt	uideo	VERB	_	_	_	_	_	_
+71	tantis	tantus	DET	_	_	_	_	_	_
+72	peccatorum	peccatum	NOUN	_	_	_	_	_	_
+73	languoribus	languor	NOUN	_	_	_	_	_	_
+74	non	non	PART	_	_	_	_	_	_
+75	implicari	implico	VERB	_	_	_	_	_	_
+76	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-131
+# text = quem fructum habui miser aliquando in his quae nunc recolens erubesco , maxime in illo furto in quo ipsum furtum amavi , nihil aliud , cum et ipsum esset nihil et eo ipso ego miserior ?
+1	quem	qui	PRON	_	_	_	_	_	_
+2	fructum	fructus	NOUN	_	_	_	_	_	_
+3	habui	habeo	VERB	_	_	_	_	_	_
+4	miser	miser	ADJ	_	_	_	_	_	_
+5	aliquando	aliquando	ADV	_	_	_	_	_	_
+6	in	in	ADP	_	_	_	_	_	_
+7	his	hic	DET	_	_	_	_	_	_
+8	quae	qui	PRON	_	_	_	_	_	_
+9	nunc	nunc	ADV	_	_	_	_	_	_
+10	recolens	recolo	VERB	_	_	_	_	_	_
+11	erubesco	erubesco	VERB	_	_	_	_	_	_
+12	,	,	PUNCT	_	_	_	_	_	_
+13	maxime	maxime	ADV	_	_	_	_	_	_
+14	in	in	ADP	_	_	_	_	_	_
+15	illo	ille	DET	_	_	_	_	_	_
+16	furto	furtum	NOUN	_	_	_	_	_	_
+17	in	in	ADP	_	_	_	_	_	_
+18	quo	qui	PRON	_	_	_	_	_	_
+19	ipsum	ipse	DET	_	_	_	_	_	_
+20	furtum	furtum	NOUN	_	_	_	_	_	_
+21	amavi	amo	VERB	_	_	_	_	_	_
+22	,	,	PUNCT	_	_	_	_	_	_
+23	nihil	nihil	PRON	_	_	_	_	_	_
+24	aliud	alius	DET	_	_	_	_	_	_
+25	,	,	PUNCT	_	_	_	_	_	_
+26	cum	cum	ADV	_	_	_	_	_	_
+27	et	et	CCONJ	_	_	_	_	_	_
+28	ipsum	ipse	DET	_	_	_	_	_	_
+29	esset	sum	AUX	_	_	_	_	_	_
+30	nihil	nihil	PRON	_	_	_	_	_	_
+31	et	et	CCONJ	_	_	_	_	_	_
+32	eo	is	DET	_	_	_	_	_	_
+33	ipso	ipse	DET	_	_	_	_	_	_
+34	ego	ego	PRON	_	_	_	_	_	_
+35	miserior	miser	ADJ	_	_	_	_	_	_
+36	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-132
+# text = et tamen solus id non fecissem ( sic recordor animum tunc meum ) , solus omnino id non fecissem .
+1	et	et	CCONJ	_	_	_	_	_	_
+2	tamen	tamen	ADV	_	_	_	_	_	_
+3	solus	solus	DET	_	_	_	_	_	_
+4	id	is	DET	_	_	_	_	_	_
+5	non	non	PART	_	_	_	_	_	_
+6	fecissem	facio	VERB	_	_	_	_	_	_
+7	(	(	PUNCT	_	_	_	_	_	_
+8	sic	sic	ADV	_	_	_	_	_	_
+9	recordor	recordor	VERB	_	_	_	_	_	_
+10	animum	animus	NOUN	_	_	_	_	_	_
+11	tunc	tunc	ADV	_	_	_	_	_	_
+12	meum	meus	DET	_	_	_	_	_	_
+13	)	)	PUNCT	_	_	_	_	_	_
+14	,	,	PUNCT	_	_	_	_	_	_
+15	solus	solus	DET	_	_	_	_	_	_
+16	omnino	omnino	ADV	_	_	_	_	_	_
+17	id	is	DET	_	_	_	_	_	_
+18	non	non	PART	_	_	_	_	_	_
+19	fecissem	facio	VERB	_	_	_	_	_	_
+20	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-133
+# text = ergo amavi ibi etiam consortium eorum cum quibus id feci .
+1	ergo	ergo	PART	_	_	_	_	_	_
+2	amavi	amo	VERB	_	_	_	_	_	_
+3	ibi	ibi	ADV	_	_	_	_	_	_
+4	etiam	etiam	ADV	_	_	_	_	_	_
+5	consortium	consortium	NOUN	_	_	_	_	_	_
+6	eorum	is	DET	_	_	_	_	_	_
+7	cum	cum	ADP	_	_	_	_	_	_
+8	quibus	qui	PRON	_	_	_	_	_	_
+9	id	is	DET	_	_	_	_	_	_
+10	feci	facio	VERB	_	_	_	_	_	_
+11	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-134
+# text = non ergo nihil aliud quam furtum amavi ?
+1	non	non	PART	_	_	_	_	_	_
+2	ergo	ergo	PART	_	_	_	_	_	_
+3	nihil	nihil	PRON	_	_	_	_	_	_
+4	aliud	alius	DET	_	_	_	_	_	_
+5	quam	quam	SCONJ	_	_	_	_	_	_
+6	furtum	furtum	NOUN	_	_	_	_	_	_
+7	amavi	amo	VERB	_	_	_	_	_	_
+8	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-135
+# text = immo vero nihil aliud , quia et illud nihil est .
+1	immo	immo	ADV	_	_	_	_	_	_
+2	vero	uero	ADV	_	_	_	_	_	_
+3	nihil	nihil	PRON	_	_	_	_	_	_
+4	aliud	alius	DET	_	_	_	_	_	_
+5	,	,	PUNCT	_	_	_	_	_	_
+6	quia	quia	SCONJ	_	_	_	_	_	_
+7	et	et	CCONJ	_	_	_	_	_	_
+8	illud	ille	DET	_	_	_	_	_	_
+9	nihil	nihil	PRON	_	_	_	_	_	_
+10	est	sum	AUX	_	_	_	_	_	_
+11	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-136
+# text = quid est re vera ?
+1	quid	quis	PRON	_	_	_	_	_	_
+2	est	sum	AUX	_	_	_	_	_	_
+3	re	res	NOUN	_	_	_	_	_	_
+4	vera	uerus	ADJ	_	_	_	_	_	_
+5	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-137
+# text = ( quis est qui doceat me , nisi qui inluminat cor meum et discernit umbras eius ? )
+1	(	(	PUNCT	_	_	_	_	_	_
+2	quis	quis	PRON	_	_	_	_	_	_
+3	est	sum	AUX	_	_	_	_	_	_
+4	qui	qui	PRON	_	_	_	_	_	_
+5	doceat	doceo	VERB	_	_	_	_	_	_
+6	me	ego	PRON	_	_	_	_	_	_
+7	,	,	PUNCT	_	_	_	_	_	_
+8	nisi	nisi	SCONJ	_	_	_	_	_	_
+9	qui	qui	PRON	_	_	_	_	_	_
+10	inluminat	illumino	VERB	_	_	_	_	_	_
+11	cor	cor	NOUN	_	_	_	_	_	_
+12	meum	meus	DET	_	_	_	_	_	_
+13	et	et	CCONJ	_	_	_	_	_	_
+14	discernit	discerno	VERB	_	_	_	_	_	_
+15	umbras	umbra	NOUN	_	_	_	_	_	_
+16	eius	is	DET	_	_	_	_	_	_
+17	?	?	PUNCT	_	_	_	_	_	_
+18	)	)	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-138
+# text = quid est ?
+1	quid	quis	PRON	_	_	_	_	_	_
+2	est	sum	AUX	_	_	_	_	_	_
+3	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-139
+# text = quod mihi venit in mentem quaerere et discutere et considerare , quia si tunc amarem poma illa quae furatus sum et eis frui cuperem , possem etiam solus ";" si satis esset committere illam iniquitatem qua pervenirem ad voluptatem meam , nec confricatione consciorum animorum accenderem pruritum cupiditatis meae .
+1	quod	qui	PRON	_	_	_	_	_	_
+2	mihi	ego	PRON	_	_	_	_	_	_
+3	venit	uenio	VERB	_	_	_	_	_	_
+4	in	in	ADP	_	_	_	_	_	_
+5	mentem	mens	NOUN	_	_	_	_	_	_
+6	quaerere	quaero	VERB	_	_	_	_	_	_
+7	et	et	CCONJ	_	_	_	_	_	_
+8	discutere	discutio	VERB	_	_	_	_	_	_
+9	et	et	CCONJ	_	_	_	_	_	_
+10	considerare	considero	VERB	_	_	_	_	_	_
+11	,	,	PUNCT	_	_	_	_	_	_
+12	quia	quia	SCONJ	_	_	_	_	_	_
+13	si	si	SCONJ	_	_	_	_	_	_
+14	tunc	tunc	ADV	_	_	_	_	_	_
+15	amarem	amo	VERB	_	_	_	_	_	_
+16	poma	pomum	NOUN	_	_	_	_	_	_
+17	illa	ille	DET	_	_	_	_	_	_
+18	quae	qui	PRON	_	_	_	_	_	_
+19	furatus	furo	VERB	_	_	_	_	_	_
+20	sum	sum	AUX	_	_	_	_	_	_
+21	et	et	CCONJ	_	_	_	_	_	_
+22	eis	is	DET	_	_	_	_	_	_
+23	frui	fruor	VERB	_	_	_	_	_	_
+24	cuperem	cupio	VERB	_	_	_	_	_	_
+25	,	,	PUNCT	_	_	_	_	_	_
+26	possem	possum	VERB	_	_	_	_	_	_
+27	etiam	etiam	ADV	_	_	_	_	_	_
+28	solus	solus	DET	_	_	_	_	_	_
+29	";"	";"	PUNCT	_	_	_	_	_	_
+30	si	si	SCONJ	_	_	_	_	_	_
+31	satis	satis	ADV	_	_	_	_	_	_
+32	esset	sum	AUX	_	_	_	_	_	_
+33	committere	committo	VERB	_	_	_	_	_	_
+34	illam	ille	DET	_	_	_	_	_	_
+35	iniquitatem	iniquitas	NOUN	_	_	_	_	_	_
+36	qua	qui	PRON	_	_	_	_	_	_
+37	pervenirem	peruenio	VERB	_	_	_	_	_	_
+38	ad	ad	ADP	_	_	_	_	_	_
+39	voluptatem	uoluptas	NOUN	_	_	_	_	_	_
+40	meam	meus	DET	_	_	_	_	_	_
+41	,	,	PUNCT	_	_	_	_	_	_
+42	nec	neque	CCONJ	_	_	_	_	_	_
+43	confricatione	confricatio	NOUN	_	_	_	_	_	_
+44	consciorum	conscius	ADJ	_	_	_	_	_	_
+45	animorum	animus	NOUN	_	_	_	_	_	_
+46	accenderem	accendo	VERB	_	_	_	_	_	_
+47	pruritum	pruritus	NOUN	_	_	_	_	_	_
+48	cupiditatis	cupiditas	NOUN	_	_	_	_	_	_
+49	meae	meus	DET	_	_	_	_	_	_
+50	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-140
+# text = sed quoniam in illis pomis voluptas mihi non erat , ea erat in ipso facinore quam faciebat consortium simul peccantium .
+1	sed	sed	CCONJ	_	_	_	_	_	_
+2	quoniam	quoniam	SCONJ	_	_	_	_	_	_
+3	in	in	ADP	_	_	_	_	_	_
+4	illis	ille	DET	_	_	_	_	_	_
+5	pomis	pomum	NOUN	_	_	_	_	_	_
+6	voluptas	uoluptas	NOUN	_	_	_	_	_	_
+7	mihi	ego	PRON	_	_	_	_	_	_
+8	non	non	PART	_	_	_	_	_	_
+9	erat	sum	AUX	_	_	_	_	_	_
+10	,	,	PUNCT	_	_	_	_	_	_
+11	ea	is	DET	_	_	_	_	_	_
+12	erat	sum	AUX	_	_	_	_	_	_
+13	in	in	ADP	_	_	_	_	_	_
+14	ipso	ipse	DET	_	_	_	_	_	_
+15	facinore	facinus	NOUN	_	_	_	_	_	_
+16	quam	qui	PRON	_	_	_	_	_	_
+17	faciebat	facio	VERB	_	_	_	_	_	_
+18	consortium	consortium	NOUN	_	_	_	_	_	_
+19	simul	simul	ADV	_	_	_	_	_	_
+20	peccantium	pecco	VERB	_	_	_	_	_	_
+21	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-141
+# text = quid erat ille affectus animi ?
+1	quid	quis	PRON	_	_	_	_	_	_
+2	erat	sum	AUX	_	_	_	_	_	_
+3	ille	ille	DET	_	_	_	_	_	_
+4	affectus	affectus	NOUN	_	_	_	_	_	_
+5	animi	animus	NOUN	_	_	_	_	_	_
+6	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-142
+# text = certe enim plane turpis erat nimis , et vae mihi erat qui habebam illum .
+1	certe	certe	ADV	_	_	_	_	_	_
+2	enim	enim	ADV	_	_	_	_	_	_
+3	plane	plane	ADV	_	_	_	_	_	_
+4	turpis	turpis	ADJ	_	_	_	_	_	_
+5	erat	sum	AUX	_	_	_	_	_	_
+6	nimis	nimis	ADV	_	_	_	_	_	_
+7	,	,	PUNCT	_	_	_	_	_	_
+8	et	et	CCONJ	_	_	_	_	_	_
+9	vae	uae	INTJ	_	_	_	_	_	_
+10	mihi	ego	PRON	_	_	_	_	_	_
+11	erat	sum	AUX	_	_	_	_	_	_
+12	qui	qui	PRON	_	_	_	_	_	_
+13	habebam	habeo	VERB	_	_	_	_	_	_
+14	illum	ille	DET	_	_	_	_	_	_
+15	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-143
+# text = sed tamen quid erat ?
+1	sed	sed	CCONJ	_	_	_	_	_	_
+2	tamen	tamen	ADV	_	_	_	_	_	_
+3	quid	quis	PRON	_	_	_	_	_	_
+4	erat	sum	AUX	_	_	_	_	_	_
+5	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-144
+# text = delicta quis intellegit ?
+1	delicta	delictum	NOUN	_	_	_	_	_	_
+2	quis	quis	PRON	_	_	_	_	_	_
+3	intellegit	intellego	VERB	_	_	_	_	_	_
+4	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-145
+# text = risus erat quasi titillato corde , quod fallebamus eos qui haec a nobis fieri non putabant et vehementer nolebant .
+1	risus	risus	NOUN	_	_	_	_	_	_
+2	erat	sum	AUX	_	_	_	_	_	_
+3	quasi	quasi	ADV	_	_	_	_	_	_
+4	titillato	titillo	VERB	_	_	_	_	_	_
+5	corde	cor	NOUN	_	_	_	_	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7	quod	quod	SCONJ	_	_	_	_	_	_
+8	fallebamus	fallo	VERB	_	_	_	_	_	_
+9	eos	is	DET	_	_	_	_	_	_
+10	qui	qui	PRON	_	_	_	_	_	_
+11	haec	hic	DET	_	_	_	_	_	_
+12	a	ab	ADP	_	_	_	_	_	_
+13	nobis	nos	PRON	_	_	_	_	_	_
+14	fieri	fio	VERB	_	_	_	_	_	_
+15	non	non	PART	_	_	_	_	_	_
+16	putabant	puto	VERB	_	_	_	_	_	_
+17	et	et	CCONJ	_	_	_	_	_	_
+18	vehementer	uehementer	ADV	_	_	_	_	_	_
+19	nolebant	nolo	VERB	_	_	_	_	_	_
+20	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-146
+# text = cur ergo eo me delectabat quo id non faciebam solus ?
+1	cur	cur	ADV	_	_	_	_	_	_
+2	ergo	ergo	PART	_	_	_	_	_	_
+3	eo	is	DET	_	_	_	_	_	_
+4	me	ego	PRON	_	_	_	_	_	_
+5	delectabat	delecto	VERB	_	_	_	_	_	_
+6	quo	qui	PRON	_	_	_	_	_	_
+7	id	is	DET	_	_	_	_	_	_
+8	non	non	PART	_	_	_	_	_	_
+9	faciebam	facio	VERB	_	_	_	_	_	_
+10	solus	solus	DET	_	_	_	_	_	_
+11	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-147
+# text = an quia etiam nemo facile solus ridet ?
+1	an	an	SCONJ	_	_	_	_	_	_
+2	quia	quia	SCONJ	_	_	_	_	_	_
+3	etiam	etiam	ADV	_	_	_	_	_	_
+4	nemo	nemo	PRON	_	_	_	_	_	_
+5	facile	facile	ADV	_	_	_	_	_	_
+6	solus	solus	DET	_	_	_	_	_	_
+7	ridet	rideo	VERB	_	_	_	_	_	_
+8	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-148
+# text = nemo quidem facile , sed tamen etiam solos et singulos homines , cum alius nemo praesens , vincit risus aliquando , si aliquid nimie ridiculum vel sensibus occurit vel animo .
+1	nemo	nemo	PRON	_	_	_	_	_	_
+2	quidem	quidem	ADV	_	_	_	_	_	_
+3	facile	facile	ADV	_	_	_	_	_	_
+4	,	,	PUNCT	_	_	_	_	_	_
+5	sed	sed	CCONJ	_	_	_	_	_	_
+6	tamen	tamen	ADV	_	_	_	_	_	_
+7	etiam	etiam	ADV	_	_	_	_	_	_
+8	solos	solus	DET	_	_	_	_	_	_
+9	et	et	CCONJ	_	_	_	_	_	_
+10	singulos	singulus	ADJ	_	_	_	_	_	_
+11	homines	homo	NOUN	_	_	_	_	_	_
+12	,	,	PUNCT	_	_	_	_	_	_
+13	cum	cum	ADV	_	_	_	_	_	_
+14	alius	alius	DET	_	_	_	_	_	_
+15	nemo	nemo	PRON	_	_	_	_	_	_
+16	praesens	praesum	VERB	_	_	_	_	_	_
+17	,	,	PUNCT	_	_	_	_	_	_
+18	vincit	uinco	VERB	_	_	_	_	_	_
+19	risus	risus	NOUN	_	_	_	_	_	_
+20	aliquando	aliquando	ADV	_	_	_	_	_	_
+21	,	,	PUNCT	_	_	_	_	_	_
+22	si	si	SCONJ	_	_	_	_	_	_
+23	aliquid	aliquis	PRON	_	_	_	_	_	_
+24	nimie	nimie	ADV	_	_	_	_	_	_
+25	ridiculum	ridiculus	ADJ	_	_	_	_	_	_
+26	vel	uel	CCONJ	_	_	_	_	_	_
+27	sensibus	sensus	NOUN	_	_	_	_	_	_
+28	occurit	occuro	VERB	_	_	_	_	_	_
+29	vel	uel	CCONJ	_	_	_	_	_	_
+30	animo	animus	NOUN	_	_	_	_	_	_
+31	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-149
+# text = at ego illud solus non facerem , non facerem omnino solus .
+1	at	at	CCONJ	_	_	_	_	_	_
+2	ego	ego	PRON	_	_	_	_	_	_
+3	illud	ille	DET	_	_	_	_	_	_
+4	solus	solus	DET	_	_	_	_	_	_
+5	non	non	PART	_	_	_	_	_	_
+6	facerem	facio	VERB	_	_	_	_	_	_
+7	,	,	PUNCT	_	_	_	_	_	_
+8	non	non	PART	_	_	_	_	_	_
+9	facerem	facio	VERB	_	_	_	_	_	_
+10	omnino	omnino	ADV	_	_	_	_	_	_
+11	solus	solus	DET	_	_	_	_	_	_
+12	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-150
+# text = ecce est coram te , deus meus , viva recordatio animae meae .
+1	ecce	ecce	PART	_	_	_	_	_	_
+2	est	sum	AUX	_	_	_	_	_	_
+3	coram	coram	ADP	_	_	_	_	_	_
+4	te	tu	PRON	_	_	_	_	_	_
+5	,	,	PUNCT	_	_	_	_	_	_
+6	deus	deus	NOUN	_	_	_	_	_	_
+7	meus	meus	DET	_	_	_	_	_	_
+8	,	,	PUNCT	_	_	_	_	_	_
+9	viva	uiuus	ADJ	_	_	_	_	_	_
+10	recordatio	recordatio	NOUN	_	_	_	_	_	_
+11	animae	anima	NOUN	_	_	_	_	_	_
+12	meae	meus	DET	_	_	_	_	_	_
+13	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-151
+# text = solus non facerem furtum illud , in quo me non libebat id quod furabar sed quia furabar : quod me solum facere prorsus non liberet , nec facerem .
+1	solus	solus	DET	_	_	_	_	_	_
+2	non	non	PART	_	_	_	_	_	_
+3	facerem	facio	VERB	_	_	_	_	_	_
+4	furtum	furtum	NOUN	_	_	_	_	_	_
+5	illud	ille	DET	_	_	_	_	_	_
+6	,	,	PUNCT	_	_	_	_	_	_
+7	in	in	ADP	_	_	_	_	_	_
+8	quo	qui	PRON	_	_	_	_	_	_
+9	me	ego	PRON	_	_	_	_	_	_
+10	non	non	PART	_	_	_	_	_	_
+11	libebat	libet	VERB	_	_	_	_	_	_
+12	id	is	DET	_	_	_	_	_	_
+13	quod	qui	PRON	_	_	_	_	_	_
+14	furabar	furo	VERB	_	_	_	_	_	_
+15	sed	sed	CCONJ	_	_	_	_	_	_
+16	quia	quia	SCONJ	_	_	_	_	_	_
+17	furabar	furo	VERB	_	_	_	_	_	_
+18	:	:	PUNCT	_	_	_	_	_	_
+19	quod	qui	PRON	_	_	_	_	_	_
+20	me	ego	PRON	_	_	_	_	_	_
+21	solum	solus	DET	_	_	_	_	_	_
+22	facere	facio	VERB	_	_	_	_	_	_
+23	prorsus	prorsus	ADV	_	_	_	_	_	_
+24	non	non	PART	_	_	_	_	_	_
+25	liberet	libero	VERB	_	_	_	_	_	_
+26	,	,	PUNCT	_	_	_	_	_	_
+27	nec	neque	CCONJ	_	_	_	_	_	_
+28	facerem	facio	VERB	_	_	_	_	_	_
+29	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-152
+# text = o nimis inimica amicitia , seductio mentis investigabilis , ex ludo et ioco nocendi aviditas et alieni damni appetitus nulla lucri mei , nulla ulciscendi libidine !
+1	o	o	INTJ	_	_	_	_	_	_
+2	nimis	nimis	ADV	_	_	_	_	_	_
+3	inimica	inimicus	ADJ	_	_	_	_	_	_
+4	amicitia	amicitia	NOUN	_	_	_	_	_	_
+5	,	,	PUNCT	_	_	_	_	_	_
+6	seductio	seductio	NOUN	_	_	_	_	_	_
+7	mentis	mens	NOUN	_	_	_	_	_	_
+8	investigabilis	inuestigabilis	ADJ	_	_	_	_	_	_
+9	,	,	PUNCT	_	_	_	_	_	_
+10	ex	ex	ADP	_	_	_	_	_	_
+11	ludo	ludus	NOUN	_	_	_	_	_	_
+12	et	et	CCONJ	_	_	_	_	_	_
+13	ioco	iocus	NOUN	_	_	_	_	_	_
+14	nocendi	noceo	VERB	_	_	_	_	_	_
+15	aviditas	auiditas	NOUN	_	_	_	_	_	_
+16	et	et	CCONJ	_	_	_	_	_	_
+17	alieni	alienus	ADJ	_	_	_	_	_	_
+18	damni	damnum	NOUN	_	_	_	_	_	_
+19	appetitus	appetitus	NOUN	_	_	_	_	_	_
+20	nulla	nullus	DET	_	_	_	_	_	_
+21	lucri	lucrum	NOUN	_	_	_	_	_	_
+22	mei	meus	DET	_	_	_	_	_	_
+23	,	,	PUNCT	_	_	_	_	_	_
+24	nulla	nullus	DET	_	_	_	_	_	_
+25	ulciscendi	ulciscor	VERB	_	_	_	_	_	_
+26	libidine	libido	NOUN	_	_	_	_	_	_
+27	!	!	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-153
+# text = sed cum dicitur , ' eamus , faciamus , ' et pudet non esse impudentem .
+1	sed	sed	CCONJ	_	_	_	_	_	_
+2	cum	cum	ADV	_	_	_	_	_	_
+3	dicitur	dico	VERB	_	_	_	_	_	_
+4	,	,	PUNCT	_	_	_	_	_	_
+5	'	'	PUNCT	_	_	_	_	_	_
+6	eamus	eo	VERB	_	_	_	_	_	_
+7	,	,	PUNCT	_	_	_	_	_	_
+8	faciamus	facio	VERB	_	_	_	_	_	_
+9	,	,	PUNCT	_	_	_	_	_	_
+10	'	'	PUNCT	_	_	_	_	_	_
+11	et	et	CCONJ	_	_	_	_	_	_
+12	pudet	pudeo	VERB	_	_	_	_	_	_
+13	non	non	PART	_	_	_	_	_	_
+14	esse	sum	AUX	_	_	_	_	_	_
+15	impudentem	impudens	ADJ	_	_	_	_	_	_
+16	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-154
+# text = quis exaperit istam tortuosissimam et implicatissimam nodositatem ?
+1	quis	quis	PRON	_	_	_	_	_	_
+2	exaperit	exaperio	VERB	_	_	_	_	_	_
+3	istam	iste	DET	_	_	_	_	_	_
+4	tortuosissimam	tortuosus	ADJ	_	_	_	_	_	_
+5	et	et	CCONJ	_	_	_	_	_	_
+6	implicatissimam	implicatus	ADJ	_	_	_	_	_	_
+7	nodositatem	nodositas	NOUN	_	_	_	_	_	_
+8	?	?	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-155
+# text = foeda est ";" nolo in eam intendere , nolo eam videre .
+1	foeda	foedus	ADJ	_	_	_	_	_	_
+2	est	sum	AUX	_	_	_	_	_	_
+3	";"	";"	PUNCT	_	_	_	_	_	_
+4	nolo	nolo	VERB	_	_	_	_	_	_
+5	in	in	ADP	_	_	_	_	_	_
+6	eam	is	DET	_	_	_	_	_	_
+7	intendere	intendo	VERB	_	_	_	_	_	_
+8	,	,	PUNCT	_	_	_	_	_	_
+9	nolo	nolo	VERB	_	_	_	_	_	_
+10	eam	is	DET	_	_	_	_	_	_
+11	videre	uideo	VERB	_	_	_	_	_	_
+12	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-156
+# text = te volo , iustitia et innocentia pulchra et decora , honestis luminibus et insatiabili satietate .
+1	te	tu	PRON	_	_	_	_	_	_
+2	volo	uolo	VERB	_	_	_	_	_	_
+3	,	,	PUNCT	_	_	_	_	_	_
+4	iustitia	iustitia	NOUN	_	_	_	_	_	_
+5	et	et	CCONJ	_	_	_	_	_	_
+6	innocentia	innocentia	NOUN	_	_	_	_	_	_
+7	pulchra	pulcher	ADJ	_	_	_	_	_	_
+8	et	et	CCONJ	_	_	_	_	_	_
+9	decora	decorus	ADJ	_	_	_	_	_	_
+10	,	,	PUNCT	_	_	_	_	_	_
+11	honestis	honestus	ADJ	_	_	_	_	_	_
+12	luminibus	lumen	NOUN	_	_	_	_	_	_
+13	et	et	CCONJ	_	_	_	_	_	_
+14	insatiabili	insatiabilis	ADJ	_	_	_	_	_	_
+15	satietate	satietas	NOUN	_	_	_	_	_	_
+16	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-157
+# text = quies est apud te valde et vita imperturbabilis .
+1	quies	quies	NOUN	_	_	_	_	_	_
+2	est	sum	AUX	_	_	_	_	_	_
+3	apud	apud	ADP	_	_	_	_	_	_
+4	te	tu	PRON	_	_	_	_	_	_
+5	valde	ualde	ADV	_	_	_	_	_	_
+6	et	et	CCONJ	_	_	_	_	_	_
+7	vita	uita	NOUN	_	_	_	_	_	_
+8	imperturbabilis	imperturbabilis	ADJ	_	_	_	_	_	_
+9	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-158
+# text = intrat in te , intrat in gaudium domini sui et non timebit et habebit se optime in optimo .
+1	intrat	intro	VERB	_	_	_	_	_	_
+2	in	in	ADP	_	_	_	_	_	_
+3	te	tu	PRON	_	_	_	_	_	_
+4	,	,	PUNCT	_	_	_	_	_	_
+5	intrat	intro	VERB	_	_	_	_	_	_
+6	in	in	ADP	_	_	_	_	_	_
+7	gaudium	gaudium	NOUN	_	_	_	_	_	_
+8	domini	dominus	NOUN	_	_	_	_	_	_
+9	sui	suus	DET	_	_	_	_	_	_
+10	et	et	CCONJ	_	_	_	_	_	_
+11	non	non	PART	_	_	_	_	_	_
+12	timebit	timeo	VERB	_	_	_	_	_	_
+13	et	et	CCONJ	_	_	_	_	_	_
+14	habebit	habeo	VERB	_	_	_	_	_	_
+15	se	sui	PRON	_	_	_	_	_	_
+16	optime	bene	ADV	_	_	_	_	_	_
+17	in	in	ADP	_	_	_	_	_	_
+18	optimo	bonus	ADJ	_	_	_	_	_	_
+19	.	.	PUNCT	_	_	_	_	_	_
+
+# sent_id = Augustinus_Confessiones_Liber2-159
+# text = defluxi abs te ego et erravi , deus meus , nimis devius ab stabilitate tua in adulescentia , et factus sum mihi regio egestatis .
+1	defluxi	defluo	VERB	_	_	_	_	_	_
+2	abs	ab	ADP	_	_	_	_	_	_
+3	te	tu	PRON	_	_	_	_	_	_
+4	ego	ego	PRON	_	_	_	_	_	_
+5	et	et	CCONJ	_	_	_	_	_	_
+6	erravi	erro	VERB	_	_	_	_	_	_
+7	,	,	PUNCT	_	_	_	_	_	_
+8	deus	deus	NOUN	_	_	_	_	_	_
+9	meus	meus	DET	_	_	_	_	_	_
+10	,	,	PUNCT	_	_	_	_	_	_
+11	nimis	nimis	ADV	_	_	_	_	_	_
+12	devius	deuius	ADJ	_	_	_	_	_	_
+13	ab	ab	ADP	_	_	_	_	_	_
+14	stabilitate	stabilitas	NOUN	_	_	_	_	_	_
+15	tua	tuus	DET	_	_	_	_	_	_
+16	in	in	ADP	_	_	_	_	_	_
+17	adulescentia	adulescentia	NOUN	_	_	_	_	_	_
+18	,	,	PUNCT	_	_	_	_	_	_
+19	et	et	CCONJ	_	_	_	_	_	_
+20	factus	facio	VERB	_	_	_	_	_	_
+21	sum	sum	AUX	_	_	_	_	_	_
+22	mihi	ego	PRON	_	_	_	_	_	_
+23	regio	regio	NOUN	_	_	_	_	_	_
+24	egestatis	egestas	NOUN	_	_	_	_	_	_
+25	.	.	PUNCT	_	_	_	_	_	_
+
