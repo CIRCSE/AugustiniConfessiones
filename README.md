@@ -1,6 +1,6 @@
 
 # Augustini *Confessiones*
-The *Confessiones* are a prose work in 13 books by Augustine of Hippo written in the 4th century AD. It contains autobiographical narrative and meditations on religious matters, which become prevalent in the last books (X-XIII). The resource comprises the Latin text from [The Latin Library](https://www.thelatinlibrary.com/)  enhanced with morphological annotation.
+The *Confessiones* are a prose work in 13 books by Augustine of Hippo written in the 4th century AD. It contains autobiographical narrative and meditations on religious matters, which become prevalent in the last books (X-XIII). The digital text is taken from [The Latin Library](http://www.thelatinlibrary.com/august.html). The original text was lemmatized and PoS tagged with the UDPipe tool, using an in-house built trained model based on different UD Latin treebanks. The output of UDPipe was then checked manually at the CIRCSE Research Centre of the Università Cattolica del Sacro Cuore, Milan, Italy. The linking of the text to the Lemma Bank of the LiLa Knowledge Base was performed at CIRCSE, too.
 
 
 # Comments
